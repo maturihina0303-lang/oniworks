@@ -199,9 +199,8 @@
       const keys = ["ideas", "movies", "kinro", "games", "topics"];
       const results = await Promise.all(keys.map((k) => window.OniData.load(k)));
       keys.forEach((k, i) => (store[k] = results[i]));
-      const src = window.OniData.useSupabase ? "Supabase(自動更新)" : "ローカルサンプル";
-      status.textContent = `データ元: ${src}`;
-      status.classList.toggle("sample", !window.OniData.useSupabase);
+      const src = window.OniData.useSupabase ? "Supabase(自動更新)" : "毎日自動更新";
+      status.textContent = src;
     } catch (e) {
       status.textContent = "データ読み込みエラー: " + e.message;
       console.error(e);
