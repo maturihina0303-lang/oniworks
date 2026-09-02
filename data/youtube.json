@@ -1,12 +1,306 @@
 {
-  "_note": "サンプルデータ。YouTube Data API v3（急上昇×日本×ゲーム）で自動取得予定。",
+  "_note": "自動生成",
   "updated_at": "2026-09-02",
   "items": [
-    { "id": "yt-s1", "title": "【マイクラ】新MODで最強の鬼ごっこしたら大混乱www", "channel": "ゲーム実況チャンネル", "url": "https://www.youtube.com/results?search_query=マインクラフト+鬼ごっこ", "thumbnail": "", "views": "128万回", "published": "2026-08-30", "source": "YouTube(sample)" },
-    { "id": "yt-s2", "title": "スプラトゥーン4 最速プレイ！新ブキが強すぎた", "channel": "スプラ実況者", "url": "https://www.youtube.com/results?search_query=スプラトゥーン4", "thumbnail": "", "views": "94万回", "published": "2026-09-01", "source": "YouTube(sample)" },
-    { "id": "yt-s3", "title": "【Roblox】DOORSの新モンスターから逃げ切れ！", "channel": "ロブロックス実況", "url": "https://www.youtube.com/results?search_query=roblox+doors", "thumbnail": "", "views": "76万回", "published": "2026-08-28", "source": "YouTube(sample)" },
-    { "id": "yt-s4", "title": "フォートナイト新シーズンでビクロイ量産する方法", "channel": "FPS大好き", "url": "https://www.youtube.com/results?search_query=フォートナイト", "thumbnail": "", "views": "210万回", "published": "2026-08-25", "source": "YouTube(sample)" },
-    { "id": "yt-s5", "title": "ポケモンレジェンズ Z-A 発売前情報まとめ！", "channel": "ポケモン考察", "url": "https://www.youtube.com/results?search_query=ポケモンレジェンズ+ZA", "thumbnail": "", "views": "63万回", "published": "2026-08-27", "source": "YouTube(sample)" },
-    { "id": "yt-s6", "title": "【ホラー】学校であった怖い話を実況したら泣いた", "channel": "ホラーゲーム部", "url": "https://www.youtube.com/results?search_query=学校であった怖い話", "thumbnail": "", "views": "41万回", "published": "2026-08-31", "source": "YouTube(sample)" }
+    {
+      "id": "yt-4-TyAmHuxGY",
+      "title": "「ストリートファイターリーグ JAPAN 2026」Division S 第2節　☆☆18時40分より初心者必見！SFリーグ: ウォームアップ☆☆",
+      "channel": "Capcom Fighters JP",
+      "url": "https://www.youtube.com/watch?v=4-TyAmHuxGY",
+      "thumbnail": "https://i.ytimg.com/vi/4-TyAmHuxGY/maxresdefault.jpg",
+      "views": "119万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-JvPPrI1z8UI",
+      "title": "加藤純一のポケットモンスター シャイニングパール 実況プレイPart1",
+      "channel": "加藤純一【jun channel】",
+      "url": "https://www.youtube.com/watch?v=JvPPrI1z8UI",
+      "thumbnail": "https://i.ytimg.com/vi/JvPPrI1z8UI/maxresdefault.jpg",
+      "views": "18万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-BOdxJGF3So4",
+      "title": "【SFL 第2節】IBUSHIGIN戦で窮地に陥るCR...。大将かずのこが流れを変える!!【かずのこ/ボンちゃん/どぐら/シュート】【立川/CR/スト6/切り抜き】",
+      "channel": "立川ちゃんねる",
+      "url": "https://www.youtube.com/watch?v=BOdxJGF3So4",
+      "thumbnail": "https://i.ytimg.com/vi/BOdxJGF3So4/maxresdefault.jpg",
+      "views": "22万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-ySvV81W9vWc",
+      "title": "【ガチ勝負】45分でMOBを倒しまくれ！討伐対決！【マイクラ】",
+      "channel": "ドズル社",
+      "url": "https://www.youtube.com/watch?v=ySvV81W9vWc",
+      "thumbnail": "https://i.ytimg.com/vi/ySvV81W9vWc/maxresdefault.jpg",
+      "views": "32万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-W6npfxW0Kng",
+      "title": "釈迦のキャラコンに翻弄されるういママ達に爆笑、絵が上手すぎる本職に驚愕、キャラコンに苦戦したりぶいすぽオーディションを受けようとするういママに爆笑するひなーの【めっちゃカメレオン/橘ひなの/ぶいすぽ】",
+      "channel": "ぶいすぽ倉庫",
+      "url": "https://www.youtube.com/watch?v=W6npfxW0Kng",
+      "thumbnail": "https://i.ytimg.com/vi/W6npfxW0Kng/maxresdefault.jpg",
+      "views": "41万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-b4NNTio-LDo",
+      "title": "【ストリートファイターリーグ JAPAN 2026】Div.S 第2節ミラー&インタビュー配信👊【ぶいすぽっ！/神成きゅぴ】",
+      "channel": "神成きゅぴ / Kaminari Qpi",
+      "url": "https://www.youtube.com/watch?v=b4NNTio-LDo",
+      "thumbnail": "https://i.ytimg.com/vi/b4NNTio-LDo/maxresdefault.jpg",
+      "views": "33万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-Xpz2Ttt7xHY",
+      "title": "ただでさえ難しい『青鬼』を15倍速でプレイしてみた無職",
+      "channel": "GON",
+      "url": "https://www.youtube.com/watch?v=Xpz2Ttt7xHY",
+      "thumbnail": "https://i.ytimg.com/vi/Xpz2Ttt7xHY/maxresdefault.jpg",
+      "views": "35万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt--FnjpVIKJUM",
+      "title": "【衝撃】新ルール発表！ポケモン世界大会で\"Zメガシンカ特性\"情報解禁キタァアアアア！！！！！！！",
+      "channel": "今日ポケch.",
+      "url": "https://www.youtube.com/watch?v=-FnjpVIKJUM",
+      "thumbnail": "https://i.ytimg.com/vi/-FnjpVIKJUM/maxresdefault.jpg",
+      "views": "57万回",
+      "published": "2026-08-31",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-Kanu_oKgSek",
+      "title": "とある新作、自主エ●規制が強くてファンが不安の中「乳首は見えますか？」と質問したら「ご覧になれます」回答/State of Playが開催決定も宇宙禿がぶっ叩かれる/switch2のエルデ紹介が話題に",
+      "channel": "キャベツの人【ゲーム紹介】",
+      "url": "https://www.youtube.com/watch?v=Kanu_oKgSek",
+      "thumbnail": "https://i.ytimg.com/vi/Kanu_oKgSek/maxresdefault.jpg",
+      "views": "22万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-git5b8w2P1M",
+      "title": "【DAY7】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】",
+      "channel": "Subaru Ch. 大空スバル",
+      "url": "https://www.youtube.com/watch?v=git5b8w2P1M",
+      "thumbnail": "https://i.ytimg.com/vi/git5b8w2P1M/maxresdefault.jpg",
+      "views": "42万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-OL2Yz8ouOT0",
+      "title": "【 #ロゼキャンARK 】🦖 企画説明会＆参加メンバー発表～！🦖",
+      "channel": "アキロゼCh。Vtuber/ホロライブ所属",
+      "url": "https://www.youtube.com/watch?v=OL2Yz8ouOT0",
+      "thumbnail": "https://i.ytimg.com/vi/OL2Yz8ouOT0/maxresdefault.jpg",
+      "views": "35万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-78Z6l559b5w",
+      "title": "【How to Fish】2日で100万本売れたバズってるおバカ釣りゲーやる！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel": "Pekora Ch. 兎田ぺこら",
+      "url": "https://www.youtube.com/watch?v=78Z6l559b5w",
+      "thumbnail": "https://i.ytimg.com/vi/78Z6l559b5w/maxresdefault.jpg",
+      "views": "45万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-g4UYuqVnio8",
+      "title": "コロプラの社運をかけた対戦ゲームがサービス終了。売上を見たら超苦労してた件【フェスバ+/フェスティバトル】",
+      "channel": "ナカイドのゲーム情報チャンネル",
+      "url": "https://www.youtube.com/watch?v=g4UYuqVnio8",
+      "thumbnail": "https://i.ytimg.com/vi/g4UYuqVnio8/maxresdefault.jpg",
+      "views": "28万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-6CQjP8Py_I8",
+      "title": "【マリメ2】スナイプブロック作戦で勝率が上がるもエリート帯の純粋な力に気圧される布団ちゃん【2026/9/1】",
+      "channel": "布団ちゃん切り抜きMAX",
+      "url": "https://www.youtube.com/watch?v=6CQjP8Py_I8",
+      "thumbnail": "https://i.ytimg.com/vi/6CQjP8Py_I8/maxresdefault.jpg",
+      "views": "10万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-MwWipWY_gWU",
+      "title": "コメントのみんなに教えてもらいながら初めての交配にチャレンジするk4senたち【ARK: Survival Ascended】",
+      "channel": "k4sen / かせん",
+      "url": "https://www.youtube.com/watch?v=MwWipWY_gWU",
+      "thumbnail": "https://i.ytimg.com/vi/MwWipWY_gWU/maxresdefault.jpg",
+      "views": "25万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-_M7AELqLXF8",
+      "title": "メガルカリオ\"Ｚ\"解禁←完全新特性「はどうのぼうご」←！？！？！？",
+      "channel": "ライバロリ",
+      "url": "https://www.youtube.com/watch?v=_M7AELqLXF8",
+      "thumbnail": "https://i.ytimg.com/vi/_M7AELqLXF8/maxresdefault.jpg",
+      "views": "27万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-QBOCSYurycg",
+      "title": "【総集編/２視点】過去１編集に時間を費やした切り抜きｗｗｗ【叶/にじさんじ切り抜き/ストグラ切り抜き/無馬かな/真島ルイ/魔光リサ/種編】",
+      "channel": "白瀬",
+      "url": "https://www.youtube.com/watch?v=QBOCSYurycg",
+      "thumbnail": "https://i.ytimg.com/vi/QBOCSYurycg/maxresdefault.jpg",
+      "views": "6万回",
+      "published": "2026-09-02",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-ocEQ3rTGtJ4",
+      "title": "超性能すぎる次世代の恐竜『アクロカントサウルス』をテイムせよ！【ARKリメイク/ラグナロクマップ】#14",
+      "channel": "よしなま",
+      "url": "https://www.youtube.com/watch?v=ocEQ3rTGtJ4",
+      "thumbnail": "https://i.ytimg.com/vi/ocEQ3rTGtJ4/sddefault.jpg",
+      "views": "12万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-EhQmOmZ9YfE",
+      "title": "【ホロ7DTD】車を爆破させたところをフブトワに見られ、最悪な空気になってしまう瞬間www【ホロライブ切り抜き/大空スバル/白上フブキ/夏色まつり/常闇トワ/響咲リオナ】",
+      "channel": "ホロライブ日記",
+      "url": "https://www.youtube.com/watch?v=EhQmOmZ9YfE",
+      "thumbnail": "https://i.ytimg.com/vi/EhQmOmZ9YfE/maxresdefault.jpg",
+      "views": "22万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt--PAX2hoy33g",
+      "title": "【スト6】たかしビッグブレイン化計画【麺屋】",
+      "channel": "Kuzuha Channel",
+      "url": "https://www.youtube.com/watch?v=-PAX2hoy33g",
+      "thumbnail": "https://i.ytimg.com/vi/-PAX2hoy33g/maxresdefault.jpg",
+      "views": "75万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-_t6bri4oSd4",
+      "title": "絶対デマの様な浮遊バグ情報がリスナーから提供され、試してみたらガチで意味不明だった件【スト6・カワノ】",
+      "channel": "カワノKawano",
+      "url": "https://www.youtube.com/watch?v=_t6bri4oSd4",
+      "thumbnail": "https://i.ytimg.com/vi/_t6bri4oSd4/maxresdefault.jpg",
+      "views": "36万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-MCGpNvRW-7M",
+      "title": "【Crabmeat】ホラー、希少なサザンタラバガニを捕獲【弟者】",
+      "channel": "兄者弟者",
+      "url": "https://www.youtube.com/watch?v=MCGpNvRW-7M",
+      "thumbnail": "https://i.ytimg.com/vi/MCGpNvRW-7M/maxresdefault.jpg",
+      "views": "28万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-d-KoZqq5jOI",
+      "title": "【八雲べに】3つ目のアレルギーが発覚して衝撃を受けるありさかに爆笑するべにｗｗ【ありさか、獅子堂あかり、タルコフ、ぶいすぽっ！】",
+      "channel": "ぶいすぽ生活PLUS",
+      "url": "https://www.youtube.com/watch?v=d-KoZqq5jOI",
+      "thumbnail": "https://i.ytimg.com/vi/d-KoZqq5jOI/maxresdefault.jpg",
+      "views": "6万回",
+      "published": "2026-09-02",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-OTfHM8RwCMI",
+      "title": "9月13日マタギスナイパーズと対戦が決まった件【2026/09/01】",
+      "channel": "加藤純一切り抜き集",
+      "url": "https://www.youtube.com/watch?v=OTfHM8RwCMI",
+      "thumbnail": "https://i.ytimg.com/vi/OTfHM8RwCMI/sddefault.jpg",
+      "views": "30万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-yNK8hoRM5ak",
+      "title": "【 DAY7 】#ホロ7大豆劇場 ‼️コンクリート時代！砂漠～～‼️【常闇トワ/ホロライブ】",
+      "channel": "Towa Ch. 常闇トワ",
+      "url": "https://www.youtube.com/watch?v=yNK8hoRM5ak",
+      "thumbnail": "https://i.ytimg.com/vi/yNK8hoRM5ak/maxresdefault.jpg",
+      "views": "35万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-UugMqvpMCx4",
+      "title": "アグレッシブ106大然とファーストディフェンダー×4でガンプレしたら絶対事故らせれる説【eFootball2027アプリ】",
+      "channel": "令和ちゃんねる",
+      "url": "https://www.youtube.com/watch?v=UugMqvpMCx4",
+      "thumbnail": "https://i.ytimg.com/vi/UugMqvpMCx4/maxresdefault.jpg",
+      "views": "15万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-XcuLxp-MJeY",
+      "title": "加藤純一の球ひろいSimulatorダイジェスト【2026/08/31】",
+      "channel": "加藤純一ロードショー",
+      "url": "https://www.youtube.com/watch?v=XcuLxp-MJeY",
+      "thumbnail": "https://i.ytimg.com/vi/XcuLxp-MJeY/maxresdefault.jpg",
+      "views": "46万回",
+      "published": "2026-08-31",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-g13gBwa4pok",
+      "title": "警察につかまるな！電車鬼ごっこ【マインクラフト】",
+      "channel": "カラフルピーチ",
+      "url": "https://www.youtube.com/watch?v=g13gBwa4pok",
+      "thumbnail": "https://i.ytimg.com/vi/g13gBwa4pok/maxresdefault.jpg",
+      "views": "74万回",
+      "published": "2026-08-31",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-mP8tLCN1hoU",
+      "title": "改造されたチェストが作れる世界でサバイバル【マインクラフト】",
+      "channel": "ぴくとはうす",
+      "url": "https://www.youtube.com/watch?v=mP8tLCN1hoU",
+      "thumbnail": "https://i.ytimg.com/vi/mP8tLCN1hoU/maxresdefault.jpg",
+      "views": "13万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    },
+    {
+      "id": "yt-Q5j2HpscHW0",
+      "title": "【モンスト】今回のコラボはミッション関連が複雑！仕様を理解して効率良く進めよう！『ラブライブへの道』コンテンツの進め方・楽曲の仕様＆注意点・μ'sコインの集め方・最終的なゴールについて解説！【しろ】",
+      "channel": "しろ",
+      "url": "https://www.youtube.com/watch?v=Q5j2HpscHW0",
+      "thumbnail": "https://i.ytimg.com/vi/Q5j2HpscHW0/maxresdefault.jpg",
+      "views": "12万回",
+      "published": "2026-09-01",
+      "source": "YouTube"
+    }
   ]
 }
