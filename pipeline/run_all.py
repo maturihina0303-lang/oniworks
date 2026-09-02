@@ -14,7 +14,7 @@ STEPS = [
     ("fetch_minecraft", None),
     ("fetch_kinro", None),
     ("push_curated", None),
-    ("generate_ideas", "ANTHROPIC_API_KEY"),  # 最後：他データを元に生成
+    ("generate_ideas", None),  # 最後：他データを元に企画ネタ生成（AI不使用）
 ]
 
 
