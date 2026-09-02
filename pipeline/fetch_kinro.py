@@ -9,6 +9,7 @@ import common as C
 
 URL = "https://kinro.ntv.co.jp/lineup"
 PAT = re.compile(
+    r'<img src="([^"]+)"[^>]*/>\s*</a>\s*</div>\s*<div class="cap">\s*'
     r'<div class="date">\s*(20\d\d)\.(\d{1,2})\.(\d{1,2})\s*放送\s*</div>\s*'
     r'<div class="title">\s*<a[^>]*>([^<]+)</a>',
     re.S,
@@ -25,7 +26,7 @@ def fetch_html(url):
 def main():
     html = fetch_html(URL)
     seen, rows = set(), []
-    for y, m, d, title in PAT.findall(html):
+    for img, y, m, d, title in PAT.findall(html):
         date = f"{y}-{int(m):02d}-{int(d):02d}"
         title = title.strip()
         key = (date, title)
@@ -37,6 +38,7 @@ def main():
             "air_date": date,
             "title": title,
             "note": "金曜ロードショー",
+            "image": img.strip(),
             "source": "kinro.ntv.co.jp",
         })
     rows.sort(key=lambda r: r["air_date"])

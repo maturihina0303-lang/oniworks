@@ -13,12 +13,18 @@ BASE = "https://www.famitsu.com/schedule/all-platforms/"
 
 HDR = re.compile(
     r'ScheduleList_listTitle__[^"]*">(\d{4})年(\d{1,2})月(\d{1,2})日（.）発売</h2>')
-CARD = re.compile(
-    r'href="/game/title/(\d+)[^"]*".*?'
-    r'gamePlatformTag__[^"]*">([^<]*)</span>'
-    r'<b class="ScheduleCard_gameTitleName__[^"]*">([^<]*)</b>'
-    r'(?:</h3><p>([^<]*円[^<]*)</p>)?',
-    re.S)
+RE_ID = re.compile(r'href="/game/title/(\d+)')
+RE_IMG = re.compile(r'image\.kagali\.kgl-systems\.io/item/(\d+)/([A-Za-z0-9]+)')
+RE_PLAT = re.compile(r'gamePlatformTag__[^"]*">([^<]*)</span>')
+RE_TITLE = re.compile(r'gameTitleName__[^"]*">([^<]*)</b>')
+RE_PRICE = re.compile(r'<p>([^<]*円[^<]*)</p>')
+
+
+def img_url(seg):
+    m = RE_IMG.search(seg)
+    if not m:
+        return ""
+    return f"https://image.kagali.kgl-systems.io/item/{m.group(1)}/{m.group(2)}?w=200&h=200&func=bound&q=80"
 
 
 def fetch_html(url):
@@ -45,15 +51,22 @@ def parse(page_html):
         y, mo, d = h.group(1), int(h.group(2)), int(h.group(3))
         date = f"{y}-{mo:02d}-{d:02d}"
         seg = page_html[h.end(): heads[i + 1].start() if i + 1 < len(heads) else len(page_html)]
-        for cid, plat, title, price in CARD.findall(seg):
+        # カード単位に分割（1ゲーム=1カード）
+        for chunk in seg.split('ScheduleCard_scheduleCard__')[1:]:
+            mid = RE_ID.search(chunk)
+            mt = RE_TITLE.search(chunk)
+            if not (mid and mt):
+                continue
+            mp = RE_PLAT.search(chunk)
+            mpr = RE_PRICE.search(chunk)
             out.append({
-                "id": f"fami-{cid}",
-                "title": html.unescape(title.strip()),
+                "id": f"fami-{mid.group(1)}",
+                "title": html.unescape(mt.group(1).strip()),
                 "release_date": date,
-                "platforms": [plat.strip()] if plat.strip() else [],
+                "platforms": [mp.group(1).strip()] if mp and mp.group(1).strip() else [],
                 "genre": [],
-                "price": html.unescape(price.strip()) if price else "",
-                "image": "",
+                "price": html.unescape(mpr.group(1).strip()) if mpr else "",
+                "image": img_url(chunk),
                 "source": "ファミ通",
             })
     return out

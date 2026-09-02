@@ -48,6 +48,22 @@
   function emptyMsg(text) {
     return `<div class="empty">${esc(text)}</div>`;
   }
+  function thumb(url, cls = "") {
+    return url ? `<img class="thumb ${cls}" src="${esc(url)}" alt="" loading="lazy" onerror="this.remove()">` : "";
+  }
+  function monthsOf(items, field) {
+    return [...new Set(items.filter((x) => inRange(x[field]))
+      .map((x) => String(x[field] || "").slice(0, 7)).filter(Boolean))].sort();
+  }
+  function monthSelect(id, items, field) {
+    const opts = ['<option value="all">すべての月</option>'].concat(
+      monthsOf(items, field).map((m) => {
+        const [y, mo] = m.split("-");
+        return `<option value="${m}">${y}年${+mo}月</option>`;
+      })).join("");
+    return `<select class="month-sel" id="${id}">${opts}</select>`;
+  }
+  const matchMonth = (val, month) => month === "all" || String(val || "").startsWith(month);
 
   // ---------- 各セクション ----------
   function renderIdeas(mount) {
@@ -65,9 +81,10 @@
       </article>`).join("");
   }
 
-  function renderMovies(mount, filter) {
+  function renderMovies(mount, status, month) {
     let items = (store.movies?.items || []).filter((x) => inRange(x.release_date));
-    if (filter && filter !== "all") items = items.filter((x) => x.status === filter);
+    if (status && status !== "all") items = items.filter((x) => x.status === status);
+    if (month) items = items.filter((x) => matchMonth(x.release_date, month));
     items.sort((a, b) => (parseDate(a.release_date) || 0) - (parseDate(b.release_date) || 0));
     if (!items.length) return (mount.innerHTML = emptyMsg("該当する映画がありません。"));
     mount.innerHTML = items.map((it) => `
@@ -76,6 +93,7 @@
           <div class="d">${fmtDate(it.release_date)}</div>
           <div class="rel">${relLabel(it.release_date)}</div>
         </div>
+        ${thumb(it.poster, "tall")}
         <div class="main-col">
           <div class="title-line">
             <h3>${esc(it.title)}</h3>
@@ -87,8 +105,9 @@
       </article>`).join("");
   }
 
-  function renderKinro(mount) {
+  function renderKinro(mount, month) {
     let items = (store.kinro?.items || []).filter((x) => inRange(x.air_date));
+    if (month) items = items.filter((x) => matchMonth(x.air_date, month));
     items.sort((a, b) => (parseDate(a.air_date) || 0) - (parseDate(b.air_date) || 0));
     if (!items.length) return (mount.innerHTML = emptyMsg("放送予定がありません。"));
     mount.innerHTML = items.map((it) => {
@@ -99,6 +118,7 @@
           <div class="d">${fmtDate(it.air_date)}</div>
           <div class="rel">${relLabel(it.air_date)}</div>
         </div>
+        ${thumb(it.image, "tall")}
         <div class="main-col">
           <div class="title-line"><h3>${esc(it.title)}</h3>${it.note ? badge(it.note) : ""}</div>
         </div>
@@ -106,8 +126,9 @@
     }).join("");
   }
 
-  function renderGames(mount) {
+  function renderGames(mount, month) {
     let items = (store.games?.items || []).filter((x) => inRange(x.release_date));
+    if (month) items = items.filter((x) => matchMonth(x.release_date, month));
     items.sort((a, b) => (parseDate(a.release_date) || 0) - (parseDate(b.release_date) || 0));
     if (!items.length) return (mount.innerHTML = emptyMsg("該当するゲームがありません。"));
     mount.innerHTML = items.map((it) => `
@@ -116,6 +137,7 @@
           <div class="d">${fmtDate(it.release_date)}</div>
           <div class="rel">${relLabel(it.release_date)}</div>
         </div>
+        ${thumb(it.image)}
         <div class="main-col">
           <div class="title-line"><h3>${esc(it.title)}</h3>${it.price ? badge(it.price, "metric") : ""}</div>
           <div class="chips">${chipList(it.platforms, "platform")}${chipList(it.genre, "genre")}</div>
@@ -129,12 +151,15 @@
     if (!items.length) return (mount.innerHTML = emptyMsg("トピックがありません。"));
     mount.innerHTML = items.map((it) => `
       <article class="card topic">
-        <div class="title-line">
-          <h3>${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a>` : esc(it.name)}</h3>
-          ${it.type ? badge(it.type) : ""}
+        ${thumb(it.image)}
+        <div class="tcontent">
+          <div class="title-line">
+            <h3>${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a>` : esc(it.name)}</h3>
+            ${it.type ? badge(it.type) : ""}
+          </div>
+          <div class="meta">${it.metric ? badge(it.metric, "metric") : ""}${it.updated ? `<span class="upd">更新 ${fmtDate(it.updated)}</span>` : ""}</div>
+          <p class="body">${esc(it.description || "")}</p>
         </div>
-        <div class="meta">${it.metric ? badge(it.metric, "metric") : ""}${it.updated ? `<span class="upd">更新 ${fmtDate(it.updated)}</span>` : ""}</div>
-        <p class="body">${esc(it.description || "")}</p>
       </article>`).join("");
   }
 
@@ -145,30 +170,45 @@
       renderIdeas($("#ideas-list", mount));
     },
     movies: (mount) => {
+      const movies = store.movies?.items || [];
       mount.innerHTML = `
         <div class="section-head"><h2>🎬 公開中・公開予定の映画</h2><p class="sub">追いかけっこ・逃走系の元ネタ探しに</p></div>
-        <div class="tabs" data-tabs="movies">
-          <button class="tab active" data-f="all">すべて</button>
-          <button class="tab" data-f="now">公開中</button>
-          <button class="tab" data-f="upcoming">公開予定</button>
+        <div class="controls">
+          <div class="tabs" data-tabs="movies">
+            <button class="tab active" data-f="all">すべて</button>
+            <button class="tab" data-f="now">公開中</button>
+            <button class="tab" data-f="upcoming">公開予定</button>
+          </div>
+          ${monthSelect("movies-month", movies, "release_date")}
         </div>
         <div id="movies-list" class="list"></div>`;
-      renderMovies($("#movies-list", mount), "all");
+      const state = { status: "all", month: "all" };
+      const draw = () => renderMovies($("#movies-list", mount), state.status, state.month);
+      draw();
       $$('[data-tabs="movies"] .tab', mount).forEach((b) =>
         b.addEventListener("click", () => {
           $$('[data-tabs="movies"] .tab', mount).forEach((x) => x.classList.remove("active"));
           b.classList.add("active");
-          renderMovies($("#movies-list", mount), b.dataset.f);
-        })
-      );
+          state.status = b.dataset.f;
+          draw();
+        }));
+      $("#movies-month", mount).addEventListener("change", (e) => { state.month = e.target.value; draw(); });
     },
     kinro: (mount) => {
-      mount.innerHTML = `<div class="section-head"><h2>📺 金曜ロードショー 放送予定</h2><p class="sub">放送日に合わせた投稿でバズを狙う</p></div><div id="kinro-list" class="list"></div>`;
-      renderKinro($("#kinro-list", mount));
+      const items = store.kinro?.items || [];
+      mount.innerHTML = `<div class="section-head"><h2>📺 金曜ロードショー 放送予定</h2><p class="sub">放送日に合わせた投稿でバズを狙う</p></div>
+        <div class="controls">${monthSelect("kinro-month", items, "air_date")}</div>
+        <div id="kinro-list" class="list"></div>`;
+      renderKinro($("#kinro-list", mount), "all");
+      $("#kinro-month", mount).addEventListener("change", (e) => renderKinro($("#kinro-list", mount), e.target.value));
     },
     games: (mount) => {
-      mount.innerHTML = `<div class="section-head"><h2>🎮 ゲーム発売日</h2><p class="sub">話題のゲームに便乗した企画に</p></div><div id="games-list" class="list"></div>`;
-      renderGames($("#games-list", mount));
+      const items = store.games?.items || [];
+      mount.innerHTML = `<div class="section-head"><h2>🎮 ゲーム発売日</h2><p class="sub">話題のゲームに便乗した企画に</p></div>
+        <div class="controls">${monthSelect("games-month", items, "release_date")}</div>
+        <div id="games-list" class="list"></div>`;
+      renderGames($("#games-list", mount), "all");
+      $("#games-month", mount).addEventListener("change", (e) => renderGames($("#games-list", mount), e.target.value));
     },
     minecraft: (mount) => {
       mount.innerHTML = `<div class="section-head"><h2>⛏️ Minecraft トレンド</h2><p class="sub">流行りのMOD・キャラでステージ作り</p></div><div id="mc-list" class="grid"></div>`;

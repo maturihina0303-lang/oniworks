@@ -36,6 +36,7 @@ def to_row(h):
         "metric": metric,
         "updated": (h.get("date_modified") or "")[:10] or None,
         "description": (h.get("description") or "")[:120],
+        "image": h.get("icon_url") or "",
         "source": "Modrinth",
     }
 
