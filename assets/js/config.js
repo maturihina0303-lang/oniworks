@@ -8,5 +8,5 @@ window.ONIWORKS_CONFIG = {
   SUPABASE_ANON_KEY: "",  // 例: eyJhbGciOi...
   // 表示する期間（今日から前後 何日ぶんを対象にするか）
   RANGE_DAYS_BACK: 100,
-  RANGE_DAYS_FORWARD: 100
+  RANGE_DAYS_FORWARD: 150
 };
