@@ -91,7 +91,8 @@ img { max-width: 100%; }
 .thumb.tall { width: 54px; height: 78px; }
 .main-col { flex: 1; min-width: 0; }
 .title-line { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-.overview { color: var(--muted); font-size: 13px; margin: 6px 0 0; }
+.overview { color: var(--muted); font-size: 13px; margin: 6px 0 0;
+  display: -webkit-box; -webkit-line-clamp: 3; line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
 /* アイデアカード */
 .idea { border-left: 4px solid var(--oni); }
@@ -131,8 +132,12 @@ img { max-width: 100%; }
   .nav-item { flex: 0 0 auto; }
   .nav-item span.label { display: none; }
   .nav-item .ic { font-size: 22px; }
-  .card.row { flex-wrap: wrap; }
-  .date-col { flex-direction: row; gap: 8px; flex: 0 0 auto; justify-content: flex-start; align-items: baseline; }
+  .card.row { gap: 10px; padding: 12px; }
+  .date-col { flex: 0 0 52px; }
+  .date-col .d { font-size: 15px; }
+  .thumb { width: 46px; height: 46px; }
+  .thumb.tall { width: 40px; height: 58px; }
+  .card h3 { font-size: 15px; }
   .logo .tag { display: none; }
   .logo h1 { font-size: 19px; white-space: nowrap; }
   .header { padding: 12px 14px; gap: 8px; }
