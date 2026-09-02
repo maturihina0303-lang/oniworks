@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>サムネのダウンロード｜オニWorks</title>
+  <style>
+    body { margin:0; background:#181113; color:#f4ece8; font-family:"Hiragino Maru Gothic ProN","Yu Gothic","Meiryo",system-ui,sans-serif; line-height:1.7; }
+    .wrap { max-width:760px; margin:32px auto; padding:0 16px; text-align:center; }
+    h1 { font-size:22px; margin:0 0 6px; } h1 b{ color:#f47c43; }
+    p.sub { color:#b7a49c; font-size:14px; margin:0 0 20px; }
+    .preview { width:100%; border-radius:14px; box-shadow:0 8px 30px rgba(0,0,0,.4); background:#120d0c; }
+    .btns { display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin:22px 0 8px; }
+    button { font-size:16px; font-weight:700; font-family:inherit; padding:14px 22px; border:0; border-radius:12px; background:#f47c43; color:#fff; cursor:pointer; }
+    button.alt { background:#2c2320; color:#ffd9c2; border:1px solid #4a3e39; }
+    button:hover { filter:brightness(1.08); }
+    .note { color:#8f7d73; font-size:13px; margin-top:10px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>オニ<b>Works</b> サムネ ダウンロード</h1>
+    <p class="sub">下のボタンを押すとPNG画像が保存されます（スマホは長押しで保存できる場合もあります）。</p>
+    <img id="preview" class="preview" alt="オニWorks サムネ">
+    <div class="btns">
+      <button id="dl1">PNGをダウンロード（1280×720）</button>
+      <button id="dl2" class="alt">大きいPNG（2560×1440）</button>
+    </div>
+    <p class="note" id="note">読み込み中…</p>
+  </div>
+
+  <script>
+    let svgText = "";
+    const note = document.getElementById("note");
+    async function load(){
+      try {
+        const res = await fetch("assets/oniworks-thumb.svg");
+        svgText = await res.text();
+        const dataUrl = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgText);
+        document.getElementById("preview").src = dataUrl;
+        note.textContent = "準備OK。ボタンを押してください。";
+      } catch (e) { note.textContent = "画像の読み込みに失敗しました: " + e; }
+    }
+    function render(scale){
+      return new Promise((resolve, reject) => {
+        const img = new Image();
+        img.onload = () => {
+          const c = document.createElement("canvas");
+          c.width = 1280 * scale; c.height = 720 * scale;
+          const ctx = c.getContext("2d");
+          ctx.fillStyle = "#120d0c"; ctx.fillRect(0,0,c.width,c.height);
+          ctx.drawImage(img, 0, 0, c.width, c.height);
+          c.toBlob((b) => b ? resolve(b) : reject("blob失敗"), "image/png");
+        };
+        img.onerror = () => reject("描画失敗");
+        img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgText);
+      });
+    }
+    async function download(scale){
+      note.textContent = "生成中…";
+      try {
+        const blob = await render(scale);
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = "oniworks-thumb" + (scale>1 ? "-2x" : "") + ".png";
+        document.body.appendChild(a); a.click(); a.remove();
+        setTimeout(()=>URL.revokeObjectURL(a.href), 4000);
+        note.textContent = "ダウンロードしました！（保存先フォルダをご確認ください）";
+      } catch (e) { note.textContent = "失敗: " + e; }
+    }
+    document.getElementById("dl1").addEventListener("click", ()=>download(1));
+    document.getElementById("dl2").addEventListener("click", ()=>download(2));
+    load();
+  </script>
+</body>
+</html>
