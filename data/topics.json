@@ -3,50 +3,6 @@
   "updated_at": "2026-09-02",
   "items": [
     {
-      "id": "rb-doors",
-      "category": "roblox",
-      "name": "DOORS（ドアーズ）",
-      "type": "ゲーム/キャラ",
-      "url": "https://www.roblox.com/games/6516141723",
-      "metric": "定番人気",
-      "updated": "2026-08-25",
-      "description": "モンスター『Rush』『Ambush』から逃げるホラー脱出。鬼役キャラが豊富。",
-      "source": "手動"
-    },
-    {
-      "id": "rb-forsaken",
-      "category": "roblox",
-      "name": "Forsaken（フォーセイクン）",
-      "type": "ゲーム",
-      "url": "https://www.roblox.com",
-      "metric": "トレンド",
-      "updated": "2026-09-01",
-      "description": "1人の鬼 vs 生存者の非対称鬼ごっこ。キラー多数。",
-      "source": "手動"
-    },
-    {
-      "id": "mm-brainrot",
-      "category": "meme",
-      "name": "イタリアンブレインロット",
-      "type": "ミーム",
-      "url": "",
-      "metric": "SNS急上昇",
-      "updated": "2026-08-18",
-      "description": "変な合成キャラ達。鬼のコスプレ/効果音ネタに。",
-      "source": "手動"
-    },
-    {
-      "id": "mm-skibidi",
-      "category": "meme",
-      "name": "スキビディトイレ",
-      "type": "ミーム",
-      "url": "",
-      "metric": "定番人気",
-      "updated": "2026-08-10",
-      "description": "トイレ頭キャラ。鬼役の見た目ネタとして鉄板。",
-      "source": "手動"
-    },
-    {
       "id": "modrinth-2cMuAZAp",
       "category": "minecraft",
       "name": "Alex's Mobs",
@@ -405,6 +361,50 @@
       "description": "Dive into the eerie and mysterious world of the Backrooms with our new mod and map ( currently in development 👀 ). Join ",
       "image": "https://cdn.modrinth.com/data/tIbKXIj1/95ba32dddb04b99eb408e42b460f248b3ab5e285_96.webp",
       "source": "Modrinth"
+    },
+    {
+      "id": "rb-doors",
+      "category": "roblox",
+      "name": "DOORS（ドアーズ）",
+      "type": "ゲーム/キャラ",
+      "url": "https://www.roblox.com/games/6516141723",
+      "metric": "定番人気",
+      "updated": "2026-08-25",
+      "description": "モンスター『Rush』『Ambush』から逃げるホラー脱出。鬼役キャラが豊富。",
+      "source": "手動"
+    },
+    {
+      "id": "rb-forsaken",
+      "category": "roblox",
+      "name": "Forsaken（フォーセイクン）",
+      "type": "ゲーム",
+      "url": "https://www.roblox.com",
+      "metric": "トレンド",
+      "updated": "2026-09-01",
+      "description": "1人の鬼 vs 生存者の非対称鬼ごっこ。キラー多数。",
+      "source": "手動"
+    },
+    {
+      "id": "mm-brainrot",
+      "category": "meme",
+      "name": "イタリアンブレインロット",
+      "type": "ミーム",
+      "url": "",
+      "metric": "SNS急上昇",
+      "updated": "2026-08-18",
+      "description": "変な合成キャラ達。鬼のコスプレ/効果音ネタに。",
+      "source": "手動"
+    },
+    {
+      "id": "mm-skibidi",
+      "category": "meme",
+      "name": "スキビディトイレ",
+      "type": "ミーム",
+      "url": "",
+      "metric": "定番人気",
+      "updated": "2026-08-10",
+      "description": "トイレ頭キャラ。鬼役の見た目ネタとして鉄板。",
+      "source": "手動"
     }
   ]
 }
