@@ -105,6 +105,7 @@ img { max-width: 100%; }
 .topic { display: flex; gap: 12px; }
 .topic .thumb { width: 52px; height: 52px; }
 .topic .tcontent { flex: 1; min-width: 0; }
+.topic .tsub { font-size: 12px; color: var(--muted); margin-top: 2px; }
 .topic .meta { display: flex; align-items: center; gap: 8px; margin-top: 8px; flex-wrap: wrap; }
 .topic .upd { font-size: 12px; color: var(--muted); }
 

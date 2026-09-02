@@ -5,6 +5,7 @@
 """
 import urllib.parse
 import common as C
+import translate
 
 API = "https://api.modrinth.com/v2/search"
 
@@ -27,15 +28,19 @@ def to_row(h):
     dl = h.get("downloads", 0)
     metric = f"DL {dl/1_000_000:.1f}M" if dl >= 1_000_000 else f"DL {dl/1000:.0f}K"
     slug = h.get("slug") or h.get("project_id")
+    name = (h.get("title") or "").strip()
+    desc = (h.get("description") or "").strip()
     return {
         "id": f"modrinth-{h.get('project_id')}",
         "category": "minecraft",
-        "name": h.get("title"),
+        "name": name,                      # 原題（Modrinthの識別名）
+        "name_ja": translate.to_ja(name),  # 自動翻訳した日本語名
         "type": "MOD",
         "url": f"https://modrinth.com/mod/{slug}",
         "metric": metric,
+        "downloads": dl,                   # 並び替え用のDL数(数値)
         "updated": (h.get("date_modified") or "")[:10] or None,
-        "description": (h.get("description") or "")[:120],
+        "description": translate.to_ja(desc)[:180],  # 日本語訳の説明
         "image": h.get("icon_url") or "",
         "source": "Modrinth",
     }

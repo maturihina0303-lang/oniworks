@@ -151,22 +151,26 @@
       </article>`).join("");
   }
 
-  function renderTopics(mount, category) {
+  function renderTopics(mount, category, sort) {
     let items = (store.topics?.items || []).filter((x) => x.category === category);
-    items.sort((a, b) => (parseDate(b.updated) || 0) - (parseDate(a.updated) || 0));
+    if (sort === "downloads") items.sort((a, b) => (b.downloads || 0) - (a.downloads || 0));
+    else items.sort((a, b) => (parseDate(b.updated) || 0) - (parseDate(a.updated) || 0));
     if (!items.length) return (mount.innerHTML = emptyMsg("トピックがありません。"));
-    mount.innerHTML = items.map((it) => `
+    mount.innerHTML = items.map((it) => {
+      const jp = it.name_ja && it.name_ja !== it.name ? it.name_ja : it.name;
+      const head = it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(jp)}</a>` : esc(jp);
+      const sub = (it.name_ja && it.name_ja !== it.name) ? `<div class="tsub">${esc(it.name)}</div>` : "";
+      return `
       <article class="card topic">
         ${thumb(it.image)}
         <div class="tcontent">
-          <div class="title-line">
-            <h3>${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a>` : esc(it.name)}</h3>
-            ${it.type ? badge(it.type) : ""}
-          </div>
+          <div class="title-line"><h3>${head}</h3>${it.type ? badge(it.type) : ""}</div>
+          ${sub}
           <div class="meta">${it.metric ? badge(it.metric, "metric") : ""}${it.updated ? `<span class="upd">更新 ${fmtDate(it.updated)}</span>` : ""}</div>
           <p class="body">${esc(it.description || "")}</p>
         </div>
-      </article>`).join("");
+      </article>`;
+    }).join("");
   }
 
   function renderYoutube(mount) {
@@ -232,8 +236,21 @@
       $("#games-month", mount).addEventListener("change", (e) => renderGames($("#games-list", mount), e.target.value));
     },
     minecraft: (mount) => {
-      mount.innerHTML = `<div class="section-head"><h2>⛏️ Minecraft トレンド</h2><p class="sub">流行りのMOD・キャラでステージ作り</p></div><div id="mc-list" class="grid"></div>`;
-      renderTopics($("#mc-list", mount), "minecraft");
+      mount.innerHTML = `<div class="section-head"><h2>⛏️ Minecraft トレンド</h2><p class="sub">流行りのMOD・キャラでステージ作り（自動で日本語表示）</p></div>
+        <div class="controls">
+          <div class="tabs" data-tabs="mc">
+            <button class="tab active" data-s="updated">更新順</button>
+            <button class="tab" data-s="downloads">DL順</button>
+          </div>
+        </div>
+        <div id="mc-list" class="grid"></div>`;
+      renderTopics($("#mc-list", mount), "minecraft", "updated");
+      $$('[data-tabs="mc"] .tab', mount).forEach((b) =>
+        b.addEventListener("click", () => {
+          $$('[data-tabs="mc"] .tab', mount).forEach((x) => x.classList.remove("active"));
+          b.classList.add("active");
+          renderTopics($("#mc-list", mount), "minecraft", b.dataset.s);
+        }));
     },
     roblox: (mount) => {
       mount.innerHTML = `<div class="section-head"><h2>🟦 Roblox トレンド</h2><p class="sub">人気ゲーム・キャラを鬼ごっこに翻訳</p></div><div id="rb-list" class="grid"></div>`;
