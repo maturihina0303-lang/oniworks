@@ -1,0 +1,7 @@
+{
+  "_note": "Robloxの流行キャラ/ゲーム。信頼できるAPIが無いため手動で編集します。push_curated.py でSupabaseへ反映。",
+  "items": [
+    { "id": "rb-doors", "category": "roblox", "name": "DOORS（ドアーズ）", "type": "ゲーム/キャラ", "url": "https://www.roblox.com/games/6516141723", "metric": "定番人気", "updated": "2026-08-25", "description": "モンスター『Rush』『Ambush』から逃げるホラー脱出。鬼役キャラが豊富。", "source": "手動" },
+    { "id": "rb-forsaken", "category": "roblox", "name": "Forsaken（フォーセイクン）", "type": "ゲーム", "url": "https://www.roblox.com", "metric": "トレンド", "updated": "2026-09-01", "description": "1人の鬼 vs 生存者の非対称鬼ごっこ。キラー多数。", "source": "手動" }
+  ]
+}

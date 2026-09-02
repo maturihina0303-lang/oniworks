@@ -1,0 +1,27 @@
+{
+  "_note": "自動生成",
+  "updated_at": "2026-09-02",
+  "items": [
+    {
+      "id": "kinro-20260904",
+      "air_date": "2026-09-04",
+      "title": "タイタニック（前編）",
+      "note": "金曜ロードショー",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20260911",
+      "air_date": "2026-09-11",
+      "title": "タイタニック（後編）",
+      "note": "金曜ロードショー",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20260918",
+      "air_date": "2026-09-18",
+      "title": "ナイト ミュージアム",
+      "note": "金曜ロードショー",
+      "source": "kinro.ntv.co.jp"
+    }
+  ]
+}

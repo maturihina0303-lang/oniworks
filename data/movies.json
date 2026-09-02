@@ -1,0 +1,12 @@
+{
+  "_note": "サンプルデータ。Supabase接続後は自動更新されます。",
+  "updated_at": "2026-09-02",
+  "items": [
+    { "id": "m1", "title": "アクアマン3 ラスト・キングダム", "release_date": "2026-08-15", "status": "now", "genre": ["アクション", "SF"], "overview": "海底王国を舞台にした冒険活劇。追いかけっこ映えする水中バトルが満載。", "poster": "", "popularity": 92, "source": "TMDB(sample)" },
+    { "id": "m2", "title": "怪盗ミラー 影の街", "release_date": "2026-08-29", "status": "now", "genre": ["アクション", "サスペンス"], "overview": "神出鬼没の怪盗と警察の追走劇。", "poster": "", "popularity": 85, "source": "TMDB(sample)" },
+    { "id": "m3", "title": "ゾンビランド:ラストゲーム", "release_date": "2026-09-12", "status": "upcoming", "genre": ["ホラー", "コメディ"], "overview": "ゾンビから逃げ切れ。逃走系企画の宝庫。", "poster": "", "popularity": 88, "source": "TMDB(sample)" },
+    { "id": "m4", "title": "ドラゴンレース2026", "release_date": "2026-09-26", "status": "upcoming", "genre": ["ファンタジー", "アクション"], "overview": "ドラゴンに乗ったレース＆鬼ごっこ。", "poster": "", "popularity": 79, "source": "TMDB(sample)" },
+    { "id": "m5", "title": "ステルス・チェイス", "release_date": "2026-10-10", "status": "upcoming", "genre": ["アクション"], "overview": "隠れて逃げるスパイ映画。かくれんぼ系にぴったり。", "poster": "", "popularity": 74, "source": "TMDB(sample)" },
+    { "id": "m6", "title": "モンスターハウスの怪", "release_date": "2026-07-18", "status": "now", "genre": ["ホラー", "ファミリー"], "overview": "屋敷からの脱出。", "poster": "", "popularity": 70, "source": "TMDB(sample)" }
+  ]
+}

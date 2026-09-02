@@ -1,0 +1,7 @@
+{
+  "_note": "ネットミームの流行。手動で編集します。push_curated.py でSupabaseへ反映。",
+  "items": [
+    { "id": "mm-brainrot", "category": "meme", "name": "イタリアンブレインロット", "type": "ミーム", "url": "", "metric": "SNS急上昇", "updated": "2026-08-18", "description": "変な合成キャラ達。鬼のコスプレ/効果音ネタに。", "source": "手動" },
+    { "id": "mm-skibidi", "category": "meme", "name": "スキビディトイレ", "type": "ミーム", "url": "", "metric": "定番人気", "updated": "2026-08-10", "description": "トイレ頭キャラ。鬼役の見た目ネタとして鉄板。", "source": "手動" }
+  ]
+}

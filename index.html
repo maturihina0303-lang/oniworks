@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>オニWorks｜鬼ごっこネタ発掘サイト</title>
+  <meta name="description" content="ぷちぷちチャンネルの鬼ごっこ企画ネタを、映画・ゲーム・Minecraft・Roblox・ミームのトレンドから自動収集・提案するサイト">
+  <link rel="stylesheet" href="assets/css/style.css?v=1">
+</head>
+<body>
+  <header class="header">
+    <div class="logo">
+      <span class="mask">👹</span>
+      <h1>オニ<b>Works</b></h1>
+      <span class="tag">鬼ごっこネタ発掘</span>
+    </div>
+    <div class="spacer"></div>
+    <div id="status">読み込み中…</div>
+  </header>
+
+  <div class="layout">
+    <nav class="nav">
+      <button class="nav-item" data-view="home"><span class="ic">🔥</span><span class="label">おすすめネタ</span></button>
+      <button class="nav-item" data-view="movies"><span class="ic">🎬</span><span class="label">映画</span></button>
+      <button class="nav-item" data-view="kinro"><span class="ic">📺</span><span class="label">金曜ロードショー</span></button>
+      <button class="nav-item" data-view="games"><span class="ic">🎮</span><span class="label">ゲーム発売</span></button>
+      <button class="nav-item" data-view="minecraft"><span class="ic">⛏️</span><span class="label">Minecraft</span></button>
+      <button class="nav-item" data-view="roblox"><span class="ic">🟦</span><span class="label">Roblox</span></button>
+      <button class="nav-item" data-view="meme"><span class="ic">😂</span><span class="label">ミーム</span></button>
+    </nav>
+
+    <main id="view"><!-- ここに各ビューが描画されます --></main>
+  </div>
+
+  <footer class="footer">
+    オニWorks － ぷちぷちチャンネル 鬼ごっこ企画 ネタ発掘サイト｜情報は前後3ヶ月ぶんを表示
+  </footer>
+
+  <script src="assets/js/config.js?v=1"></script>
+  <script src="assets/js/data.js?v=1"></script>
+  <script src="assets/js/app.js?v=1"></script>
+</body>
+</html>

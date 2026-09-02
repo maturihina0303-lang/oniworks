@@ -1,0 +1,12 @@
+{
+  "_note": "サンプルデータ。RAWG APIから自動取得予定。",
+  "updated_at": "2026-09-02",
+  "items": [
+    { "id": "g1", "title": "スプラトゥーン4", "release_date": "2026-09-05", "platforms": ["Switch2"], "genre": ["シューター"], "image": "", "popularity": 95, "source": "RAWG(sample)" },
+    { "id": "g2", "title": "マリオカート ワールドツアー", "release_date": "2026-08-01", "platforms": ["Switch2"], "genre": ["レース"], "image": "", "popularity": 90, "source": "RAWG(sample)" },
+    { "id": "g3", "title": "Fall Guys: Season X", "release_date": "2026-09-20", "platforms": ["PС", "PS5", "Switch"], "genre": ["パーティ", "バトロワ"], "image": "", "popularity": 82, "source": "RAWG(sample)" },
+    { "id": "g4", "title": "ポケモン レジェンズ Z-A", "release_date": "2026-10-16", "platforms": ["Switch"], "genre": ["RPG"], "image": "", "popularity": 97, "source": "RAWG(sample)" },
+    { "id": "g5", "title": "Among Us 3D", "release_date": "2026-07-25", "platforms": ["PC", "VR"], "genre": ["パーティ", "推理"], "image": "", "popularity": 78, "source": "RAWG(sample)" },
+    { "id": "g6", "title": "ドンキーコング バナンザ2", "release_date": "2026-11-14", "platforms": ["Switch2"], "genre": ["アクション"], "image": "", "popularity": 80, "source": "RAWG(sample)" }
+  ]
+}

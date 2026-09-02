@@ -1,0 +1,3 @@
+# データ取得(fetch_*.py)は標準ライブラリのみで動きます。
+# AIネタ生成(generate_ideas.py)だけ公式SDKが必要です。
+anthropic>=0.40.0
