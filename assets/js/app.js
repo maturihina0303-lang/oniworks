@@ -2,6 +2,7 @@
 (function () {
   const cfg = window.ONIWORKS_CONFIG || {};
   const TODAY = new Date();
+  const CUR_MONTH = `${TODAY.getFullYear()}-${String(TODAY.getMonth() + 1).padStart(2, "0")}`;
   const store = {}; // key -> {items, updated_at}
 
   // ---------- ユーティリティ ----------
@@ -55,14 +56,19 @@
     return [...new Set(items.filter((x) => inRange(x[field]))
       .map((x) => String(x[field] || "").slice(0, 7)).filter(Boolean))].sort();
   }
-  function monthSelect(id, items, field) {
-    const opts = ['<option value="all">すべての月</option>'].concat(
-      monthsOf(items, field).map((m) => {
+  function monthSelect(id, items, field, selected) {
+    const months = monthsOf(items, field);
+    const sel = months.includes(selected) ? selected : "all";
+    const opt = (val, label) => `<option value="${val}"${val === sel ? " selected" : ""}>${label}</option>`;
+    const opts = [opt("all", "すべての月")].concat(
+      months.map((m) => {
         const [y, mo] = m.split("-");
-        return `<option value="${m}">${y}年${+mo}月</option>`;
+        return opt(m, `${y}年${+mo}月`);
       })).join("");
     return `<select class="month-sel" id="${id}">${opts}</select>`;
   }
+  // 今月がデータにあれば今月、無ければ「すべて」を初期選択に
+  const defaultMonth = (items, field) => (monthsOf(items, field).includes(CUR_MONTH) ? CUR_MONTH : "all");
   const matchMonth = (val, month) => month === "all" || String(val || "").startsWith(month);
 
   // ---------- 各セクション ----------
@@ -184,6 +190,7 @@
     },
     movies: (mount) => {
       const movies = store.movies?.items || [];
+      const dm = defaultMonth(movies, "release_date");
       mount.innerHTML = `
         <div class="section-head"><h2>🎬 公開中・公開予定の映画</h2><p class="sub">追いかけっこ・逃走系の元ネタ探しに</p></div>
         <div class="controls">
@@ -192,10 +199,10 @@
             <button class="tab" data-f="now">公開中</button>
             <button class="tab" data-f="upcoming">公開予定</button>
           </div>
-          ${monthSelect("movies-month", movies, "release_date")}
+          ${monthSelect("movies-month", movies, "release_date", dm)}
         </div>
         <div id="movies-list" class="list"></div>`;
-      const state = { status: "all", month: "all" };
+      const state = { status: "all", month: dm };
       const draw = () => renderMovies($("#movies-list", mount), state.status, state.month);
       draw();
       $$('[data-tabs="movies"] .tab', mount).forEach((b) =>
@@ -217,10 +224,11 @@
     },
     games: (mount) => {
       const items = store.games?.items || [];
+      const dm = defaultMonth(items, "release_date");
       mount.innerHTML = `<div class="section-head"><h2>🎮 ゲーム発売日</h2><p class="sub">話題のゲームに便乗した企画に</p></div>
-        <div class="controls">${monthSelect("games-month", items, "release_date")}</div>
+        <div class="controls">${monthSelect("games-month", items, "release_date", dm)}</div>
         <div id="games-list" class="list"></div>`;
-      renderGames($("#games-list", mount), "all");
+      renderGames($("#games-list", mount), dm);
       $("#games-month", mount).addEventListener("change", (e) => renderGames($("#games-list", mount), e.target.value));
     },
     minecraft: (mount) => {
