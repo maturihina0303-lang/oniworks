@@ -26,7 +26,7 @@
         <div class="gate-mask">👹</div>
         <h1>オニ<b>Works</b></h1>
         <p class="gate-msg">合言葉を入力してください</p>
-        <input id="gate-input" type="text" lang="ja" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="合言葉" autofocus>
+        <input id="gate-input" type="text" lang="ja" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="合言葉（かな入力OK）" autofocus>
         <button id="gate-btn">入る</button>
         <p id="gate-err" class="gate-err" hidden>合言葉がちがいます</p>
       </div>`;
