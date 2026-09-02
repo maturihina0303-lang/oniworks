@@ -1,12 +1,909 @@
 {
-  "_note": "サンプルデータ。Supabase接続後は自動更新されます。",
+  "_note": "自動生成",
   "updated_at": "2026-09-02",
   "items": [
-    { "id": "m1", "title": "アクアマン3 ラスト・キングダム", "release_date": "2026-08-15", "status": "now", "genre": ["アクション", "SF"], "overview": "海底王国を舞台にした冒険活劇。追いかけっこ映えする水中バトルが満載。", "poster": "", "popularity": 92, "source": "TMDB(sample)" },
-    { "id": "m2", "title": "怪盗ミラー 影の街", "release_date": "2026-08-29", "status": "now", "genre": ["アクション", "サスペンス"], "overview": "神出鬼没の怪盗と警察の追走劇。", "poster": "", "popularity": 85, "source": "TMDB(sample)" },
-    { "id": "m3", "title": "ゾンビランド:ラストゲーム", "release_date": "2026-09-12", "status": "upcoming", "genre": ["ホラー", "コメディ"], "overview": "ゾンビから逃げ切れ。逃走系企画の宝庫。", "poster": "", "popularity": 88, "source": "TMDB(sample)" },
-    { "id": "m4", "title": "ドラゴンレース2026", "release_date": "2026-09-26", "status": "upcoming", "genre": ["ファンタジー", "アクション"], "overview": "ドラゴンに乗ったレース＆鬼ごっこ。", "poster": "", "popularity": 79, "source": "TMDB(sample)" },
-    { "id": "m5", "title": "ステルス・チェイス", "release_date": "2026-10-10", "status": "upcoming", "genre": ["アクション"], "overview": "隠れて逃げるスパイ映画。かくれんぼ系にぴったり。", "poster": "", "popularity": 74, "source": "TMDB(sample)" },
-    { "id": "m6", "title": "モンスターハウスの怪", "release_date": "2026-07-18", "status": "now", "genre": ["ホラー", "ファミリー"], "overview": "屋敷からの脱出。", "poster": "", "popularity": 70, "source": "TMDB(sample)" }
+    {
+      "id": "tmdb-969681",
+      "title": "スパイダーマン：ブランド・ニュー・デイ",
+      "release_date": "2026-07-31",
+      "status": "now",
+      "genre": [
+        "サイエンスフィクション",
+        "アクション",
+        "アドベンチャー"
+      ],
+      "overview": "愛する人たちを守るために、彼らの記憶から自らの存在を消すという決断をした『スパイダーマン：ノー・ウェイ・ホーム』の出来事から４年。大人になったピーター・パーカーはスパイダーマンとして、ニューヨークの人々を守り、彼らを脅かす犯罪と戦う日々に全力を尽くしていた。そんななか、人々の期待を背負う彼の体に驚くべき身体的変異が起こり始める。同時に、街では姿なき不可解な犯罪が頻発。“親愛なる隣人”に、かつて直面したことのない大きな脅威が迫る──。",
+      "poster": "https://image.tmdb.org/t/p/w500/hvbs76wGMZYqJSvaRps5jDzHUhN.jpg",
+      "popularity": 1028.0,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1108427",
+      "title": "モアナと伝説の海",
+      "release_date": "2026-07-31",
+      "status": "now",
+      "genre": [
+        "ファミリー",
+        "ファンタジー",
+        "コメディ",
+        "アドベンチャー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
+      "popularity": 176.9,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1185806",
+      "title": "パウ・パトロール ザ・ダイノ・ムービー",
+      "release_date": "2026-07-31",
+      "status": "now",
+      "genre": [
+        "アニメーション",
+        "アドベンチャー",
+        "ファミリー",
+        "ファンタジー",
+        "コメディ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "popularity": 32.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1598766",
+      "title": "クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "release_date": "2026-07-31",
+      "status": "now",
+      "genre": [
+        "アドベンチャー",
+        "アニメーション",
+        "コメディ"
+      ],
+      "overview": "テレビアニメ「クレヨンしんちゃん」の劇場版第33作。妖怪の国に迷い込んでしまった野原家が、どこか懐かしくも奇々怪々な世界で繰り広げる大冒険を描く。",
+      "poster": "https://image.tmdb.org/t/p/w500/15iwqqJVgFfeFh4Y1f8gg9yi2Fw.jpg",
+      "popularity": 32.0,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1291712",
+      "title": "ヒトラーの毒見役",
+      "release_date": "2026-07-31",
+      "status": "now",
+      "genre": [
+        "ドラマ",
+        "履歴"
+      ],
+      "overview": "1943年、第二次世界大戦末期。 ベルリンの爆撃を逃れ、義両親のいる田舎町で戦地にいる夫の帰りを待つローザ。その場所は“狼の巣”と呼ばれる、ヒトラーの総統大本営「ヴォルフスシャンツェ」がある森の近くだった。 ある日、彼女はヒトラーの毒見役に命じられ、他の若い女性たちとともに、親衛隊から銃を突き付けられながら食事をすることに。 ヒトラーが食す最高の料理を、死と隣合わせの最悪な状況で口にする苦悩の日々。 そして1944年7月、総統大本営でヒトラー暗殺を狙うクーデター（7月20日事件）が勃発。 戦局が混迷を極める中、彼女たちの運命は──。",
+      "poster": "https://image.tmdb.org/t/p/w500/4REOKysSY44CAy6wqxMxt3pjggf.jpg",
+      "popularity": 2.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1706714",
+      "title": "開戦前夜",
+      "release_date": "2026-07-31",
+      "status": "now",
+      "genre": [
+        "戦争",
+        "ドラマ"
+      ],
+      "overview": "真珠湾攻撃の 4 ヶ月前―彼らが見たのは、「日本必敗」という結末だった。  1941(昭和16)年4月。日本中のエリートたちが秘密裏に集められた「総力戦研究所」という組織が存在していた。  官僚・軍・民間から選りすぐられた、次世代を担う“ベスト&ブライテスト” 。彼らに課せられた任務は、アメリカを中心とした諸外国との戦争の行方を「予測」すること。膨大なデータを積み上げ、苦しみと情熱の中でシミュレーションを繰り返した末、彼らが見たのは――原爆投下以外のほぼすべてを的中させた、日本の「圧倒的な敗北」という衝撃のシナリオだった。  一発の弾丸も飛ばない。  だがここには 、頭脳を武器に戦う 、最も過酷な戦場がある 。  なぜ日本は、負けるとわかっていた戦いに突き進んだのか?  今、歴史に葬られた「不都合な真実」が、スクリーンで牙を剥く。",
+      "poster": "https://image.tmdb.org/t/p/w500/AbcD20BVFrBO3DgPAQ2p4BgrRiu.jpg",
+      "popularity": 1.6,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1315772",
+      "title": "ミニオンズ＆モンスターズ",
+      "release_date": "2026-08-07",
+      "status": "now",
+      "genre": [
+        "アドベンチャー",
+        "アニメーション",
+        "コメディ",
+        "ファミリー",
+        "ファンタジー"
+      ],
+      "overview": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが次々と解き放たれ、街は大パニックに！さらに仲間割れまで勃発し、ミニオンズ史上最大のピンチが訪れる。大切な仲間と力を合わせれば…きっと世界を救える…ハズ！？",
+      "poster": "https://image.tmdb.org/t/p/w500/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
+      "popularity": 176.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1623376",
+      "title": "ブルーロック",
+      "release_date": "2026-08-07",
+      "status": "now",
+      "genre": [
+        "アクション",
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/8EOuBxH8cqkVFdblOOduNsC0TuU.jpg",
+      "popularity": 5.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1214539",
+      "title": "叛逆のサウンドトラック",
+      "release_date": "2026-08-07",
+      "status": "now",
+      "genre": [
+        "ドキュメンタリー",
+        "履歴",
+        "音楽"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/eZOB9UurVQjpdIp72L49pyd3anw.jpg",
+      "popularity": 2.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1688584",
+      "title": "ゴースト・オブ・ウエノ",
+      "release_date": "2026-08-08",
+      "status": "now",
+      "genre": [
+        "ドラマ",
+        "コメディ"
+      ],
+      "overview": "",
+      "poster": "",
+      "popularity": 1.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1101383",
+      "title": "オークストリートの異変",
+      "release_date": "2026-08-14",
+      "status": "now",
+      "genre": [
+        "サイエンスフィクション",
+        "謎",
+        "スリラー"
+      ],
+      "overview": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
+      "poster": "https://image.tmdb.org/t/p/w500/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
+      "popularity": 83.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-9539",
+      "title": "マーターズ",
+      "release_date": "2026-08-14",
+      "status": "now",
+      "genre": [
+        "ホラー",
+        "ドラマ",
+        "スリラー"
+      ],
+      "overview": "1970年代のフランス、何者かに拉致監禁され、長期にわたり虐待を受け続けた少女リュシー（ジェシー・パム）は自力で逃げ出し、傷だらけの状態で発見される。養護施設に収容された彼女は心を閉ざしていたが、同年代の少女アンナ（エリカ・スコット）にだけは心を許していた。15年後、リュシー（ミレーヌ・ジャンパノイ）は自分を監禁した相手を発見し、猟銃を手に犯人宅を訪れる。",
+      "poster": "https://image.tmdb.org/t/p/w500/nQkZiYtQLqchP6wT9rlSvqVQonu.jpg",
+      "popularity": 9.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-999075",
+      "title": "左利きの少女",
+      "release_date": "2026-08-14",
+      "status": "now",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "シングルマザーとその2人の娘が、生活再建のために台北の夜市で麺屋台を始める。反抗的でありながらも将来への不安や焦燥を抱える長女と、祖父に「悪魔の手」と言われたために利き手である左手に罪悪感を覚える幼い次女。彼女たちがそれぞれの困難や誘惑に直面しながら、家族の絆を保とうともがく姿を描いた活気ある人間ドラマ。",
+      "poster": "https://image.tmdb.org/t/p/w500/A0LUwFhIoZi6Xqbw9MLimpVNH5Y.jpg",
+      "popularity": 4.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1633790",
+      "title": "機動警察パトレイバー EZY　File 2",
+      "release_date": "2026-08-14",
+      "status": "now",
+      "genre": [
+        "アニメーション",
+        "サイエンスフィクション",
+        "アクション"
+      ],
+      "overview": "紛失、消失、消息不明。特車二課・第二小隊がよりパワフルに弾けるFile 2、3つのエピソードのキーワードは、“消える”……。監査目前の特車二課で、リボルバーカノンの実弾一発が消えた。再開発の下町では、事故に遭った少女が人々の記憶から消えていく。そして奥多摩の山中では、土砂崩れで救助任務中の十和と桔平が二次遭難？！笑いと騒動、怪事とサバイバル──。問題多き彼らだが、今日もブレーキ知らずの機動力と絶妙なチームプレーで街を守る！　事件が彼らに降りかかのは偶然か必然か。ブレーキ知らずの第ニ小隊は英雄か蛮勇か。",
+      "poster": "https://image.tmdb.org/t/p/w500/5mxpCqNuEpoSPnmL9wAoGOpJq81.jpg",
+      "popularity": 2.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1122573",
+      "title": "グレイ・ミッション",
+      "release_date": "2026-08-21",
+      "status": "now",
+      "genre": [
+        "アクション",
+        "スリラー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/webvmFLejrMJhJlehFgrGLl92hI.jpg",
+      "popularity": 43.6,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1325734",
+      "title": "ドラマなふたり",
+      "release_date": "2026-08-21",
+      "status": "now",
+      "genre": [
+        "ロマンス",
+        "コメディ",
+        "ドラマ"
+      ],
+      "overview": "ボストンのカフェで運命的な出会いを果たしたチャーリーとエマは、この上なく幸せな日々を送っていた。結婚式まであと7日と迫った夜、付添人の親友夫婦と4人での食事中、これまでにやらかした最悪の行いを告白することに。軽い気持ちで始めたゲームだったが、エマの【最悪の秘密】に全員がドン引き。チャーリーはエマには想像を絶する別の顔があるのではないかと恐れを抱く。幸せの絶頂は一転、疑心暗鬼のどん底へと墜落するが、結婚式の準備を止める術はなく、遂に当日を迎えるー。",
+      "poster": "https://image.tmdb.org/t/p/w500/11fbppAwOXincr3jSqlwZ81MHVp.jpg",
+      "popularity": 37.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1266127",
+      "title": "レディ・オア・ノット2",
+      "release_date": "2026-08-21",
+      "status": "now",
+      "genre": [
+        "ホラー",
+        "コメディ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+      "popularity": 32.8,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1655321",
+      "title": "劇場版TOKYO MER〜走る緊急救命室〜CAPITAL CRISIS",
+      "release_date": "2026-08-21",
+      "status": "now",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "首都・東京を巨大な首都直下地震が襲い、街は一瞬で壊滅的な被害を受ける。  建物の倒壊や大規模火災、交通網の麻痺により都内は大混乱となり、無数の負傷者が発生する。  この未曾有の事態に対し、「死者を一人も出さない」という使命を掲げるTOKYO MERが出動。  チーフドクター 鈴木亮平 演じる喜多見幸太は、最新医療設備を搭載したERカーで危険な災害現場へ突入し、レスキュー隊や行政と連携しながら次々と命を救っていく。  しかし災害は連鎖的に拡大し、東京全体がさらなる危機に直面。  都市機能が崩壊しかける極限状況の中、チームは史上最大の救命ミッションに挑む！",
+      "poster": "https://image.tmdb.org/t/p/w500/fP37X9Qm0i8F3UucC6buI0MsI5z.jpg",
+      "popularity": 2.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-42031",
+      "title": "星の時",
+      "release_date": "2026-08-21",
+      "status": "now",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/dibnjyHqNVZiEkwdGZBxhYez3Gv.jpg",
+      "popularity": 2.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-367196",
+      "title": "最初の半歩",
+      "release_date": "2026-08-21",
+      "status": "now",
+      "genre": [
+        "ドラマ",
+        "履歴"
+      ],
+      "overview": "1984年、中国返還前の香港。郊外のニュータウン、沙田（シャーティン）で、香港初の青少年野球チーム「沙燕（サーイン）隊」が結成される。野球がメジャーなスポーツではない香港で、野球未経験の落ちこぼれ少年たちは新聞紙を丸めたボールで練習を始めるが、最初の試合では台湾の小学生チームに大惨敗。それでも、厳格ながら生徒思いのロー（盧）校長（演：リウ・カイチー）に導かれ、内向的なロン（阿龍）（演：ラム・イウセン）と衝動的だが義理堅いワイ（細威）（演：トニー・ウー）の幼馴染コンビを中心に、チームのメンバーは少しずつ成長していく。やがて迎えた宿敵・日本バッファローズとの最終決戦は、彼ら自身の「これまで」と「これから」を問い直す舞台となる――。1980年代前半の香港を舞台に、スポーツの勝敗に回収されない静かな余韻を残す、実話に基づく青春ドラマ。",
+      "poster": "https://image.tmdb.org/t/p/w500/4kS10wLn4NPWRE7BxyBPpje5WXS.jpg",
+      "popularity": 1.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1750273",
+      "title": "四次元悪魔",
+      "release_date": "2026-08-22",
+      "status": "upcoming",
+      "genre": [],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rIS3ZZExLELHOhXdU3f5azUcRTI.jpg",
+      "popularity": 0.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1703744",
+      "title": "गौंथली",
+      "release_date": "2026-08-23",
+      "status": "now",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/2PMFjuu42AMnwqAcf30SViicAvx.jpg",
+      "popularity": 1.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1213243",
+      "title": "トキシック",
+      "release_date": "2026-08-26",
+      "status": "now",
+      "genre": [
+        "アクション",
+        "犯罪",
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "popularity": 283.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1384216",
+      "title": "ラスト・サバイバー",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "サイエンスフィクション",
+        "アドベンチャー",
+        "スリラー"
+      ],
+      "overview": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心の拠り所は、愛犬ジャスパーの存在と亡き妻の記憶だけ。そんなある日、彼のもとに無線を通じて謎の声が届く。世界の終わりになお希望が残されているかもしれないと考えたヒッグは、その声に導かれるように、未知の空へと飛び立つ決意を固める。だがその先に広がっていたのは、凶暴な動物や容赦ない襲撃者がはびこる、殺すか殺されるかの過酷な現実だった。",
+      "poster": "https://image.tmdb.org/t/p/w500/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
+      "popularity": 120.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-964849",
+      "title": "ナイトボーン -夜哭-",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "ホラー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cssZAuI7ipN0a2wQgGLQ7fiSqm3.jpg",
+      "popularity": 69.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1290821",
+      "title": "シェルター",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "アクション",
+        "犯罪",
+        "スリラー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bEgOHa6XrRTzgm9TCqyACqI2VSn.jpg",
+      "popularity": 58.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-822653",
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "アニメーション",
+        "ドラマ",
+        "謎",
+        "ファンタジー"
+      ],
+      "overview": "『叛逆の物語』の事件を経て、世界は表向き均衡を取り戻したかに見えた。しかし、その平和はあまりにも脆い。ワルプルギスの夜にまつわる新たな脅威が姿を現し始めたとき、暁美ほむらは自らが下した選択の代償と向き合うことになる——まどかを守るために、自分はどこまで踏み込む覚悟があるのか。",
+      "poster": "https://image.tmdb.org/t/p/w500/tc7wW6whJSvxM9f5RdqmQVpdl6n.jpg",
+      "popularity": 53.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1410587",
+      "title": "時には懺悔を",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/l6HnJ4ZVK2oT20MaYTznAU1dkMH.jpg",
+      "popularity": 2.8,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1651178",
+      "title": "見えない娘 THE INVISIBLES",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "とある島でひっそりと暮らす星野家の父と3人の娘たちには、少し変わった秘密があった。それは、末娘のひかりが、生まれつき透明人間であること。娘たちを朗らかに育てた母が他界した後、心配性の父・学は三姉妹を人目から隠すようにして暮らしてきた。そんなある日、東京に住む大女優の祖母・砂川エリ子が入院したという知らせが届く。家族はひかりが透明人間であることをエリ子に打ち明けられないまま東京へ向かって出発するが、その道中にはさまざまな危険や困難が待ち受けていた。",
+      "poster": "https://image.tmdb.org/t/p/w500/mFOoAas7Bl1mI131JaEvDhxKvsE.jpg",
+      "popularity": 1.9,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1654276",
+      "title": "平行と垂直",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "ドラマ",
+        "ファミリー"
+      ],
+      "overview": "自閉症の大貴と定型発達の希、そんな兄妹の微々たる成長物語であその2人と関わる人々が心に棲まわせる寛大、辛辣、はたまた無関心というあらゆる本音たちと共に生きていく物語です。",
+      "poster": "https://image.tmdb.org/t/p/w500/yKylENBVJZjJtIpeLJ4ClSbaiiq.jpg",
+      "popularity": 1.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1730148",
+      "title": "王様戦隊キングオージャー フィルム・コンサート in シネマ",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "音楽"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sTTDKZcqCUcnLvezpe1m3Wao4f.jpg",
+      "popularity": 1.8,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1083381",
+      "title": "バックルームズ",
+      "release_date": "2026-09-04",
+      "status": "now",
+      "genre": [
+        "ホラー",
+        "謎",
+        "サイエンスフィクション"
+      ],
+      "overview": "舞台は、都市伝説とされていた空間“Backrooms”。「ある日突然 “現実世界の裏側”へ墜ちてしまったら…？」どこまでも続く黄色い壁紙の部屋、終わりのない廊下。不自然な間取りと、意味を失い床に埋まった設置物。  わずかに現実からズレている――そんな出口のない“リミナルスペース”で、観客は“最高密度の不安と恐怖”を体験する。",
+      "poster": "https://image.tmdb.org/t/p/w500/z52Eabu4xm5I8ksqdKOSylo5wWL.jpg",
+      "popularity": 132.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1480382",
+      "title": "ヒンド・ラジャブの声",
+      "release_date": "2026-09-04",
+      "status": "now",
+      "genre": [
+        "ドラマ",
+        "履歴"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/xF9IOyzwft0EQdHgVVHTsXVQT6s.jpg",
+      "popularity": 5.9,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1725074",
+      "title": "SEKIRO: NO DEFEAT",
+      "release_date": "2026-09-04",
+      "status": "now",
+      "genre": [
+        "アニメーション",
+        "アクション",
+        "アドベンチャー",
+        "ファンタジー"
+      ],
+      "overview": "時は戦国。雪深い峠の先に〈剣聖〉葦名一心が一代で興した葦名の国がある。しかし今や葦名は存亡の危機にあった。一心の孫・弦一郎は窮余の策として、竜胤の御子・九郎を求めた……。",
+      "poster": "https://image.tmdb.org/t/p/w500/lBWZojUmupfmx3pqVZJIL2v7gF4.jpg",
+      "popularity": 3.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1208284",
+      "title": "ハルバーシュタットの埋蔵金",
+      "release_date": "2026-09-04",
+      "status": "now",
+      "genre": [
+        "コメディ",
+        "ドラマ",
+        "犯罪",
+        "ロマンス"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/z2kFwE2astreSz1TH17ZWWY1gRA.jpg",
+      "popularity": 2.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1368535",
+      "title": "僕の一年、君の一日",
+      "release_date": "2026-09-04",
+      "status": "now",
+      "genre": [
+        "ファンタジー",
+        "ロマンス",
+        "サイエンスフィクション"
+      ],
+      "overview": "突然発生した大災害によって、世界は二つに分断された。 海の中央にそびえ立つ重力の壁によって、時間と重力は歪み、「優日区」と呼ばれる地域の一日は、もう片方の「長年区」と呼ばれる地域の一年に相当するようになった。 優日区で研修医として働くアンチン（アンジェラ・ユン）は、医療支援チーム“小鳩隊”の一員として、物資が不足する長年区へ、危険を冒しながら何度も重力の壁を越えて医療支援に向かう。 初めて長年区を訪れたアンチンが出会ったのは、ポテト（シュー・グァンハン）と呼ばれている13歳の少年だった。口の達者な少年だと思っていた彼女とは裏腹に、ポテトは一目でアンチンに恋をする。自ら医療支援チームに加わった彼は、命がけで薬や物資を運び、人を救う術を学びながら成長していく。そのひたむきな姿は、次第にアンチンの心を動かしていく。 しかし、アンチンにとっては一日でも、ポテトにとっては一年。再会するたびに、少年だった彼は青年へ、そして大人へと成長していく。二人は、時を重ねるごとに互いをかけがえのない存在として想い合うようになるが、時間と重力が引き裂く世界は、彼らにあまりにも過酷な運命を突きつける。 異なる時間を生きる二人の愛は、時を超えて結ばれるのか――。",
+      "poster": "https://image.tmdb.org/t/p/w500/7KK3fduU29dsSNLQa5WmxGR5xD0.jpg",
+      "popularity": 1.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1136690",
+      "title": "ラブ・ライズ",
+      "release_date": "2026-09-04",
+      "status": "now",
+      "genre": [
+        "ロマンス",
+        "コメディ"
+      ],
+      "overview": "夫と死別した婦人科医ベロニカ（サンドラ・ン）は、25歳と偽ってマッチング・アプリに登録し、55歳のフランス人・アランと出会いSNSで愛を育むが、彼の正体はロマンス詐欺集団の一員だった！　サンドラ・ンが恋の高揚感、愛の喪失と孤独を熟練の演技で魅せる、コミカルで後味爽やかな再生の物語。人気アーティスト、「MC」ことマイケル・チャンが詐欺師を好演。チャウ・シンチーの『人魚姫』（2016）の脚本を務めたホー・ミウケイの初監督作。",
+      "poster": "https://image.tmdb.org/t/p/w500/bDsMFIAnMcax5gOLMpCpU0d8w5H.jpg",
+      "popularity": 1.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1744239",
+      "title": "ミュージカル『刀剣乱舞』 ～月夜一縷～",
+      "release_date": "2026-09-07",
+      "status": "now",
+      "genre": [],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9IFt7Z2qEWZIjO1CHlzZhKCw7N8.jpg",
+      "popularity": 1.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1368337",
+      "title": "オデュッセイア",
+      "release_date": "2026-09-11",
+      "status": "upcoming",
+      "genre": [
+        "アドベンチャー",
+        "アクション",
+        "ファンタジー"
+      ],
+      "overview": "トロイア戦争の終結後、イタケーの伝説的な王オデュッセウスは、故郷への長く危険に満ちた帰還の旅に出る。その航海の途上、彼は神々の気まぐれや神話の怪物たち、そして自身の知略と人間性の双方を極限まで試す過酷な試練に立ち向かうことを余儀なくされる――。",
+      "poster": "https://image.tmdb.org/t/p/w500/oe40oI7aulGLkoNDEZWxyeIQGZq.jpg",
+      "popularity": 544.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1447853",
+      "title": "オアシス：ドント・ルック・バック・イン・アンガー",
+      "release_date": "2026-09-11",
+      "status": "upcoming",
+      "genre": [
+        "ドキュメンタリー",
+        "音楽"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+      "popularity": 8.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1497946",
+      "title": "ネルソンさん、あなたは人を殺しましたか？",
+      "release_date": "2026-09-11",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ",
+        "戦争"
+      ],
+      "overview": "貧困や差別から抜け出すために18歳で入隊したアフリカ系アメリカ人のアレン・ネルソン。ベトナムという苛烈な戦地で学んだことはただひとつ、いかに多くの人を殺せるか。その対価として得たのは、ごくわずかな賃金とPTSD（戦争後遺症）だけだった。23歳で家を追い出され、ホームレスとなったアレンをこの世につなぎ止めたのは、退役軍人病院でカウンセリングを行っていたダニエルズ医師の存在だった。",
+      "poster": "https://image.tmdb.org/t/p/w500/9CKA9mGKUxFFuShat0aZnOS2QMd.jpg",
+      "popularity": 2.7,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1591675",
+      "title": "ルックバック",
+      "release_date": "2026-09-11",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/6eXDHPwPDTZTgf4wuGIP49bxxJV.jpg",
+      "popularity": 3.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1494419",
+      "title": "最終楽章 響け！ユーフォニアム 後編",
+      "release_date": "2026-09-11",
+      "status": "upcoming",
+      "genre": [
+        "アニメーション",
+        "ドラマ",
+        "音楽"
+      ],
+      "overview": "難関・関西大会を突破し、全国大会出場に沸き立つ北宇治高校吹奏楽部は、勢いそのままに文化祭のステージへ。そこにあったのは、真由が大事にしている“みんなが楽しい”演奏だった。北宇治が掲げる“みんなが平等”な実力主義は、それと相反するのではないか……。真由は複雑な心情をにじませる。一方の久美子は、部長として北宇治で全国大会金賞を取りたいという悲願の達成と、奏者として麗奈と一緒にソリを吹きたいという願いを胸に練習に励んでいた。泣いても笑っても最後。全国大会の出場メンバーを決めるオーディションの日がやってくる。",
+      "poster": "https://image.tmdb.org/t/p/w500/3nVufzgnnT9it02P7fa6KAxyKLu.jpg",
+      "popularity": 1.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1705721",
+      "title": "5秒で完全犯罪を生成する方法",
+      "release_date": "2026-09-11",
+      "status": "upcoming",
+      "genre": [
+        "犯罪",
+        "スリラー"
+      ],
+      "overview": "航の携帯に、高校生の妹・幸来からの電話がかかってくる。航が幸来のもとへ駆けつけると、そこには妹の部活顧問である教師の遺体があった。意図せずに教師を殺してしまったという妹を守るため、航がとった行動は、生成AIに「完全犯罪を成立させる方法を教えてください」というプロンプトを打ち込むことだった。しかし、予期せぬ事態が次々と発生し、2人は事件へ巻き込まれていく。そんな2人の前に謎の女・七希が現れ、事態はさらに悪化。航と幸来は窮地へと追い込まれていく。",
+      "poster": "https://image.tmdb.org/t/p/w500/vOB30BbJLvioZwLcvEzBixatY9L.jpg",
+      "popularity": 1.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1712074",
+      "title": "Man",
+      "release_date": "2026-09-11",
+      "status": "upcoming",
+      "genre": [],
+      "overview": "自動車窃盗団の一員として生きる青年・小田（宇野祥平）は、ある日、見知らぬ男（萩原護）に拉致される。男が小田に告げた言葉は「俺が君を、いい男にしてやる」。  正体不明の男と始まる奇妙な共同生活。目的も動機も一切不明のまま、小田の「改造計画」が粛々と進んでいく。笑えるのか、怖いのか——境界線が溶けていく94分。  出演は宇野祥平、萩原護、安藤玉恵、唐田えりか。前田弘二監督と宇野祥平が25年にわたって積み上げてきた信頼関係が、この前代未聞の物語に深みを与える。",
+      "poster": "https://image.tmdb.org/t/p/w500/AbbSSxiJ1iFqAAWvEdaBU8BRRU9.jpg",
+      "popularity": 0.8,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1302904",
+      "title": "プラティカル・マジック／魔女たちの秘密",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "ロマンス",
+        "ファンタジー",
+        "コメディ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
+      "popularity": 19.7,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1391021",
+      "title": "欢迎来龙餐馆",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ",
+        "戦争"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+      "popularity": 23.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1160360",
+      "title": "ワンオペレーション",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/5CTl7SVUP6kfbVXn36Qj8Kci0B.jpg",
+      "popularity": 8.9,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1663937",
+      "title": "映画名探偵プリキュア！ ⠀不思議な庭と2人の秘密",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "アニメーション",
+        "アクション",
+        "アドベンチャー",
+        "コメディ",
+        "ファミリー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bJg5Eh20xrIQIBgwCKJWLbajCsL.jpg",
+      "popularity": 2.0,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1716622",
+      "title": "八つ墓村",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "謎",
+        "ホラー"
+      ],
+      "overview": "内定ゼロ、彼女ナシ。大学生・井川辰弥のもとに舞い込んだ母の訃報。  奇妙な探偵・金田一耕助に誘われ、岡山県山奥に潜む「八つ墓村」を訪れる。  封印された、ルーツと怨念の記憶が目を覚ます。  村では、名家・田治見家の莫大な遺産の相続人である辰弥の帰還に合わせたかのように、\r 不可解な連続殺人事件が発生。  金田一耕助と共に、事件に巻き込まれてゆく。  美しき未亡人・森美也子、双子の大叔母、不気味な村人たち ──。  誰も知らない“八つ墓”の秘密が今明かされる ──。  ようこそ、最高の悪夢へ。",
+      "poster": "https://image.tmdb.org/t/p/w500/3xLSVAQZAs1DEUNm1TKYzx0kiLT.jpg",
+      "popularity": 1.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1547224",
+      "title": "リサ・ラーソンがいた時間",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "ドキュメンタリー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/jeCAmGfYMIq43FlDA4XHoXKy8F2.jpg",
+      "popularity": 1.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1491083",
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "犯罪",
+        "ドラマ"
+      ],
+      "overview": "ある日、東京都内で誘拐事件が発生。 犯人は身代金を指定の場所まで持ってくるよう指示をし、 間に合わなければ街を爆破するという。 そして、なぜかその“運び屋”として青島を指名する。 さらに、3Dプリンター拳銃を使用した連続殺人事件も発生。 殺された被害者の一人である科学者が持っていた毒性ウイルスも盗まれており、 警視庁には「ウイルスを街にばらまく」という脅迫文が届く。 警視庁の捜査一課に着任した青島に、史上最悪クラスの難事件が次々に押し寄せる。 “犯人”はいったい―？ 事件解決のため、青島は仲間とともに東京の街を走りに走りまくる！！",
+      "poster": "https://image.tmdb.org/t/p/w500/zxpus1lIDG7wqAuzsD0zgM6mXwM.jpg",
+      "popularity": 1.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1690296",
+      "title": "さとこはいつも",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "2026年製作／日本  配給：ハピネットファントム・スタジオ  劇場公開日：2026年9月18日",
+      "poster": "https://image.tmdb.org/t/p/w500/ukGHLv42m433OA0lmJIko2Ijnov.jpg",
+      "popularity": 1.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1740257",
+      "title": "NCT 127 5TH TOUR ‘NEO CITY  SEOUL - THE REDLINE’ in CINEMAS",
+      "release_date": "2026-09-20",
+      "status": "upcoming",
+      "genre": [
+        "音楽"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/wLItpgfVeRL4VlqoaQJRQXzUmc1.jpg",
+      "popularity": 1.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1263337",
+      "title": "ハート・オブ・ビースト",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "アドベンチャー",
+        "スリラー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "popularity": 20.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1382513",
+      "title": "雌鶏",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "アドベンチャー",
+        "ドラマ"
+      ],
+      "overview": "養鶏場で生まれ育った1羽の黒い雌鶏が、出荷用のトラックから脱走した。人生で初めて自由を手に入れた雌鶏は、刺激と危険に満ちた世界を走り抜け、ある事情を抱えた一家が暮らす家にたどり着く。庭に建つニワトリ小屋で新生活をスタートさせた雌鶏はやがて恋をし、初めて産んだ卵を温め育てようとするが、大切な卵は毎日人間に回収されてしまう。我が子がヒヨコになる日を雌鶏が夢見る一方で、飼い主一家はとある事件に巻き込まれる。その先には、両者にとって思いがけない運命が待ち受けていた。",
+      "poster": "https://image.tmdb.org/t/p/w500/rfiyrjBJqu3mvmmmnfQyqU5SU5O.jpg",
+      "popularity": 3.7,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1595400",
+      "title": "マッチング TRUE LOVE",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "スリラー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kWIqWDagKVlCXxwHzxsmDPJU2ld.jpg",
+      "popularity": 1.9,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1496928",
+      "title": "我々は宇宙人",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "アニメーション",
+        "サイエンスフィクション",
+        "ドラマ"
+      ],
+      "overview": "小学三年生の夏、内気な少年のつばさは、クラスの人気者である暁太郎と出会い、親友になる。小さな世界の中で、かけがえのない時間を過ごしていくふたり。しかし、ある些細な事件をきっかけに、ふたりの関係は引き裂かれて——。  30年以上にわたる少年たちの友情と再会を通して、人が生きることの意味を静かに問いかける物語。",
+      "poster": "https://image.tmdb.org/t/p/w500/pDq9lDGluzgbvS3lYbyLKnKo0mu.jpg",
+      "popularity": 2.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1567787",
+      "title": "しびれ",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ae0hP0xSEhPM6eVpAtCfjhWPKVu.jpg",
+      "popularity": 1.6,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1425485",
+      "title": "3670",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "ロマンス",
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/uUoafeNRGfdVuJarhBuGOJH2PAc.jpg",
+      "popularity": 1.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1448971",
+      "title": "ナギダイアリー",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "近くの山から切り出される木でひとり彫刻を作る寄子。ある日、東京と台湾で建築家として活躍してきた友梨は、 数日間の休暇をとって、別れた夫の姉・寄子のもとを訪れる。都会にはない「ナギ」での穏やかな生活。妻を亡くした寄子の幼なじみの好浩、そして息子の春樹とその親友の圭太――人々との出会いは、日常に小さな揺らぎをもたらしていく。  やがて、彫刻のモデルを毎晩つとめるなかで寄子の知られざる喪失に触れ、友梨にも変化が起きていく。",
+      "poster": "https://image.tmdb.org/t/p/w500/i5BgsFxypyz3ml3oiMUxODI5Agc.jpg",
+      "popularity": 1.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1670061",
+      "title": "藁にもすがる獣たち",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "謎",
+        "ドラマ",
+        "アクション",
+        "スリラー",
+        "犯罪"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/g9eZ49X7CtZfNttXaYKsEIkW5xf.jpg",
+      "popularity": 0.9,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1697647",
+      "title": "襲名",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "ドキュメンタリー"
+      ],
+      "overview": "歌舞伎界の名門・市川家に受け継がれる最大の節目\r 「十三代目市川團十郎白猿襲名披露」を真正面から捉えた本作。  コロナ禍による2年半の延期を乗り越え実現した歴史的瞬間を通して、\r 市川團十郎が背負う「継承」と「個」の狭間で揺れる覚悟と葛藤を描き出す。  監督は世界的に活躍する映画監督・三池崇史、本作品が初のドキュメンタリー作品となる。\r さらに、祝幕を手がけた村上隆による創作の様子も記録した、歌舞伎の“今”を映し出す壮麗なるドキュメンタリー作品。",
+      "poster": "https://image.tmdb.org/t/p/w500/r5qnf8fzaicAbR1vREtZNVQIslb.jpg",
+      "popularity": 1.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1651263",
+      "title": "シャドウワーク",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [],
+      "overview": "吉岡里帆×奈緒 W主演 2026年全国公開映画『シャドウワーク』",
+      "poster": "https://image.tmdb.org/t/p/w500/wmgimlSuZssVLxMoWkiskuFAUN8.jpg",
+      "popularity": 0.7,
+      "source": "TMDB"
+    }
   ]
 }
