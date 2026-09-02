@@ -7,7 +7,8 @@
   if (!HASH) return; // ロック未設定 → 何もしない
 
   async function sha256(s) {
-    const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
+    // かな等でも一致するよう Unicode 正規化(NFC)してからハッシュ化
+    const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s.normalize("NFC")));
     return [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, "0")).join("");
   }
 
@@ -46,7 +47,10 @@
       }
     };
     ov.querySelector("#gate-btn").addEventListener("click", submit);
-    input.addEventListener("keydown", (e) => { if (e.key === "Enter") submit(); });
+    // IME変換中(かな変換の確定など)のEnterでは送信しない
+    input.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && !e.isComposing && e.keyCode !== 229) submit();
+    });
     input.focus();
   }
 

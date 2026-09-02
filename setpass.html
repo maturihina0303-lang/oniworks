@@ -56,7 +56,8 @@
 
   <script>
     async function sha256(s){
-      const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
+      // かな等でも一致するよう Unicode 正規化(NFC)してからハッシュ化
+      const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s.normalize("NFC")));
       return [...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,"0")).join("");
     }
     const pass = document.getElementById("pass");
@@ -71,7 +72,8 @@
       document.getElementById("copied").hidden = true;
     }
     document.getElementById("gen").addEventListener("click", gen);
-    pass.addEventListener("keydown", e=>{ if(e.key==="Enter") gen(); });
+    // IME変換中(かな変換の確定など)のEnterでは生成しない
+    pass.addEventListener("keydown", e=>{ if(e.key==="Enter" && !e.isComposing && e.keyCode!==229) gen(); });
     document.getElementById("copy").addEventListener("click", ()=>{
       navigator.clipboard.writeText(line.textContent).then(()=>{
         document.getElementById("copied").hidden = false;
