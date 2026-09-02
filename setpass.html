@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>合言葉の設定｜オニWorks</title>
+  <style>
+    :root { --oni:#ff9e6d; --oni-strong:#f47c43; --bg:#fff6ee; --panel:#fff; --line:#f4e2d2; --text:#4a3b30; --muted:#a48d7c; }
+    body { margin:0; background:var(--bg); color:var(--text); font-family:"Hiragino Maru Gothic ProN","Yu Gothic","Meiryo",system-ui,sans-serif; line-height:1.7; }
+    .wrap { max-width:560px; margin:40px auto; padding:0 18px; }
+    .card { background:var(--panel); border:1px solid var(--line); border-radius:18px; padding:26px; box-shadow:0 8px 26px rgba(244,124,67,.12); }
+    h1 { font-size:22px; margin:0 0 4px; } h1 b{ color:var(--oni-strong);}
+    .sub { color:var(--muted); font-size:14px; margin:0 0 20px; }
+    label { font-weight:700; font-size:14px; display:block; margin-bottom:6px; }
+    input { width:100%; box-sizing:border-box; font-size:16px; font-family:inherit; padding:12px 14px; border:1px solid var(--line); border-radius:12px; background:var(--bg); color:var(--text); }
+    input:focus { outline:2px solid var(--oni); border-color:var(--oni); }
+    button { margin-top:14px; font-size:16px; font-weight:700; font-family:inherit; padding:12px 20px; border:0; border-radius:12px; background:var(--oni); color:#fff; cursor:pointer; }
+    button:hover { background:var(--oni-strong); }
+    .out { margin-top:22px; display:none; }
+    .out.show { display:block; }
+    .code { background:#2c2320; color:#ffd9c2; padding:14px; border-radius:12px; font-family:Consolas,monospace; font-size:14px; word-break:break-all; }
+    .steps { font-size:14px; color:var(--text); background:#fff3e9; border-radius:12px; padding:16px 18px; margin-top:16px; }
+    .steps li { margin:6px 0; }
+    .copied { color:var(--oni-strong); font-size:13px; margin-left:10px; }
+    a { color:var(--oni-strong); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>オニ<b>Works</b>｜合言葉の設定</h1>
+      <p class="sub">合言葉を入力して「ハッシュを生成」を押してください。<br>合言葉そのものは保存されず、変換した文字列（ハッシュ）だけを使います。</p>
+
+      <label for="pass">合言葉</label>
+      <input id="pass" type="text" placeholder="例：oni2026" autocomplete="off">
+      <button id="gen">ハッシュを生成</button>
+
+      <div class="out" id="out">
+        <label style="margin-top:20px;">① これをコピー（config.js に貼る1行）</label>
+        <div class="code" id="line"></div>
+        <button id="copy">この行をコピー</button><span class="copied" id="copied" hidden>コピーしました！</span>
+
+        <div class="steps">
+          <b>② サイトに反映する手順</b>
+          <ol>
+            <li>GitHubで <code>assets/js/config.js</code> を開く → 鉛筆(✏️)で編集</li>
+            <li><code>PASS_HASH: ""</code> の行を、上でコピーした行に<b>置き換え</b></li>
+            <li>「Commit changes」で保存</li>
+            <li>数分後、サイトを開くと合言葉入力画面が出ます</li>
+          </ol>
+          解除したいときは <code>PASS_HASH: ""</code>（空）に戻せばOK。合言葉を変えたいときは、ここで作り直して置き換えてください。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    async function sha256(s){
+      const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
+      return [...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,"0")).join("");
+    }
+    const pass = document.getElementById("pass");
+    const out = document.getElementById("out");
+    const line = document.getElementById("line");
+    async function gen(){
+      const v = pass.value.trim();
+      if(!v){ pass.focus(); return; }
+      const h = await sha256(v);
+      line.textContent = `PASS_HASH: "${h}"`;
+      out.classList.add("show");
+      document.getElementById("copied").hidden = true;
+    }
+    document.getElementById("gen").addEventListener("click", gen);
+    pass.addEventListener("keydown", e=>{ if(e.key==="Enter") gen(); });
+    document.getElementById("copy").addEventListener("click", ()=>{
+      navigator.clipboard.writeText(line.textContent).then(()=>{
+        document.getElementById("copied").hidden = false;
+      });
+    });
+  </script>
+</body>
+</html>
