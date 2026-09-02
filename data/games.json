@@ -1,12 +1,2310 @@
 {
-  "_note": "サンプルデータ。RAWG APIから自動取得予定。",
+  "_note": "自動生成",
   "updated_at": "2026-09-02",
   "items": [
-    { "id": "g1", "title": "スプラトゥーン4", "release_date": "2026-09-05", "platforms": ["Switch2"], "genre": ["シューター"], "image": "", "popularity": 95, "source": "RAWG(sample)" },
-    { "id": "g2", "title": "マリオカート ワールドツアー", "release_date": "2026-08-01", "platforms": ["Switch2"], "genre": ["レース"], "image": "", "popularity": 90, "source": "RAWG(sample)" },
-    { "id": "g3", "title": "Fall Guys: Season X", "release_date": "2026-09-20", "platforms": ["PС", "PS5", "Switch"], "genre": ["パーティ", "バトロワ"], "image": "", "popularity": 82, "source": "RAWG(sample)" },
-    { "id": "g4", "title": "ポケモン レジェンズ Z-A", "release_date": "2026-10-16", "platforms": ["Switch"], "genre": ["RPG"], "image": "", "popularity": 97, "source": "RAWG(sample)" },
-    { "id": "g5", "title": "Among Us 3D", "release_date": "2026-07-25", "platforms": ["PC", "VR"], "genre": ["パーティ", "推理"], "image": "", "popularity": 78, "source": "RAWG(sample)" },
-    { "id": "g6", "title": "ドンキーコング バナンザ2", "release_date": "2026-11-14", "platforms": ["Switch2"], "genre": ["アクション"], "image": "", "popularity": 80, "source": "RAWG(sample)" }
+    {
+      "id": "fami-69593",
+      "title": "ファイナルファンタジーVII リバース",
+      "release_date": "2026-06-03",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69628",
+      "title": "eFootball Kick-Off!",
+      "release_date": "2026-06-04",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69705",
+      "title": "A列車で行こう9 Evolution",
+      "release_date": "2026-06-04",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "11800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69731",
+      "title": "ジョン モーリー最後の事件簿",
+      "release_date": "2026-06-04",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-62663",
+      "title": "イナズマイレブン 英雄たちのヴィクトリーロード Nintendo Switch 2 Edition",
+      "release_date": "2026-06-11",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8373円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69490",
+      "title": "パワフルプロ野球2026-2027",
+      "release_date": "2026-06-11",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7700円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69777",
+      "title": "Unrailed 2:バック・オン・トラック",
+      "release_date": "2026-06-11",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69791",
+      "title": "ダークオークション Nintendo Switch 2 Edition",
+      "release_date": "2026-06-11",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5491円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70913",
+      "title": "MONOPOLY：スター・ウォーズ ヒーロー vs ヴィラン",
+      "release_date": "2026-06-11",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-47303",
+      "title": "Severed Steel",
+      "release_date": "2026-06-18",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-62791",
+      "title": "冒険家エリオットの千年物語",
+      "release_date": "2026-06-18",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69462",
+      "title": "嘘から始まる恋の夏",
+      "release_date": "2026-06-18",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69760",
+      "title": "inKONBINI: One Store. Many Stories",
+      "release_date": "2026-06-18",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70990",
+      "title": "EA SPORTS UFC 6",
+      "release_date": "2026-06-20",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8909円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-29571",
+      "title": "千銃士：Rhodoknight for Nintendo Switch",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "10800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69171",
+      "title": "ゴーヘルゴー業 つきおとしてゴー",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "8245円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69466",
+      "title": "Blackish House ←sideZ -Retour-",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69551",
+      "title": "Villion:Code（ヴィリオン：コード）",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69586",
+      "title": "世界滅亡共有幻想マミヤ",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69672",
+      "title": "ラブピカルポッピー！",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7490円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69732",
+      "title": "メダロット カードロボトル RB カブト Ver.",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69739",
+      "title": "Outbound",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4527円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69752",
+      "title": "My little Puppy",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69764",
+      "title": "SAEKO: Giantess Dating Sim",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69921",
+      "title": "ケムコRPGセレクション Vol.14",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4527円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70918",
+      "title": "My Merry May with be",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70985",
+      "title": "Star Fox",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5891円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72223",
+      "title": "ケムコRPGセレクション Vol.7",
+      "release_date": "2026-06-25",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3891円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69465",
+      "title": "リズム天国 ミラクルスターズ",
+      "release_date": "2026-07-02",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5909円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69613",
+      "title": "がんばれゴエモン大集合！",
+      "release_date": "2026-07-02",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69912",
+      "title": "R-Type Dimensions III",
+      "release_date": "2026-07-02",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6300円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69077",
+      "title": "CRAZY CHA！N -エルピスの鎖-",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69434",
+      "title": "魔法少女ノ魔女裁判",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69604",
+      "title": "GRANBLUE FANTASY: Relink - Endless Ragnarok",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6300円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69618",
+      "title": "デジモンストーリー タイムストレンジャー",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69733",
+      "title": "白き鋼鉄のX（イクス）1＋2 デュアルコレクション",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6300円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69786",
+      "title": "Echoes of Aincrad",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8100円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69922",
+      "title": "フォワード・トゥ・ザ・スカイ（Forward To The Sky）",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70908",
+      "title": "MOUSE： やとわれの探偵",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70980",
+      "title": "ムーンライト・ピークス -ヴァンパイアのゴシックライフ-",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4900円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71704",
+      "title": "Unrailed 2:バック・オン・トラック",
+      "release_date": "2026-07-09",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-58592",
+      "title": "ヒプノシスマイク -Alternative Rap Battle- 2nd period",
+      "release_date": "2026-07-16",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69446",
+      "title": "Against the Storm アゲインスト・ザ・ストーム",
+      "release_date": "2026-07-16",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69595",
+      "title": "カルドセプト ビギンズ",
+      "release_date": "2026-07-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69795",
+      "title": "70年代風ロボットアニメ ゲッP-X",
+      "release_date": "2026-07-16",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69944",
+      "title": "Dreamin' Her - 僕は、彼女の夢を見る。-",
+      "release_date": "2026-07-16",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70925",
+      "title": "プロ野球スピリッツ2026",
+      "release_date": "2026-07-16",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "7980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70986",
+      "title": "Fit Boxing 3 – Your パーソナルトレーナー – Nintendo Switch 2 Edition",
+      "release_date": "2026-07-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72313",
+      "title": "SnowRunner",
+      "release_date": "2026-07-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5700円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-61940",
+      "title": "Nintendo Switch 2（日本語・国内専用） スプラトゥーン レイダース セット",
+      "release_date": "2026-07-23",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "59073円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-62067",
+      "title": "スプラトゥーン レイダース",
+      "release_date": "2026-07-23",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69954",
+      "title": "ヨグ=ソトースの庭",
+      "release_date": "2026-07-23",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "2700円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70919",
+      "title": "What Comes After",
+      "release_date": "2026-07-23",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70964",
+      "title": "ソラテリア",
+      "release_date": "2026-07-23",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4100円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70993",
+      "title": "ソラユメ",
+      "release_date": "2026-07-23",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71001",
+      "title": "お隣の天使様にいつの間にか駄目人間にされていた件 Memorial Vacation",
+      "release_date": "2026-07-23",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-59298",
+      "title": "ほの暮しの庭",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69478",
+      "title": "テニスの王子様 ぎゅ〜っと！ ドキドキサバイバル Tie break ♡ game",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69481",
+      "title": "テニスの王子様 も〜っと 学園祭の王子様 ♡-40 and more...",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "6998円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69488",
+      "title": "TATSUJIN EXTREME",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69708",
+      "title": "君に惑い、君に溺れる。",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69709",
+      "title": "カルドセプト ザ ファースト",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69763",
+      "title": "ムーミントロール：冬のぬくもり",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4073円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70001",
+      "title": "BLUE REFLECTION Quartet： 少女たちのキセキ",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70907",
+      "title": "アレサCOLLECTION 1993-1995",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70927",
+      "title": "ケムコRPGセレクション Vol.15",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4527円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70987",
+      "title": "Bluey’s Quest for The Gold Pen（ブルーイのゴールドペン・クエスト）",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5436円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71003",
+      "title": "久我山栞の死様手帖",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72145",
+      "title": "ゼノブレイド ディフィニティブ・エディション",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6889円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70928",
+      "title": "パウ・パトロール：ダイノ・ワールド",
+      "release_date": "2026-07-31",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5400円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69955",
+      "title": "コットンロックウィズユー",
+      "release_date": "2026-08-06",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71005",
+      "title": "Classic Racers Elite",
+      "release_date": "2026-08-06",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71006",
+      "title": "ザ・ナイン・チャーネル —第九納骨室—",
+      "release_date": "2026-08-06",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71007",
+      "title": "ROUTE16 COLLECTION",
+      "release_date": "2026-08-06",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71008",
+      "title": "もしかして？おばけの射的屋 for Nintendo Switch 2",
+      "release_date": "2026-08-06",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69635",
+      "title": "The Elder Scrolls IV: Oblivion Remastered",
+      "release_date": "2026-08-11",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-59148",
+      "title": "バブルボブル シュガーダンジョン ブースト",
+      "release_date": "2026-08-20",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69474",
+      "title": "Starsand Island（スターサンド・アイランド）",
+      "release_date": "2026-08-20",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "6380円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70930",
+      "title": "あやかしごはん 〜おかわりっ！〜 for S",
+      "release_date": "2026-08-20",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-47975",
+      "title": "ホグワーツ・レガシー（BEST PRICE）",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3627円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69608",
+      "title": "スーパーボンバーマン コレクション",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69629",
+      "title": "キャプテン翼2 WORLD FIGHTERS",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7700円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69673",
+      "title": "ブリガンダイン アビス",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69681",
+      "title": "メタルギア ソリッド: マスターコレクション Vol.2",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69724",
+      "title": "超新時空ゲイム ネプテューヌ∞（アンリミテッド）",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70931",
+      "title": "ピザデリバリー",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72218",
+      "title": "ファイナルファンタジーX/X-2 HDリマスター",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72219",
+      "title": "Model Debut4 #nicola／モデルデビュー4 ニコラ",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6280円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-61160",
+      "title": "ELDEN RING Tarnished Edition",
+      "release_date": "2026-08-28",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69632",
+      "title": "デビル メイ クライ 5 デビルハンターエディション",
+      "release_date": "2026-08-28",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3627円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72251",
+      "title": "STAR WARS ゼロ・カンパニー",
+      "release_date": "2026-08-28",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "7636円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71024",
+      "title": "機動警察パトレイバー the Case Files",
+      "release_date": "2026-08-31",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5799円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-56663",
+      "title": "はしれへべれけEX",
+      "release_date": "2026-09-03",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69180",
+      "title": "The Blood of Dawnwalker",
+      "release_date": "2026-09-03",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8900円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69396",
+      "title": "オービタルズ Orbitals",
+      "release_date": "2026-09-03",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6345円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70008",
+      "title": "OFF",
+      "release_date": "2026-09-03",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72220",
+      "title": "Wo Long: Fallen Dynasty Complete Edition",
+      "release_date": "2026-09-03",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72238",
+      "title": "シティーズ：スカイライン リマスター ジャパン・スペシャル・エディション",
+      "release_date": "2026-09-03",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72254",
+      "title": "僕のヒーローアカデミア All's Justice",
+      "release_date": "2026-09-03",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-59149",
+      "title": "NBA 2K27",
+      "release_date": "2026-09-04",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-60001",
+      "title": "Afterlove EP",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69439",
+      "title": "BLACK WOLVES SAGA-Weiβ und Schwarz- for Nintendo Switch",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70966",
+      "title": "制服カノジョ3",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70968",
+      "title": "制服カノジョ1・2・3セット",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "23980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71701",
+      "title": "学校であった怖い話と晦‐つきこもり",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71702",
+      "title": "三國志14 with パワーアップキット Complete Edition",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-68207",
+      "title": "Battle of Rebels",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-68347",
+      "title": "ファイアーエムブレム 万紫千紅",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "9073円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69401",
+      "title": "空の軌跡 the 2nd（ソラノキセキ ザ・セカンド）Nintendo Switch 2 Edition",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8136円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69417",
+      "title": "AKIBA LOST",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5891円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69438",
+      "title": "アーティス インパクト",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69625",
+      "title": "アナザーエデン ビギンズ",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4527円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69738",
+      "title": "Le Mirage Mystique（ル ミラージュ ミスティーク）",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71019",
+      "title": "創神のアルスマグナ The Alchemist of Ars Magna",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "7000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71347",
+      "title": "ミステリーの歩き方 2 人魚伝説殺人事件",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4526円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72255",
+      "title": "ソニックフロンティア 超・デラックス",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5445円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72294",
+      "title": "Absolum（アブソラム）",
+      "release_date": "2026-09-17",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4100円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69392",
+      "title": "レゴ バットマン：レガシー・オブ・ザ・ダークナイト",
+      "release_date": "2026-09-18",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-48578",
+      "title": "SILENT HILL： Townfall",
+      "release_date": "2026-09-24",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "6799円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69255",
+      "title": "GOBBLE（ガブル）",
+      "release_date": "2026-09-24",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71712",
+      "title": "ドラゴンクエストXI　過ぎ去りし時を求めて S",
+      "release_date": "2026-09-24",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72196",
+      "title": "ダービースタリオン2",
+      "release_date": "2026-09-24",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "9073円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72224",
+      "title": "ケムコRPGセレクション Vol.8",
+      "release_date": "2026-09-24",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3891円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72225",
+      "title": "ケムコRPGセレクション Vol.15",
+      "release_date": "2026-09-24",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4527円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72256",
+      "title": "SHINOBI 復讐の斬撃",
+      "release_date": "2026-09-24",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72258",
+      "title": "神貌のクリファ",
+      "release_date": "2026-09-24",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72457",
+      "title": "EA SPORTS FC 27",
+      "release_date": "2026-09-25",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7818円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69237",
+      "title": "ACE COMBAT 8: WINGS OF THEVE コレクターズ BOX",
+      "release_date": "2026-09-29",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "14300円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72295",
+      "title": "Minecraft Dungeons II",
+      "release_date": "2026-09-30",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4300円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69026",
+      "title": "Sullyland Nursery Rhyme",
+      "release_date": "2026-10-01",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69945",
+      "title": "虹彩都市",
+      "release_date": "2026-10-01",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3400円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72228",
+      "title": "レイマン レジェンド リトールド",
+      "release_date": "2026-10-01",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5100円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72234",
+      "title": "むちむちポーク！＆ピンクスゥイーツ Boosted",
+      "release_date": "2026-10-01",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5900円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72349",
+      "title": "『オクトパストラベラー』＋『オクトパストラベラーII』バンドル",
+      "release_date": "2026-10-01",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72464",
+      "title": "Solarpunk ソーラーパンク：天空の島",
+      "release_date": "2026-10-01",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69238",
+      "title": "Lies of P：コンプリート エディション",
+      "release_date": "2026-10-02",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7256円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69226",
+      "title": "スター・ウォーズ：ギャラクティック・レーサー",
+      "release_date": "2026-10-07",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8100円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70129",
+      "title": "デイヴ・ザ・ダイバー COMPLETE EDITION",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72166",
+      "title": "KINGDOM HEARTS Collection [I～III]",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "10000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72197",
+      "title": "地球防衛軍5 for Nintendo Switch 2",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3618円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72237",
+      "title": "レインボー★パラソルコレクション",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72239",
+      "title": "ケモノヒーローズ",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72292",
+      "title": "ぼくと釣り日記",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72300",
+      "title": "ギア・クラブ アンリミテッド 3",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5273円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72304",
+      "title": "マモンキング",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72350",
+      "title": "青鬼2",
+      "release_date": "2026-10-08",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72184",
+      "title": "ドラゴンズ ドグマ 2：ダークアリズン",
+      "release_date": "2026-10-09",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5445円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69686",
+      "title": "テイルズ オブ エターニア リマスター",
+      "release_date": "2026-10-15",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72376",
+      "title": "Toy Story： Retro Roundup！ ＋ Toy Story 3 Complete Edition Double Pack",
+      "release_date": "2026-10-15",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69012",
+      "title": "Back to the Dawn ～ブレイク･ザ･アニマル･プリズン～",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4480円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69229",
+      "title": "Stupid Never Dies",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "6990円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69575",
+      "title": "Bendy and the Ink Machine",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70411",
+      "title": "Bahamut and the Waqwaq Tree",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71705",
+      "title": "ホーギーヒュー",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72135",
+      "title": "ファイナルファンタジー レゾナンス",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72179",
+      "title": "Nintendo Switch スポーツ リゾート",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6345円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72207",
+      "title": "ワンピース 海のごちそうレストラン",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72261",
+      "title": "蒼き雷霆 ガンヴォルト トライアングル エディション Nintendo Switch 2 Edition",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6900円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72262",
+      "title": "デモンズナイトフィーバー",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72310",
+      "title": "ナインイヤーズオブシャドウズ",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4400円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72359",
+      "title": "ファーミング・キャンプ",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72371",
+      "title": "エイリアン：ファイアーチーム エリート2",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5900円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-41442",
+      "title": "幻想少女大戦 - DREAM OF THE STRAY DREAMER -",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4950円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-47227",
+      "title": "Hazel Sky",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-48167",
+      "title": "東方少女綺想譚",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-55882",
+      "title": "INDIKA",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70122",
+      "title": "みんなで空気読み。4 Nintendo Switch 2 Edition ＋（プラス）",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4273円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70973",
+      "title": "サンリオパーティランド",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71379",
+      "title": "アノマリス／ANOMALITH",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72306",
+      "title": "鬼滅の刃 ヒノカミ血風譚2 Nintendo Switch 2 Edition ＋ 「無限城編 第一章」キャラクターパス",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7100円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72468",
+      "title": "鉄道にっぽん！ RealPro 立体都市交通！XROSS OVER 名古屋 編",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70970",
+      "title": "クライムライト／CRYMELIGHT",
+      "release_date": "2026-11-05",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3978円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72307",
+      "title": "LIGHT 黒猫と記憶を失った少女",
+      "release_date": "2026-11-05",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72362",
+      "title": "ツーポイントホスピタル：ハートフルコレクション",
+      "release_date": "2026-11-06",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4444円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72141",
+      "title": "メタファー：リファンタジオ",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3627円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72329",
+      "title": "みんなでポイっと！プリニーすごろく",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72351",
+      "title": "サンセットヒルズ",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3600円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-53755",
+      "title": "グランド・セフト・オートVI",
+      "release_date": "2026-11-19",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8909円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69472",
+      "title": "MIX DUNK -KING OF BASKETBALL-",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71020",
+      "title": "小金井荘と金色の揚羽蝶",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7479円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72352",
+      "title": "ハッピーウィークエンド",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7480円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72354",
+      "title": "高校のダーティーシークレット",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4400円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72469",
+      "title": "超翼戦騎エスティーク",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4527円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72525",
+      "title": "楽園追放 -The Stellar Angel-",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72536",
+      "title": "タクシー・カオス2",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71422",
+      "title": "ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ",
+      "release_date": "2026-12-03",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7699円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72146",
+      "title": "ゼノブレイド3 Nintendo Switch 2 Edition",
+      "release_date": "2026-12-03",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8889円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-52765",
+      "title": "ストレイ チルドレン トレジャーボックス",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "9980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-57877",
+      "title": "薄桜鬼異聞 ベレジンスキーの魔女",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72200",
+      "title": "進撃の巨人3",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72355",
+      "title": "SUPERやのまんCOLLECTION",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72486",
+      "title": "Caladrius2/Dark Element（カラドリウス2/ダークエレメント）",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    }
   ]
 }

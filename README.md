@@ -25,9 +25,9 @@
 
 | セクション | 取得元 | 自動/手動 | 必要なキー |
 |---|---|---|---|
-| 映画（公開中/公開予定） | TMDB API | 自動 | `TMDB_API_KEY` |
+| 映画（公開中/公開予定） | TMDB API（日本・日本語） | 自動 | `TMDB_API_KEY` |
 | 金曜ロードショー | kinro.ntv.co.jp | 自動（スクレイピング） | 不要 |
-| ゲーム発売日 | RAWG API | 自動 | `RAWG_API_KEY` |
+| ゲーム発売日 | ファミ通（日本の発売日・日本語） | 自動（スクレイピング） | 不要 |
 | Minecraft | Modrinth API | 自動 | 不要 |
 | Roblox | `curated/roblox.json` | 手動編集 | 不要 |
 | ネットミーム | `curated/meme.json` | 手動編集 | 不要 |
@@ -103,8 +103,8 @@ window.ONIWORKS_CONFIG = {
 ### 4. APIキーを取得（無料）
 
 - **TMDB**（映画）: [themoviedb.org](https://www.themoviedb.org) 登録 → Settings → API → APIキー(v3)
-- **RAWG**（ゲーム）: [rawg.io/apidocs](https://rawg.io/apidocs) 登録 → APIキー
 - **Anthropic**（AIネタ生成）: [console.anthropic.com](https://console.anthropic.com) → API Keys
+- ゲーム（ファミ通）はキー不要です。
 
 ### 5. GitHub Secrets に登録
 
@@ -112,11 +112,10 @@ window.ONIWORKS_CONFIG = {
 
 | 名前 | 値 |
 |---|---|
-| `SUPABASE_URL` | Project URL |
-| `SUPABASE_SERVICE_KEY` | service_role キー |
-| `TMDB_API_KEY` | TMDBキー |
-| `RAWG_API_KEY` | RAWGキー |
-| `ANTHROPIC_API_KEY` | Anthropicキー |
+| `TMDB_API_KEY` | TMDBキー（映画） |
+| `ANTHROPIC_API_KEY` | Anthropicキー（AIネタ・任意） |
+| `SUPABASE_URL` | （Supabaseを使う場合のみ）Project URL |
+| `SUPABASE_SERVICE_KEY` | （Supabaseを使う場合のみ）service_role キー |
 
 ### 6. 自動更新を実行
 

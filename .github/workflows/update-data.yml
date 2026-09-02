@@ -29,7 +29,6 @@ jobs:
         env:
           # ↓ GitHub リポジトリの Settings > Secrets に登録してください（未設定の項目は自動でスキップ）
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}

@@ -10,7 +10,7 @@ import traceback
 # (モジュール名, 必要な環境変数 or None)
 STEPS = [
     ("fetch_movies", "TMDB_API_KEY"),
-    ("fetch_games", "RAWG_API_KEY"),
+    ("fetch_games", None),          # ファミ通スクレイピング（キー不要）
     ("fetch_minecraft", None),
     ("fetch_kinro", None),
     ("push_curated", None),

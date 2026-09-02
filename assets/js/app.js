@@ -117,7 +117,7 @@
           <div class="rel">${relLabel(it.release_date)}</div>
         </div>
         <div class="main-col">
-          <div class="title-line"><h3>${esc(it.title)}</h3></div>
+          <div class="title-line"><h3>${esc(it.title)}</h3>${it.price ? badge(it.price, "metric") : ""}</div>
           <div class="chips">${chipList(it.platforms, "platform")}${chipList(it.genre, "genre")}</div>
         </div>
       </article>`).join("");
