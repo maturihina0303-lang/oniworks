@@ -142,7 +142,8 @@ img { max-width: 100%; }
 #gate h1 b { color: var(--oni-strong); }
 #gate .gate-msg { color: var(--muted); font-size: 14px; margin: 6px 0 18px; }
 #gate input { width: 100%; box-sizing: border-box; font-size: 16px; font-family: inherit;
-  padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--bg2); color: var(--text); }
+  padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--bg2); color: var(--text);
+  ime-mode: active; /* 対応ブラウザではかな入力モードで開始 */ }
 #gate input:focus { outline: 2px solid var(--oni); border-color: var(--oni); }
 #gate button { width: 100%; margin-top: 12px; font-size: 16px; font-weight: 700; font-family: inherit;
   padding: 12px; border: 0; border-radius: 12px; background: var(--oni); color: #fff; cursor: pointer; }
