@@ -195,14 +195,14 @@
         <div class="section-head"><h2>🎬 公開中・公開予定の映画</h2><p class="sub">追いかけっこ・逃走系の元ネタ探しに</p></div>
         <div class="controls">
           <div class="tabs" data-tabs="movies">
-            <button class="tab active" data-f="all">すべて</button>
+            <button class="tab" data-f="all">すべて</button>
             <button class="tab" data-f="now">公開中</button>
-            <button class="tab" data-f="upcoming">公開予定</button>
+            <button class="tab active" data-f="upcoming">公開予定</button>
           </div>
           ${monthSelect("movies-month", movies, "release_date", dm)}
         </div>
         <div id="movies-list" class="list"></div>`;
-      const state = { status: "all", month: dm };
+      const state = { status: "upcoming", month: dm };
       const draw = () => renderMovies($("#movies-list", mount), state.status, state.month);
       draw();
       $$('[data-tabs="movies"] .tab', mount).forEach((b) =>
