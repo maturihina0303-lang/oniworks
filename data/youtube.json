@@ -1,0 +1,12 @@
+{
+  "_note": "サンプルデータ。YouTube Data API v3（急上昇×日本×ゲーム）で自動取得予定。",
+  "updated_at": "2026-09-02",
+  "items": [
+    { "id": "yt-s1", "title": "【マイクラ】新MODで最強の鬼ごっこしたら大混乱www", "channel": "ゲーム実況チャンネル", "url": "https://www.youtube.com/results?search_query=マインクラフト+鬼ごっこ", "thumbnail": "", "views": "128万回", "published": "2026-08-30", "source": "YouTube(sample)" },
+    { "id": "yt-s2", "title": "スプラトゥーン4 最速プレイ！新ブキが強すぎた", "channel": "スプラ実況者", "url": "https://www.youtube.com/results?search_query=スプラトゥーン4", "thumbnail": "", "views": "94万回", "published": "2026-09-01", "source": "YouTube(sample)" },
+    { "id": "yt-s3", "title": "【Roblox】DOORSの新モンスターから逃げ切れ！", "channel": "ロブロックス実況", "url": "https://www.youtube.com/results?search_query=roblox+doors", "thumbnail": "", "views": "76万回", "published": "2026-08-28", "source": "YouTube(sample)" },
+    { "id": "yt-s4", "title": "フォートナイト新シーズンでビクロイ量産する方法", "channel": "FPS大好き", "url": "https://www.youtube.com/results?search_query=フォートナイト", "thumbnail": "", "views": "210万回", "published": "2026-08-25", "source": "YouTube(sample)" },
+    { "id": "yt-s5", "title": "ポケモンレジェンズ Z-A 発売前情報まとめ！", "channel": "ポケモン考察", "url": "https://www.youtube.com/results?search_query=ポケモンレジェンズ+ZA", "thumbnail": "", "views": "63万回", "published": "2026-08-27", "source": "YouTube(sample)" },
+    { "id": "yt-s6", "title": "【ホラー】学校であった怖い話を実況したら泣いた", "channel": "ホラーゲーム部", "url": "https://www.youtube.com/results?search_query=学校であった怖い話", "thumbnail": "", "views": "41万回", "published": "2026-08-31", "source": "YouTube(sample)" }
+  ]
+}

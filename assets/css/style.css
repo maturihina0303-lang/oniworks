@@ -120,6 +120,15 @@ img { max-width: 100%; }
 .chip.tag { background: var(--oni-soft); color: var(--oni-strong); }
 .chip.src { background: #f4eafb; color: #9457c7; }
 
+/* YouTube 動画カード */
+.ytgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+.card.yt { padding: 0; overflow: hidden; display: block; color: inherit; transition: transform .12s, box-shadow .12s; }
+.card.yt:hover { transform: translateY(-3px); box-shadow: 0 10px 26px rgba(244,124,67,.18); text-decoration: none; }
+.card.yt .ytthumb { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: var(--oni-soft); }
+.card.yt .ytbody { padding: 12px 14px 14px; }
+.card.yt h3 { font-size: 15px; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.card.yt .ytmeta { color: var(--muted); font-size: 12px; margin-top: 8px; }
+
 .empty { color: var(--muted); padding: 30px; text-align: center; border: 1px dashed var(--line); border-radius: var(--radius); }
 
 /* ---------- フッター ---------- */

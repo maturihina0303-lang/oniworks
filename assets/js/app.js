@@ -163,6 +163,19 @@
       </article>`).join("");
   }
 
+  function renderYoutube(mount) {
+    const items = (store.youtube?.items || []);
+    if (!items.length) return (mount.innerHTML = emptyMsg("動画がありません。"));
+    mount.innerHTML = items.map((it) => `
+      <a class="card yt" href="${esc(it.url)}" target="_blank" rel="noopener">
+        ${it.thumbnail ? `<img class="ytthumb" src="${esc(it.thumbnail)}" alt="" loading="lazy" onerror="this.remove()">` : `<div class="ytthumb"></div>`}
+        <div class="ytbody">
+          <h3>${esc(it.title)}</h3>
+          <div class="ytmeta">${esc(it.channel || "")}${it.views ? ` ・ ${esc(it.views)}再生` : ""}</div>
+        </div>
+      </a>`).join("");
+  }
+
   // ---------- ルーティング ----------
   const VIEWS = {
     home: (mount) => {
@@ -221,6 +234,10 @@
     meme: (mount) => {
       mount.innerHTML = `<div class="section-head"><h2>😂 ネットミーム</h2><p class="sub">鬼役の見た目・効果音・演出ネタに</p></div><div id="mm-list" class="grid"></div>`;
       renderTopics($("#mm-list", mount), "meme");
+    },
+    youtube: (mount) => {
+      mount.innerHTML = `<div class="section-head"><h2>📹 YouTube ゲーム急上昇</h2><p class="sub">日本で今バズっているゲーム動画。企画のヒントに</p></div><div id="yt-list" class="ytgrid"></div>`;
+      renderYoutube($("#yt-list", mount));
     }
   };
 
@@ -236,7 +253,7 @@
   async function boot() {
     const status = $("#status");
     try {
-      const keys = ["ideas", "movies", "kinro", "games", "topics"];
+      const keys = ["ideas", "movies", "kinro", "games", "topics", "youtube"];
       const results = await Promise.all(keys.map((k) => window.OniData.load(k)));
       keys.forEach((k, i) => (store[k] = results[i]));
       const src = window.OniData.useSupabase ? "Supabase(自動更新)" : "毎日自動更新";

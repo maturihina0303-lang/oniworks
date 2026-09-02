@@ -10,6 +10,7 @@
     kinro: { table: "kinro", file: "data/kinro.json" },
     games: { table: "games", file: "data/games.json" },
     topics: { table: "topics", file: "data/topics.json" },
+    youtube: { table: "youtube", file: "data/youtube.json" },
     ideas: { table: "ideas", file: "data/ideas.json" }
   };
 

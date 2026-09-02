@@ -50,6 +50,18 @@ create table if not exists topics (
   updated_at  timestamptz default now()
 );
 
+create table if not exists youtube (
+  id         text primary key,
+  title      text not null,
+  channel    text,
+  url        text,
+  thumbnail  text,
+  views      text,
+  published  date,
+  source     text,
+  updated_at timestamptz default now()
+);
+
 create table if not exists ideas (
   id         text primary key,
   title      text not null,
@@ -69,12 +81,13 @@ alter table movies enable row level security;
 alter table kinro  enable row level security;
 alter table games  enable row level security;
 alter table topics enable row level security;
+alter table youtube enable row level security;
 alter table ideas  enable row level security;
 
 do $$
 declare t text;
 begin
-  foreach t in array array['movies','kinro','games','topics','ideas'] loop
+  foreach t in array array['movies','kinro','games','topics','youtube','ideas'] loop
     execute format('drop policy if exists "public read %1$s" on %1$s;', t);
     execute format('create policy "public read %1$s" on %1$s for select using (true);', t);
   end loop;

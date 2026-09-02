@@ -13,6 +13,7 @@ STEPS = [
     ("fetch_games", None),          # ファミ通スクレイピング（キー不要）
     ("fetch_minecraft", None),
     ("fetch_kinro", None),
+    ("fetch_youtube", "YOUTUBE_API_KEY"),
     ("push_curated", None),
     ("generate_ideas", None),  # 最後：他データを元に企画ネタ生成（AI不使用）
 ]
