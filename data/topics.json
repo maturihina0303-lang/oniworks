@@ -3,50 +3,6 @@
   "updated_at": "2026-09-02",
   "items": [
     {
-      "id": "rb-doors",
-      "category": "roblox",
-      "name": "DOORS（ドアーズ）",
-      "type": "ゲーム/キャラ",
-      "url": "https://www.roblox.com/games/6516141723",
-      "metric": "定番人気",
-      "updated": "2026-08-25",
-      "description": "モンスター『Rush』『Ambush』から逃げるホラー脱出。鬼役キャラが豊富。",
-      "source": "手動"
-    },
-    {
-      "id": "rb-forsaken",
-      "category": "roblox",
-      "name": "Forsaken（フォーセイクン）",
-      "type": "ゲーム",
-      "url": "https://www.roblox.com",
-      "metric": "トレンド",
-      "updated": "2026-09-01",
-      "description": "1人の鬼 vs 生存者の非対称鬼ごっこ。キラー多数。",
-      "source": "手動"
-    },
-    {
-      "id": "mm-brainrot",
-      "category": "meme",
-      "name": "イタリアンブレインロット",
-      "type": "ミーム",
-      "url": "",
-      "metric": "SNS急上昇",
-      "updated": "2026-08-18",
-      "description": "変な合成キャラ達。鬼のコスプレ/効果音ネタに。",
-      "source": "手動"
-    },
-    {
-      "id": "mm-skibidi",
-      "category": "meme",
-      "name": "スキビディトイレ",
-      "type": "ミーム",
-      "url": "",
-      "metric": "定番人気",
-      "updated": "2026-08-10",
-      "description": "トイレ頭キャラ。鬼役の見た目ネタとして鉄板。",
-      "source": "手動"
-    },
-    {
       "id": "modrinth-2cMuAZAp",
       "category": "minecraft",
       "name": "Alex's Mobs",
@@ -56,7 +12,7 @@
       "metric": "DL 14.2M",
       "downloads": 14241059,
       "updated": "2024-09-06",
-      "description": "デフォルトのゲームを上回るスタイルの品質を備えた 85 以上の新しいモブ。",
+      "description": "デフォルトのゲームを上回るスタイルの品質を備えた 85 個以上の新しいモブ。",
       "image": "https://cdn.modrinth.com/data/2cMuAZAp/fbe04602fb0fb336be05e7c40378156b49d50156_96.webp",
       "source": "Modrinth"
     },
@@ -196,7 +152,7 @@
       "metric": "DL 1.8M",
       "downloads": 1756439,
       "updated": "2026-01-16",
-      "description": "ArPhEx ホラー MOD - 現実的で複雑な恐怖症を引き起こす存在と超自然的なボス",
+      "description": "ArPhEx ホラー MOD - 現実的で複雑な、恐怖症を引き起こす存在と超自然的なボス",
       "image": "https://cdn.modrinth.com/data/k0RPP4IO/5384f109c75cd5f50a060830afa9ebb647d965c1.gif",
       "source": "Modrinth"
     },
@@ -224,7 +180,7 @@
       "metric": "DL 1.1M",
       "downloads": 1064937,
       "updated": "2026-08-19",
-      "description": "それは常軌を逸した魅力であなたを追いかけ、遭遇するたびにその悪夢のような執着がさらに加速します…",
+      "description": "それは常軌を逸した魅力であなたを追い回し、遭遇するたびにその悪夢のような執着がさらに加速します…",
       "image": "https://cdn.modrinth.com/data/e2UrUTKG/75ae75b799cff98398f96674c6fa8cb81b5ccd7b.gif",
       "source": "Modrinth"
     },
@@ -252,7 +208,7 @@
       "metric": "DL 523K",
       "downloads": 523254,
       "updated": "2023-12-31",
-      "description": "特定の条件下では、あなたは偏執的になり、あなたの経験は...少し快適ではなくなります:) (霧のレンダリングも作り直します)",
+      "description": "特定の状況下では、あなたは妄想的になり、あなたの経験は...少し快適ではなくなります:) (霧のレンダリングも作り直します)",
       "image": "https://cdn.modrinth.com/data/1Gvs6BYH/84fd494cbd5c6b3cd78584cf164963efed3c410e.png",
       "source": "Modrinth"
     },
@@ -274,7 +230,7 @@
       "id": "modrinth-6uYEuMuO",
       "category": "minecraft",
       "name": "The Irritator [HORROR] [DWELLER] [CRYPTID]",
-      "name_ja": "イライラ者 [ホラー] [住人] [謎めいた]",
+      "name_ja": "イライラ者 [ホラー] [住人] [謎の]",
       "type": "MOD",
       "url": "https://modrinth.com/mod/the-irritator-(dweller)",
       "metric": "DL 454K",
@@ -322,7 +278,7 @@
       "metric": "DL 223K",
       "downloads": 223438,
       "updated": "2026-06-30",
-      "description": "この MOD は、廊下から迷路、宝物庫、直立の罠に至るまで、テレポートや異次元のポケット ダンジョンへのアクセスを可能にする数種類の次元のドアを追加します。\n\n探検を楽しんでください。しかし、何に見守られているかには注意してください。",
+      "description": "この MOD は、廊下から迷路、宝物庫、直立の罠まで、さまざまなテレポートや異次元のポケット ダンジョンへのアクセスを可能にする数種類の次元のドアを追加します。\n\n探検を楽しんでください。しかし、何に見守られているかには注意してください。",
       "image": "https://cdn.modrinth.com/data/b8Q0BxnV/26940a49267ef1e9ce0f32d44dfbfc7194a2d1f4.png",
       "source": "Modrinth"
     },
@@ -372,7 +328,7 @@
       "id": "modrinth-O0LWYDGN",
       "category": "minecraft",
       "name": "The Backrooms Mod (OUTDATED)",
-      "name_ja": "バックルームズ Mod (時代遅れ)",
+      "name_ja": "バックルーム Mod (時代遅れ)",
       "type": "MOD",
       "url": "https://modrinth.com/mod/the-best-backrooms-mod",
       "metric": "DL 76K",
@@ -420,7 +376,7 @@
       "metric": "DL 37K",
       "downloads": 37004,
       "updated": "2025-09-23",
-      "description": "あなたの世界をかくれんぼのミニゲームに変えましょう",
+      "description": "あなたの世界をかくれんぼミニゲームに変えましょう",
       "image": "https://cdn.modrinth.com/data/lDyeWtte/9392e8e13928fe7cff5ee691ede71b6912fcbe23.png",
       "source": "Modrinth"
     },
@@ -434,7 +390,7 @@
       "metric": "DL 31K",
       "downloads": 30990,
       "updated": "2025-12-22",
-      "description": "FSang18 の Mighty Morphin' は、オリジナル 6 人の Mighty Morphin' パワー レンジャーとホワイト レンジャーを Palladium アドオンパックとして Minecraft に導入します。",
+      "description": "FSang18 の Mighty Morphin' は、オリジナルの 6 人の Mighty Morphin' パワー レンジャーとホワイト レンジャーを Palladium アドオンパックとして Minecraft に導入します。",
       "image": "https://cdn.modrinth.com/data/l1nZC50H/47c8ca9fc2242911b8c3bfab8a66e9f29bf50364.png",
       "source": "Modrinth"
     },
@@ -462,9 +418,53 @@
       "metric": "DL 24K",
       "downloads": 23516,
       "updated": "2025-08-15",
-      "description": "新しい MOD とマップ (現在開発中 👀 ) を使って、バックルームの不気味で神秘的な世界に飛び込みましょう。 Discord に参加して進捗状況を確認してください。",
+      "description": "新しい MOD とマップ (現在開発中 👀 ) を使用して、バックルームの不気味で神秘的な世界に飛び込みましょう。 Discord に参加して進捗状況を確認してください。",
       "image": "https://cdn.modrinth.com/data/tIbKXIj1/95ba32dddb04b99eb408e42b460f248b3ab5e285_96.webp",
       "source": "Modrinth"
+    },
+    {
+      "id": "rb-doors",
+      "category": "roblox",
+      "name": "DOORS（ドアーズ）",
+      "type": "ゲーム/キャラ",
+      "url": "https://www.roblox.com/games/6516141723",
+      "metric": "定番人気",
+      "updated": "2026-08-25",
+      "description": "モンスター『Rush』『Ambush』から逃げるホラー脱出。鬼役キャラが豊富。",
+      "source": "手動"
+    },
+    {
+      "id": "rb-forsaken",
+      "category": "roblox",
+      "name": "Forsaken（フォーセイクン）",
+      "type": "ゲーム",
+      "url": "https://www.roblox.com",
+      "metric": "トレンド",
+      "updated": "2026-09-01",
+      "description": "1人の鬼 vs 生存者の非対称鬼ごっこ。キラー多数。",
+      "source": "手動"
+    },
+    {
+      "id": "mm-brainrot",
+      "category": "meme",
+      "name": "イタリアンブレインロット",
+      "type": "ミーム",
+      "url": "",
+      "metric": "SNS急上昇",
+      "updated": "2026-08-18",
+      "description": "変な合成キャラ達。鬼のコスプレ/効果音ネタに。",
+      "source": "手動"
+    },
+    {
+      "id": "mm-skibidi",
+      "category": "meme",
+      "name": "スキビディトイレ",
+      "type": "ミーム",
+      "url": "",
+      "metric": "定番人気",
+      "updated": "2026-08-10",
+      "description": "トイレ頭キャラ。鬼役の見た目ネタとして鉄板。",
+      "source": "手動"
     }
   ]
 }

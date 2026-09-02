@@ -6,7 +6,7 @@
       "id": "tmdb-1586876",
       "title": "映画ちいかわ 人魚の島のひみつ",
       "release_date": "2026-07-24",
-      "status": "upcoming",
+      "status": "now",
       "genre": [
         "アニメーション",
         "ファミリー",
@@ -30,7 +30,7 @@
       ],
       "overview": "愛する人たちを守るために、彼らの記憶から自らの存在を消すという決断をした『スパイダーマン：ノー・ウェイ・ホーム』の出来事から４年。大人になったピーター・パーカーはスパイダーマンとして、ニューヨークの人々を守り、彼らを脅かす犯罪と戦う日々に全力を尽くしていた。そんななか、人々の期待を背負う彼の体に驚くべき身体的変異が起こり始める。同時に、街では姿なき不可解な犯罪が頻発。“親愛なる隣人”に、かつて直面したことのない大きな脅威が迫る──。",
       "poster": "https://image.tmdb.org/t/p/w500/hvbs76wGMZYqJSvaRps5jDzHUhN.jpg",
-      "popularity": 1028.0,
+      "popularity": 952.5,
       "source": "TMDB"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/vqv4shUzZ4rk4rtqXNifAD8yevx.jpg",
-      "popularity": 176.9,
+      "popularity": 174.0,
       "source": "TMDB"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-      "popularity": 32.2,
+      "popularity": 34.7,
       "source": "TMDB"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "overview": "テレビアニメ「クレヨンしんちゃん」の劇場版第33作。妖怪の国に迷い込んでしまった野原家が、どこか懐かしくも奇々怪々な世界で繰り広げる大冒険を描く。",
       "poster": "https://image.tmdb.org/t/p/w500/15iwqqJVgFfeFh4Y1f8gg9yi2Fw.jpg",
-      "popularity": 32.0,
+      "popularity": 33.2,
       "source": "TMDB"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "overview": "最強最悪のボスを求めて旅するミニオンズがたどり着いたのは夢あふれるハリウッドの世界。ひょんなことから自分たちでモンスター映画を作ろうと本物のモンスターを召喚するが…超危険なヤツらが次々と解き放たれ、街は大パニックに！さらに仲間割れまで勃発し、ミニオンズ史上最大のピンチが訪れる。大切な仲間と力を合わせれば…きっと世界を救える…ハズ！？",
       "poster": "https://image.tmdb.org/t/p/w500/8wYHlLEIrEKvbfj83B11g7FKFd8.jpg",
-      "popularity": 176.4,
+      "popularity": 183.0,
       "source": "TMDB"
     },
     {
@@ -137,7 +137,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/8EOuBxH8cqkVFdblOOduNsC0TuU.jpg",
-      "popularity": 5.5,
+      "popularity": 5.4,
       "source": "TMDB"
     },
     {
@@ -156,20 +156,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1688584",
-      "title": "ゴースト・オブ・ウエノ",
-      "release_date": "2026-08-08",
-      "status": "now",
-      "genre": [
-        "ドラマ",
-        "コメディ"
-      ],
-      "overview": "",
-      "poster": "",
-      "popularity": 1.3,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1101383",
       "title": "オークストリートの異変",
       "release_date": "2026-08-14",
@@ -181,7 +167,7 @@
       ],
       "overview": "郊外の住宅地に暮らすデニースとグレッグは夫婦仲がギクシャクしており、子供たちも気をもんでいた。しかし町が深夜に謎の閃光に包まれ、翌朝 目覚めると信じられない事態になっていた。",
       "poster": "https://image.tmdb.org/t/p/w500/kwp7kVAJjCDMEqWB8DO30S21fwK.jpg",
-      "popularity": 83.4,
+      "popularity": 77.1,
       "source": "TMDB"
     },
     {
@@ -196,7 +182,7 @@
       ],
       "overview": "1970年代のフランス、何者かに拉致監禁され、長期にわたり虐待を受け続けた少女リュシー（ジェシー・パム）は自力で逃げ出し、傷だらけの状態で発見される。養護施設に収容された彼女は心を閉ざしていたが、同年代の少女アンナ（エリカ・スコット）にだけは心を許していた。15年後、リュシー（ミレーヌ・ジャンパノイ）は自分を監禁した相手を発見し、猟銃を手に犯人宅を訪れる。",
       "poster": "https://image.tmdb.org/t/p/w500/nQkZiYtQLqchP6wT9rlSvqVQonu.jpg",
-      "popularity": 9.5,
+      "popularity": 12.5,
       "source": "TMDB"
     },
     {
@@ -238,7 +224,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/webvmFLejrMJhJlehFgrGLl92hI.jpg",
-      "popularity": 43.6,
+      "popularity": 42.5,
       "source": "TMDB"
     },
     {
@@ -253,7 +239,7 @@
       ],
       "overview": "ボストンのカフェで運命的な出会いを果たしたチャーリーとエマは、この上なく幸せな日々を送っていた。結婚式まであと7日と迫った夜、付添人の親友夫婦と4人での食事中、これまでにやらかした最悪の行いを告白することに。軽い気持ちで始めたゲームだったが、エマの【最悪の秘密】に全員がドン引き。チャーリーはエマには想像を絶する別の顔があるのではないかと恐れを抱く。幸せの絶頂は一転、疑心暗鬼のどん底へと墜落するが、結婚式の準備を止める術はなく、遂に当日を迎えるー。",
       "poster": "https://image.tmdb.org/t/p/w500/11fbppAwOXincr3jSqlwZ81MHVp.jpg",
-      "popularity": 37.1,
+      "popularity": 39.9,
       "source": "TMDB"
     },
     {
@@ -267,7 +253,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-      "popularity": 32.8,
+      "popularity": 31.5,
       "source": "TMDB"
     },
     {
@@ -334,8 +320,8 @@
         "ドラマ"
       ],
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "popularity": 283.5,
+      "poster": "https://image.tmdb.org/t/p/w500/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+      "popularity": 260.8,
       "source": "TMDB"
     },
     {
@@ -350,7 +336,7 @@
       ],
       "overview": "謎のパンデミックにより人口の大半が失われ、生き残った者たちが奪い合いを繰り広げる荒廃した世界。パイロットのヒッグは、元軍人のバングリーと共同戦線を張ることで日々を生き延びていた。心の拠り所は、愛犬ジャスパーの存在と亡き妻の記憶だけ。そんなある日、彼のもとに無線を通じて謎の声が届く。世界の終わりになお希望が残されているかもしれないと考えたヒッグは、その声に導かれるように、未知の空へと飛び立つ決意を固める。だがその先に広がっていたのは、凶暴な動物や容赦ない襲撃者がはびこる、殺すか殺されるかの過酷な現実だった。",
       "poster": "https://image.tmdb.org/t/p/w500/q3nADCWlm8B1LaJ8KiyCuFxAQWw.jpg",
-      "popularity": 120.5,
+      "popularity": 117.2,
       "source": "TMDB"
     },
     {
@@ -363,7 +349,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/cssZAuI7ipN0a2wQgGLQ7fiSqm3.jpg",
-      "popularity": 69.2,
+      "popularity": 65.3,
       "source": "TMDB"
     },
     {
@@ -378,7 +364,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/bEgOHa6XrRTzgm9TCqyACqI2VSn.jpg",
-      "popularity": 58.2,
+      "popularity": 55.7,
       "source": "TMDB"
     },
     {
@@ -394,7 +380,7 @@
       ],
       "overview": "『叛逆の物語』の事件を経て、世界は表向き均衡を取り戻したかに見えた。しかし、その平和はあまりにも脆い。ワルプルギスの夜にまつわる新たな脅威が姿を現し始めたとき、暁美ほむらは自らが下した選択の代償と向き合うことになる——まどかを守るために、自分はどこまで踏み込む覚悟があるのか。",
       "poster": "https://image.tmdb.org/t/p/w500/tc7wW6whJSvxM9f5RdqmQVpdl6n.jpg",
-      "popularity": 53.3,
+      "popularity": 50.8,
       "source": "TMDB"
     },
     {
@@ -424,6 +410,19 @@
       "source": "TMDB"
     },
     {
+      "id": "tmdb-1730148",
+      "title": "王様戦隊キングオージャー フィルム・コンサート in シネマ",
+      "release_date": "2026-08-28",
+      "status": "now",
+      "genre": [
+        "音楽"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sTTDKZcqCUcnLvezpe1m3Wao4f.jpg",
+      "popularity": 1.8,
+      "source": "TMDB"
+    },
+    {
       "id": "tmdb-1654276",
       "title": "平行と垂直",
       "release_date": "2026-08-28",
@@ -438,19 +437,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1730148",
-      "title": "王様戦隊キングオージャー フィルム・コンサート in シネマ",
-      "release_date": "2026-08-28",
-      "status": "now",
-      "genre": [
-        "音楽"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sTTDKZcqCUcnLvezpe1m3Wao4f.jpg",
-      "popularity": 1.8,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1083381",
       "title": "バックルームズ",
       "release_date": "2026-09-04",
@@ -462,7 +448,7 @@
       ],
       "overview": "舞台は、都市伝説とされていた空間“Backrooms”。「ある日突然 “現実世界の裏側”へ墜ちてしまったら…？」どこまでも続く黄色い壁紙の部屋、終わりのない廊下。不自然な間取りと、意味を失い床に埋まった設置物。  わずかに現実からズレている――そんな出口のない“リミナルスペース”で、観客は“最高密度の不安と恐怖”を体験する。",
       "poster": "https://image.tmdb.org/t/p/w500/z52Eabu4xm5I8ksqdKOSylo5wWL.jpg",
-      "popularity": 132.2,
+      "popularity": 122.1,
       "source": "TMDB"
     },
     {
@@ -512,21 +498,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1368535",
-      "title": "僕の一年、君の一日",
-      "release_date": "2026-09-04",
-      "status": "now",
-      "genre": [
-        "ファンタジー",
-        "ロマンス",
-        "サイエンスフィクション"
-      ],
-      "overview": "突然発生した大災害によって、世界は二つに分断された。 海の中央にそびえ立つ重力の壁によって、時間と重力は歪み、「優日区」と呼ばれる地域の一日は、もう片方の「長年区」と呼ばれる地域の一年に相当するようになった。 優日区で研修医として働くアンチン（アンジェラ・ユン）は、医療支援チーム“小鳩隊”の一員として、物資が不足する長年区へ、危険を冒しながら何度も重力の壁を越えて医療支援に向かう。 初めて長年区を訪れたアンチンが出会ったのは、ポテト（シュー・グァンハン）と呼ばれている13歳の少年だった。口の達者な少年だと思っていた彼女とは裏腹に、ポテトは一目でアンチンに恋をする。自ら医療支援チームに加わった彼は、命がけで薬や物資を運び、人を救う術を学びながら成長していく。そのひたむきな姿は、次第にアンチンの心を動かしていく。 しかし、アンチンにとっては一日でも、ポテトにとっては一年。再会するたびに、少年だった彼は青年へ、そして大人へと成長していく。二人は、時を重ねるごとに互いをかけがえのない存在として想い合うようになるが、時間と重力が引き裂く世界は、彼らにあまりにも過酷な運命を突きつける。 異なる時間を生きる二人の愛は、時を超えて結ばれるのか――。",
-      "poster": "https://image.tmdb.org/t/p/w500/7KK3fduU29dsSNLQa5WmxGR5xD0.jpg",
-      "popularity": 1.3,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1136690",
       "title": "ラブ・ライズ",
       "release_date": "2026-09-04",
@@ -544,7 +515,7 @@
       "id": "tmdb-1621964",
       "title": "白鳥とコウモリ",
       "release_date": "2026-09-04",
-      "status": "upcoming",
+      "status": "now",
       "genre": [
         "犯罪",
         "ドラマ",
@@ -554,6 +525,21 @@
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/jIEyBR9gCrDMEQ7UcxWmJVj2zDi.jpg",
       "popularity": 1.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1368535",
+      "title": "僕の一年、君の一日",
+      "release_date": "2026-09-04",
+      "status": "now",
+      "genre": [
+        "ファンタジー",
+        "ロマンス",
+        "サイエンスフィクション"
+      ],
+      "overview": "突然発生した大災害によって、世界は二つに分断された。 海の中央にそびえ立つ重力の壁によって、時間と重力は歪み、「優日区」と呼ばれる地域の一日は、もう片方の「長年区」と呼ばれる地域の一年に相当するようになった。 優日区で研修医として働くアンチン（アンジェラ・ユン）は、医療支援チーム“小鳩隊”の一員として、物資が不足する長年区へ、危険を冒しながら何度も重力の壁を越えて医療支援に向かう。 初めて長年区を訪れたアンチンが出会ったのは、ポテト（シュー・グァンハン）と呼ばれている13歳の少年だった。口の達者な少年だと思っていた彼女とは裏腹に、ポテトは一目でアンチンに恋をする。自ら医療支援チームに加わった彼は、命がけで薬や物資を運び、人を救う術を学びながら成長していく。そのひたむきな姿は、次第にアンチンの心を動かしていく。 しかし、アンチンにとっては一日でも、ポテトにとっては一年。再会するたびに、少年だった彼は青年へ、そして大人へと成長していく。二人は、時を重ねるごとに互いをかけがえのない存在として想い合うようになるが、時間と重力が引き裂く世界は、彼らにあまりにも過酷な運命を突きつける。 異なる時間を生きる二人の愛は、時を超えて結ばれるのか――。",
+      "poster": "https://image.tmdb.org/t/p/w500/7KK3fduU29dsSNLQa5WmxGR5xD0.jpg",
+      "popularity": 1.3,
       "source": "TMDB"
     },
     {
@@ -610,6 +596,19 @@
       "source": "TMDB"
     },
     {
+      "id": "tmdb-1591675",
+      "title": "ルックバック",
+      "release_date": "2026-09-11",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/6eXDHPwPDTZTgf4wuGIP49bxxJV.jpg",
+      "popularity": 3.1,
+      "source": "TMDB"
+    },
+    {
       "id": "tmdb-1497946",
       "title": "ネルソンさん、あなたは人を殺しましたか？",
       "release_date": "2026-09-11",
@@ -621,19 +620,6 @@
       "overview": "貧困や差別から抜け出すために18歳で入隊したアフリカ系アメリカ人のアレン・ネルソン。ベトナムという苛烈な戦地で学んだことはただひとつ、いかに多くの人を殺せるか。その対価として得たのは、ごくわずかな賃金とPTSD（戦争後遺症）だけだった。23歳で家を追い出され、ホームレスとなったアレンをこの世につなぎ止めたのは、退役軍人病院でカウンセリングを行っていたダニエルズ医師の存在だった。",
       "poster": "https://image.tmdb.org/t/p/w500/9CKA9mGKUxFFuShat0aZnOS2QMd.jpg",
       "popularity": 2.7,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1591675",
-      "title": "ルックバック",
-      "release_date": "2026-09-11",
-      "status": "upcoming",
-      "genre": [
-        "ドラマ"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/6eXDHPwPDTZTgf4wuGIP49bxxJV.jpg",
-      "popularity": 3.1,
       "source": "TMDB"
     },
     {
@@ -666,21 +652,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1302904",
-      "title": "プラティカル・マジック／魔女たちの秘密",
-      "release_date": "2026-09-18",
-      "status": "upcoming",
-      "genre": [
-        "ロマンス",
-        "ファンタジー",
-        "コメディ"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
-      "popularity": 19.7,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1391021",
       "title": "欢迎来龙餐馆",
       "release_date": "2026-09-18",
@@ -692,6 +663,21 @@
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
       "popularity": 23.3,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1302904",
+      "title": "プラティカル・マジック／魔女たちの秘密",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "ロマンス",
+        "ファンタジー",
+        "コメディ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+      "popularity": 19.7,
       "source": "TMDB"
     },
     {
@@ -736,6 +722,19 @@
       "overview": "内定ゼロ、彼女ナシ。大学生・井川辰弥のもとに舞い込んだ母の訃報。  奇妙な探偵・金田一耕助に誘われ、岡山県山奥に潜む「八つ墓村」を訪れる。  封印された、ルーツと怨念の記憶が目を覚ます。  村では、名家・田治見家の莫大な遺産の相続人である辰弥の帰還に合わせたかのように、\r 不可解な連続殺人事件が発生。  金田一耕助と共に、事件に巻き込まれてゆく。  美しき未亡人・森美也子、双子の大叔母、不気味な村人たち ──。  誰も知らない“八つ墓”の秘密が今明かされる ──。  ようこそ、最高の悪夢へ。",
       "poster": "https://image.tmdb.org/t/p/w500/3xLSVAQZAs1DEUNm1TKYzx0kiLT.jpg",
       "popularity": 1.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1690296",
+      "title": "さとこはいつも",
+      "release_date": "2026-09-18",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "2026年製作／日本  配給：ハピネットファントム・スタジオ  劇場公開日：2026年9月18日",
+      "poster": "https://image.tmdb.org/t/p/w500/p66OUbjpFk32IVCZfWtiVWA8Hhy.jpg",
+      "popularity": 1.2,
       "source": "TMDB"
     },
     {
@@ -807,19 +806,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1595400",
-      "title": "マッチング TRUE LOVE",
-      "release_date": "2026-09-25",
-      "status": "upcoming",
-      "genre": [
-        "スリラー"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kWIqWDagKVlCXxwHzxsmDPJU2ld.jpg",
-      "popularity": 1.9,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1496928",
       "title": "我々は宇宙人",
       "release_date": "2026-09-25",
@@ -832,6 +818,19 @@
       "overview": "小学三年生の夏、内気な少年のつばさは、クラスの人気者である暁太郎と出会い、親友になる。小さな世界の中で、かけがえのない時間を過ごしていくふたり。しかし、ある些細な事件をきっかけに、ふたりの関係は引き裂かれて——。  30年以上にわたる少年たちの友情と再会を通して、人が生きることの意味を静かに問いかける物語。",
       "poster": "https://image.tmdb.org/t/p/w500/pDq9lDGluzgbvS3lYbyLKnKo0mu.jpg",
       "popularity": 2.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1595400",
+      "title": "マッチング TRUE LOVE",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "スリラー"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kWIqWDagKVlCXxwHzxsmDPJU2ld.jpg",
+      "popularity": 1.9,
       "source": "TMDB"
     },
     {
@@ -871,6 +870,19 @@
       ],
       "overview": "近くの山から切り出される木でひとり彫刻を作る寄子。ある日、東京と台湾で建築家として活躍してきた友梨は、 数日間の休暇をとって、別れた夫の姉・寄子のもとを訪れる。都会にはない「ナギ」での穏やかな生活。妻を亡くした寄子の幼なじみの好浩、そして息子の春樹とその親友の圭太――人々との出会いは、日常に小さな揺らぎをもたらしていく。  やがて、彫刻のモデルを毎晩つとめるなかで寄子の知られざる喪失に触れ、友梨にも変化が起きていく。",
       "poster": "https://image.tmdb.org/t/p/w500/i5BgsFxypyz3ml3oiMUxODI5Agc.jpg",
+      "popularity": 1.1,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1697647",
+      "title": "襲名",
+      "release_date": "2026-09-25",
+      "status": "upcoming",
+      "genre": [
+        "ドキュメンタリー"
+      ],
+      "overview": "歌舞伎界の名門・市川家に受け継がれる最大の節目\r 「十三代目市川團十郎白猿襲名披露」を真正面から捉えた本作。  コロナ禍による2年半の延期を乗り越え実現した歴史的瞬間を通して、\r 市川團十郎が背負う「継承」と「個」の狭間で揺れる覚悟と葛藤を描き出す。  監督は世界的に活躍する映画監督・三池崇史、本作品が初のドキュメンタリー作品となる。\r さらに、祝幕を手がけた村上隆による創作の様子も記録した、歌舞伎の“今”を映し出す壮麗なるドキュメンタリー作品。",
+      "poster": "https://image.tmdb.org/t/p/w500/r5qnf8fzaicAbR1vREtZNVQIslb.jpg",
       "popularity": 1.1,
       "source": "TMDB"
     },
@@ -918,6 +930,17 @@
       "source": "TMDB"
     },
     {
+      "id": "tmdb-1670114",
+      "title": "スリーゴースト",
+      "release_date": "2026-10-06",
+      "status": "upcoming",
+      "genre": [],
+      "overview": "一人目は「警告」、二人目は「試練」、そして三人目は……夢の記録、記憶の再生—“リープマインド“忘れられない感情が現実と交錯する。―過去は終わらない。人が見る夢をデジタル化し、再現する……夢のようなガジェット「リープマインド」。その宣伝契約を勝ち取るため、取締役会でのプレゼンテーションに臨むジョー（堺雅人）。　彼はリープマインドがもたらす新たな可能性に、ただならぬ情熱を抱いていた。 妻のハナ（倉科カナ）との生活も顧みず、他社との熾烈な競争に身を削る日々。ハナの姉・ミカ（伊勢佳世）に癒しを求めるが、二人の関係に取り返しのつかない亀裂が走る。ただならぬ様子のミカを心配したハナは、ジョーに疑問をぶつけるが、不安を解消するような返事は得られない……。事情を察したミカとハナの父・ケン（段田安則）は、ジョーからハナを引き離そうとする。一方、ジョーの母・マリ（高畑淳子）は、若くして自死した姉・ニコを助けられず自分を責め続けるジョーに、複雑な気持ちを拭い去れずにいた……。ミカが姿を消したあと、念願の案件を勝ち取ったジョーだが、成功は空虚なものだった。そして友人の眼科医・ユーゴ（迫田孝也）を訪ねたジョーに、思いがけない診断が下される。孤独の内にも新たな助手のサラ（sara）を迎え、仕事を続けるジョー。だが、サラはハナの教え子ダン（小日向星一）とともに、ある疑念を抱いてジョーに近づいたのだった――。",
+      "poster": "https://image.tmdb.org/t/p/w500/p6jzQx1ZhIRtQ3c1HnaasxBj8I3.jpg",
+      "popularity": 1.0,
+      "source": "TMDB"
+    },
+    {
       "id": "tmdb-1423191",
       "title": "バイオハザード",
       "release_date": "2026-10-09",
@@ -927,7 +950,7 @@
         "サイエンスフィクション"
       ],
       "overview": "ある医療品の配送を請け負った男を襲う、地獄の一夜。\r 男は、己の命運を懸けた壮絶なサバイバルを余儀なくされる…",
-      "poster": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
       "popularity": 28.7,
       "source": "TMDB"
     },
@@ -997,7 +1020,7 @@
         "ファンタジー"
       ],
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
       "popularity": 11.8,
       "source": "TMDB"
     },
@@ -1060,21 +1083,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1614539",
-      "title": "BanG Dream! Ave Mujica prima aurora",
-      "release_date": "2026-10-16",
-      "status": "upcoming",
-      "genre": [
-        "アニメーション",
-        "ドラマ",
-        "音楽"
-      ],
-      "overview": "Ave Mujicaの再デビューから半年以上が過ぎ、季節は春。  バンドはさらに人気を博し、 メンバーそれぞれの活動も軌道に乗っていた。  次なる舞台として祥子が打ち出したのは、会員制のマスカレードであった。  神になると誓った彼女の思惑とは……",
-      "poster": "https://image.tmdb.org/t/p/w500/rpO0S89hgoAhunufwbd6Z10v5mC.jpg",
-      "popularity": 1.0,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1692852",
       "title": "わたしの知らない子どもたち",
       "release_date": "2026-10-16",
@@ -1128,6 +1136,17 @@
       "source": "TMDB"
     },
     {
+      "id": "tmdb-1689343",
+      "title": "ミュージカル「ヘタリア〜World⭐︎Starts〜」",
+      "release_date": "2026-10-23",
+      "status": "upcoming",
+      "genre": [],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bwfdiCXUzWbjD2TGxWOlt4rZq8C.jpg",
+      "popularity": 2.6,
+      "source": "TMDB"
+    },
+    {
       "id": "tmdb-1053231",
       "title": "보스",
       "release_date": "2026-10-23",
@@ -1154,17 +1173,6 @@
       "overview": "まるでこの世の業を全て請け負うかのように、自暴自棄な生活を送る警部補・矢吹恭二。闇に落ちた彼の悪行は、警察署内でも噂として囁かれはじめていた。時を同じくしてアメリカのＦＢＩ捜査官・グエンが来日。とある目的をもって来日したグエンと矢吹の思惑はこの東京の街で複雑に絡み合っていく。果たして彼らを待つものは絶望か、それとも―。",
       "poster": "https://image.tmdb.org/t/p/w500/rWiwfGrHgTd2bqOtJ1UxhtpOZQM.jpg",
       "popularity": 2.4,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1689343",
-      "title": "ミュージカル「ヘタリア〜World⭐︎Starts〜」",
-      "release_date": "2026-10-23",
-      "status": "upcoming",
-      "genre": [],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/bwfdiCXUzWbjD2TGxWOlt4rZq8C.jpg",
-      "popularity": 2.6,
       "source": "TMDB"
     },
     {
@@ -1327,19 +1335,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1707282",
-      "title": "男ともだち",
-      "release_date": "2026-11-06",
-      "status": "upcoming",
-      "genre": [
-        "ドラマ"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/im9W3Hw08NsHhOlF60FCX76Ln7u.jpg",
-      "popularity": 0.8,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1755423",
       "title": "となりのとらんす少女ちゃん",
       "release_date": "2026-11-07",
@@ -1483,22 +1478,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1694711",
-      "title": "装甲騎兵ボトムズ 灰色の魔女 第1作",
-      "release_date": "2026-11-20",
-      "status": "upcoming",
-      "genre": [
-        "アニメーション",
-        "サイエンスフィクション",
-        "アクション",
-        "戦争"
-      ],
-      "overview": "アストラギウス銀河を二分するギルガメスとバララント。 この二つの勢力は、原因すら定かではない戦争を100年近く続けていた。  “百年戦争”末期――アスガルズ星系第二惑星ヴァルキュリアⅡの前線基地に、一人の女性士官マキ・シュタウフェンベルクが赴任する。 彼女は、寄せ集めの兵士で構成された懲罰部隊にあって、どんな過酷な作戦でもただ一人生還することから“魔女”と呼ばれる兵士、アッシュ・ヴァンプスを調査する任務を密かに受けていた。  戦場の真実は、戦場でしか知ることはできない。  アッシュの部隊に命じられた敵陣への強行降下作戦に、AT（アーマードトルーパー）のパイロットとしてマキは参加を決意する。  生還不可能にも見える作戦の中、戦況は刻一刻と絶望へ向かう。 戦火の中でアッシュを追うマキは、やがて彼女に秘められた真実へと近づいていく――。",
-      "poster": "https://image.tmdb.org/t/p/w500/bLqeWTf9HGofglNZ6XENSsY1HbD.jpg",
-      "popularity": 0.9,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1724371",
       "title": "ないものねだりの君に光の花束を",
       "release_date": "2026-11-20",
@@ -1539,19 +1518,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1718930",
-      "title": "ワンダンス",
-      "release_date": "2026-11-27",
-      "status": "upcoming",
-      "genre": [
-        "ドラマ"
-      ],
-      "overview": "「普通」でいようとすることで息が詰まりそうな日々を送っていたカボが、心から楽しそうに踊るワンダと出会い、運命が動き出すー。ワンダへの憧れ、その才能への嫉妬、なりたい自分への迷い・・・葛藤を繰り返しながら、誰にも真似できない自分だけのダンスを目指すカボたちの挑戦が始まる！",
-      "poster": "https://image.tmdb.org/t/p/w500/1UcM2U1CnOP34l7G1Z5N3QuylTv.jpg",
-      "popularity": 0.9,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1287141",
       "title": "ピリオン",
       "release_date": "2026-12-04",
@@ -1575,6 +1541,21 @@
       "overview": "「初恋の人はお姉ちゃんの彼氏でした―」誰にも言えない“好き”の気持ちと、切なさが止まらない究極のピュアラブストーリー",
       "poster": "https://image.tmdb.org/t/p/w500/wiArziJ4S5L7cXWkYqvUtZe0Ipy.jpg",
       "popularity": 1.2,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1566920",
+      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝",
+      "release_date": "2026-12-11",
+      "status": "upcoming",
+      "genre": [
+        "アニメーション",
+        "ドラマ",
+        "謎"
+      ],
+      "overview": "水上都市に隠された秘宝を巡り、新たなミステリーの幕が上がる  帝から壬氏にとある命が下された。 それは、5年前に後宮で命を落とした妃の“故郷へ帰りたい”という最期の願いを叶えること。  彼女を家族の元へと返すため、遺体を確認すると、 まるで生きているかのように美しい姿のまま眠っていた。 遺体の謎を解き明かすため、猫猫は壬氏に連れられ、 未の一族が治める南の地・未南州へと旅に出る。  辿り着いたのは、活気あふれる水上都市。 見たことのない薬や植物に心躍らせる猫猫だったが、 その地では前頭領が隠した財宝を巡り水賊が暴れまわり、不穏な空気が漂っていた。  「何も起こらないといいが―」  壬氏の嫌な予感は的中し、妃の葬儀当日に起きた大事件をきっかけに、 想像を超える事態へと発展していくー",
+      "poster": "https://image.tmdb.org/t/p/w500/9mOEqhDD9jyuaD9ULfhWJXpiJW.jpg",
+      "popularity": 3.5,
       "source": "TMDB"
     },
     {
@@ -1605,21 +1586,6 @@
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/5C6dG4GILXmxaAH9GV7thq5LsvP.jpg",
       "popularity": 2.4,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1566920",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝",
-      "release_date": "2026-12-11",
-      "status": "upcoming",
-      "genre": [
-        "アニメーション",
-        "ドラマ",
-        "謎"
-      ],
-      "overview": "水上都市に隠された秘宝を巡り、新たなミステリーの幕が上がる  帝から壬氏にとある命が下された。 それは、5年前に後宮で命を落とした妃の“故郷へ帰りたい”という最期の願いを叶えること。  彼女を家族の元へと返すため、遺体を確認すると、 まるで生きているかのように美しい姿のまま眠っていた。 遺体の謎を解き明かすため、猫猫は壬氏に連れられ、 未の一族が治める南の地・未南州へと旅に出る。  辿り着いたのは、活気あふれる水上都市。 見たことのない薬や植物に心躍らせる猫猫だったが、 その地では前頭領が隠した財宝を巡り水賊が暴れまわり、不穏な空気が漂っていた。  「何も起こらないといいが―」  壬氏の嫌な予感は的中し、妃の葬儀当日に起きた大事件をきっかけに、 想像を超える事態へと発展していくー",
-      "poster": "https://image.tmdb.org/t/p/w500/9mOEqhDD9jyuaD9ULfhWJXpiJW.jpg",
-      "popularity": 3.5,
       "source": "TMDB"
     },
     {
@@ -1684,6 +1650,19 @@
       "source": "TMDB"
     },
     {
+      "id": "tmdb-1397364",
+      "title": "グラッツィア 大統領 最後の散歩",
+      "release_date": "2026-12-25",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/g8x2zmPvlmYobahJRb7enPDa1ZU.jpg",
+      "popularity": 3.7,
+      "source": "TMDB"
+    },
+    {
       "id": "tmdb-1657317",
       "title": "BYE BYE LOVE 探偵はBARにいる",
       "release_date": "2026-12-25",
@@ -1745,6 +1724,21 @@
       "source": "TMDB"
     },
     {
+      "id": "tmdb-1153714",
+      "title": "ユニコーンを轢いた",
+      "release_date": "2027-01-08",
+      "status": "upcoming",
+      "genre": [
+        "ホラー",
+        "ファンタジー",
+        "コメディ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",
+      "popularity": 10.9,
+      "source": "TMDB"
+    },
+    {
       "id": "tmdb-1440769",
       "title": "ビーキーパー2",
       "release_date": "2027-01-15",
@@ -1755,7 +1749,7 @@
         "スリラー"
       ],
       "overview": "",
-      "poster": "",
+      "poster": "https://image.tmdb.org/t/p/w500/nyIYYYwJmGszmBjAsegoLDszxWJ.jpg",
       "popularity": 5.5,
       "source": "TMDB"
     },
@@ -1770,17 +1764,6 @@
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/bgapSeASBoacEvypu6lp7yIqubP.jpg",
       "popularity": 1.4,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1711861",
-      "title": "カイジ 人生リベンジゲーム",
-      "release_date": "2027-01-29",
-      "status": "upcoming",
-      "genre": [],
-      "overview": "カイジ 人生リベンジゲーム",
-      "poster": "https://image.tmdb.org/t/p/w500/8uAmlY27QuIb9Cp84Af4bhiMS1.jpg",
-      "popularity": 0.8,
       "source": "TMDB"
     }
   ]
