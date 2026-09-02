@@ -31,7 +31,8 @@
 | Minecraft | Modrinth API | 自動 | 不要 |
 | Roblox | `curated/roblox.json` | 手動編集 | 不要 |
 | ネットミーム | `curated/meme.json` | 手動編集 | 不要 |
-| おすすめネタ | Claude (AI) | 自動生成 | `ANTHROPIC_API_KEY` |
+| YouTubeゲーム急上昇 | YouTube Data API v3（日本×ゲーム） | 自動 | `YOUTUBE_API_KEY` |
+| おすすめネタ | ルールベース自動生成（AI不使用） | 自動 | 不要 |
 
 > キーが未設定の項目は自動でスキップされるので、**まずキー無しでも動きます**（映画・ゲーム・AIネタが空になるだけ）。
 
@@ -113,6 +114,7 @@ window.ONIWORKS_CONFIG = {
 | 名前 | 値 |
 |---|---|
 | `TMDB_API_KEY` | TMDBキー（映画） |
+| `YOUTUBE_API_KEY` | YouTube Data API v3 キー（YouTube） |
 | `ANTHROPIC_API_KEY` | Anthropicキー（AIネタ・任意） |
 | `SUPABASE_URL` | （Supabaseを使う場合のみ）Project URL |
 | `SUPABASE_SERVICE_KEY` | （Supabaseを使う場合のみ）service_role キー |
