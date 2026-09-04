@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-03",
+  "updated_at": "2026-09-04",
   "items": [
     {
       "id": "fami-72433",
@@ -1995,6 +1995,30 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72539",
+      "title": "John Fox （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-08-07",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "818円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72544",
+      "title": "John Fox （Steam版）",
+      "release_date": "2026-08-08",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "909円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-69635",
       "title": "The Elder Scrolls IV: Oblivion Remastered",
       "release_date": "2026-08-11",
@@ -2339,7 +2363,7 @@
       ],
       "genre": [],
       "price": "8900円[税抜]",
-      "image": "",
+      "image": "https://image.kagali.kgl-systems.io/item/151252/k4VZ4Mux?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -2439,15 +2463,27 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-60001",
+      "id": "fami-72545",
+      "title": "アスディバインノット （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-09-04",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "1400円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-60000",
       "title": "Afterlove EP",
       "release_date": "2026-09-10",
       "platforms": [
-        "PS5"
+        "Switch"
       ],
       "genre": [],
       "price": "3600円[税抜]",
-      "image": "",
+      "image": "https://image.kagali.kgl-systems.io/item/153729/QHiH7eKu?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -2928,6 +2964,18 @@
       "genre": [],
       "price": "4300円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155331/iFrLy4ZB?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-57849",
+      "title": "Ghost of Yotei（ゴースト・オブ・ヨウテイ） Complete Edition",
+      "release_date": "2026-10-01",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8164円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155748/lk84JTGW?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3563,7 +3611,7 @@
       ],
       "genre": [],
       "price": "5798円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155011/DhjcrM2A?w=200&h=200&func=bound&q=80",
+      "image": "https://image.kagali.kgl-systems.io/item/155748/lk84JTGW?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3624,6 +3672,18 @@
       "genre": [],
       "price": "3600円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155454/ORNjPNIc?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72552",
+      "title": "エイリアン：ファイアーチーム エリート2",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5900円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155769/VaFyC8QY?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
