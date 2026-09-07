@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-06",
+  "updated_at": "2026-09-07",
   "items": [
     {
       "title": "金ロー『タイタニック（後編）』放送記念 かくれんぼ",
@@ -14,7 +14,7 @@
         "かくれんぼ"
       ],
       "score": 5,
-      "id": "idea-2026-09-06-1"
+      "id": "idea-2026-09-07-1"
     },
     {
       "title": "金ロー『ナイト ミュージアム』放送記念 かくれんぼ",
@@ -28,7 +28,7 @@
         "かくれんぼ"
       ],
       "score": 5,
-      "id": "idea-2026-09-06-2"
+      "id": "idea-2026-09-07-2"
     },
     {
       "title": "映画『スパイダーマン：ブランド・ニュー・デイ』便乗 ケイドロ",
@@ -42,7 +42,7 @@
         "サイエンスフィクション"
       ],
       "score": 5,
-      "id": "idea-2026-09-06-3"
+      "id": "idea-2026-09-07-3"
     },
     {
       "title": "映画『オデュッセイア』便乗 能力者鬼",
@@ -56,26 +56,26 @@
         "アドベンチャー"
       ],
       "score": 5,
-      "id": "idea-2026-09-06-4"
+      "id": "idea-2026-09-07-4"
     },
     {
-      "title": "映画『トキシック』便乗 増え鬼",
+      "title": "映画『ミニオンズ＆モンスターズ』便乗 なりきり鬼",
       "hook": "公開中の話題作に便乗して",
-      "body": "捕まったら鬼が増えていく王道の増え鬼。だんだん逃げ場がなくなるスリル。",
+      "body": "作品のキャラになりきって鬼ごっこ。コスプレや小道具で盛り上げよう。",
       "based_on": [
         "映画"
       ],
       "tags": [
-        "増え鬼",
-        "アクション"
+        "なりきり鬼",
+        "アドベンチャー"
       ],
       "score": 5,
-      "id": "idea-2026-09-06-5"
+      "id": "idea-2026-09-07-5"
     },
     {
       "title": "『Afterlove EP』発売記念 なりきり鬼ごっこ",
       "hook": "9/10(木) 発売の新作ゲームに便乗",
-      "body": "話題の新作（PS5）のキャラ・世界観でリアル鬼ごっこ。発売日に合わせて投稿すると伸びやすい。",
+      "body": "話題の新作（Switch）のキャラ・世界観でリアル鬼ごっこ。発売日に合わせて投稿すると伸びやすい。",
       "based_on": [
         "ゲーム"
       ],
@@ -84,7 +84,7 @@
         "なりきり鬼"
       ],
       "score": 4,
-      "id": "idea-2026-09-06-6"
+      "id": "idea-2026-09-07-6"
     },
     {
       "title": "『BLACK WOLVES SAGA-Weiβ und Schwarz- for Nintendo Switch』発売記念 なりきり鬼ごっこ",
@@ -98,12 +98,12 @@
         "なりきり鬼"
       ],
       "score": 4,
-      "id": "idea-2026-09-06-7"
+      "id": "idea-2026-09-07-7"
     },
     {
       "title": "マイクラ『Alex's Mobs』で鬼ごっこ",
       "hook": "Minecraftで流行中のMODを使って",
-      "body": "デフォルトのゲームを上回るスタイルの品質を備えた 85 個以上の新しいモブ。 … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
+      "body": "85+ New mobs with stylistic quality above the default game. … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
       "based_on": [
         "Minecraft"
       ],
@@ -112,12 +112,12 @@
         "MOD活用"
       ],
       "score": 4,
-      "id": "idea-2026-09-06-8"
+      "id": "idea-2026-09-07-8"
     },
     {
       "title": "マイクラ『Mowzie's Mobs』で鬼ごっこ",
       "hook": "Minecraftで流行中のMODを使って",
-      "body": "Mowzie's Mob は、Minecraft にさまざまな架空の生き物を追加し、ユニークな AI、豊かな雰囲気、流れるようなアニメーションを誇ります。新しいボスや敵に対して自分の力を証明し、彼らの魔法の能力を自分のものだと主張しましょう。 … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
+      "body": "Mowzie's Mobs adds a variety of fictional creatures to Minecraft, priding itself in unique AI, rich atmosphere, and fluid animations. Prove your might against new bosses and enemie … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
       "based_on": [
         "Minecraft"
       ],
@@ -126,12 +126,12 @@
         "MOD活用"
       ],
       "score": 4,
-      "id": "idea-2026-09-06-9"
+      "id": "idea-2026-09-07-9"
     },
     {
       "title": "マイクラ『Macaw's Doors』で鬼ごっこ",
       "hook": "Minecraftで流行中のMODを使って",
-      "body": "すべての木の色のバニラドアと新しいユニークなドアを追加します。\nウエスタン、ガレージ、障子など…！ … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
+      "body": "Adds vanilla doors with every wood color and new unique doors!\nSuch as western, garage, shoji and more...! … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
       "based_on": [
         "Minecraft"
       ],
@@ -140,7 +140,7 @@
         "MOD活用"
       ],
       "score": 4,
-      "id": "idea-2026-09-06-10"
+      "id": "idea-2026-09-07-10"
     },
     {
       "title": "『DOORS（ドアーズ）』ごっこ鬼ごっこ",
@@ -154,7 +154,7 @@
         "トレンド"
       ],
       "score": 3,
-      "id": "idea-2026-09-06-11"
+      "id": "idea-2026-09-07-11"
     },
     {
       "title": "『イタリアンブレインロット』ごっこ鬼ごっこ",
@@ -168,7 +168,7 @@
         "トレンド"
       ],
       "score": 3,
-      "id": "idea-2026-09-06-12"
+      "id": "idea-2026-09-07-12"
     }
   ]
 }
