@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-07",
+  "updated_at": "2026-09-08",
   "items": [
     {
       "id": "fami-72433",
@@ -2955,6 +2955,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72560",
+      "title": "Way of the Hunter 2（ウェイ オブ ザ ハンター2） （ダウンロード版）",
+      "release_date": "2026-09-29",
+      "platforms": [
+        "XSX"
+      ],
+      "genre": [],
+      "price": "4727円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72295",
       "title": "Minecraft Dungeons II",
       "release_date": "2026-09-30",
@@ -3783,6 +3795,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72559",
+      "title": "Way of the Hunter 2（ウェイ オブ ザ ハンター2）",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4700円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155779/t1jxKfSd?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-71422",
       "title": "ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ",
       "release_date": "2026-12-03",
@@ -3888,6 +3912,30 @@
       "genre": [],
       "price": "5980円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155676/fSbc0GO9?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72309",
+      "title": "うたの☆プリンスさまっ♪ Shining Live for Nintendo Switch",
+      "release_date": "2026-12-17",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7800円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155368/NH?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-61959",
+      "title": "ピクロス 儒烏風亭らでんがご案内！ピクセルミュージアム -箱根探訪編 同梱版-",
+      "release_date": "2026-12-17",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3618円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/154183/Y9QU1YYM?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     }
   ]
