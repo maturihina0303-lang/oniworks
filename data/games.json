@@ -1,67 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-11",
+  "updated_at": "2026-09-12",
   "items": [
-    {
-      "id": "fami-69593",
-      "title": "ファイナルファンタジーVII リバース",
-      "release_date": "2026-06-03",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "5980円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/151876/ahax7B2U?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72452",
-      "title": "夜明けの幽霊 （PS Store ダウンロード版）",
-      "release_date": "2026-06-03",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "2800円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72493",
-      "title": "Scarlet Wolf （PS Store ダウンロード版）",
-      "release_date": "2026-06-03",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "1100円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72495",
-      "title": "Springbot: The Last Spark （PS Store ダウンロード版）",
-      "release_date": "2026-06-03",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "454円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72497",
-      "title": "Blackwood House （PS Store ダウンロード版）",
-      "release_date": "2026-06-03",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "600円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-69628",
       "title": "eFootball Kick-Off!",
@@ -227,6 +167,18 @@
       ],
       "genre": [],
       "price": "6889円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72588",
+      "title": "めっちゃカメレオン （Steam版）",
+      "release_date": "2026-06-10",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "718円[税抜]",
       "image": "",
       "source": "ファミ通"
     },
@@ -2487,6 +2439,30 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72568",
+      "title": "トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72589",
+      "title": "めっちゃカメレオン （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "718円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-44182",
       "title": "Marvel's Wolverine",
       "release_date": "2026-09-15",
@@ -3382,8 +3358,8 @@
         "PS5"
       ],
       "genre": [],
-      "price": "",
-      "image": "",
+      "price": "8909円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/154475/4Wi?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3567,6 +3543,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72143",
+      "title": "Stellar Blade Complete Edition",
+      "release_date": "2026-11-06",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7256円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72141",
       "title": "メタファー：リファンタジオ",
       "release_date": "2026-11-12",
@@ -3612,6 +3600,18 @@
       "genre": [],
       "price": "5900円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155769/VaFyC8QY?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72577",
+      "title": "ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6889円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
@@ -3756,6 +3756,30 @@
       "genre": [],
       "price": "7000円[税抜]",
       "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72576",
+      "title": "モンスターハンターワイルズ （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-12-04",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4536円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-50019",
+      "title": "レイトン教授と蒸気の新世界",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7200円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/129745/nmZj8iFS?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
