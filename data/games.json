@@ -1,31 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-13",
+  "updated_at": "2026-09-15",
   "items": [
-    {
-      "id": "fami-72275",
-      "title": "ヴィラン転生 ～死亡確定の悪役モブに転生したけど2回も死にたくないので暗躍してやる！～ Nintendo Switch 2 Edition （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-06-05",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1491円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69491",
-      "title": "Gothic 1 Remake （ダウンロード版）",
-      "release_date": "2026-06-06",
-      "platforms": [
-        "XSX"
-      ],
-      "genre": [],
-      "price": "6909円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-72465",
       "title": "Solarpunk ソーラーパンク：天空の島 （PS Store ダウンロード版）",
@@ -59,6 +35,18 @@
       ],
       "genre": [],
       "price": "6889円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72588",
+      "title": "めっちゃカメレオン （Steam版）",
+      "release_date": "2026-06-10",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "718円[税抜]",
       "image": "",
       "source": "ファミ通"
     },
@@ -2255,7 +2243,7 @@
       ],
       "genre": [],
       "price": "23980円[税抜]",
-      "image": "",
+      "image": "https://image.kagali.kgl-systems.io/item/153606/OhA5cIRS?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -2316,6 +2304,30 @@
       "genre": [],
       "price": "8800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155185/VVB86?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72568",
+      "title": "トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3200円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72589",
+      "title": "めっちゃカメレオン （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-09-10",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "718円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
@@ -2687,6 +2699,18 @@
       ],
       "genre": [],
       "price": "4300円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72560",
+      "title": "Way of the Hunter 2（ウェイ オブ ザ ハンター2） （ダウンロード版）",
+      "release_date": "2026-09-29",
+      "platforms": [
+        "XSX"
+      ],
+      "genre": [],
+      "price": "4727円[税抜]",
       "image": "",
       "source": "ファミ通"
     },
@@ -3363,6 +3387,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72140",
+      "title": "ゼルダの伝説 時のオカリナ",
+      "release_date": "2026-11-05",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8164円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72307",
       "title": "LIGHT 黒猫と記憶を失った少女",
       "release_date": "2026-11-05",
@@ -3372,6 +3408,18 @@
       "genre": [],
       "price": "4500円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155365/L?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72143",
+      "title": "Stellar Blade Complete Edition",
+      "release_date": "2026-11-06",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "7256円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
@@ -3395,7 +3443,7 @@
       ],
       "genre": [],
       "price": "6980円[税抜]",
-      "image": "",
+      "image": "https://image.kagali.kgl-systems.io/item/155408/5bQdiwmA?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3420,6 +3468,18 @@
       "genre": [],
       "price": "5900円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155769/VaFyC8QY?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72577",
+      "title": "ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6889円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
@@ -3503,7 +3563,7 @@
       ],
       "genre": [],
       "price": "5800円[税抜]",
-      "image": "",
+      "image": "https://image.kagali.kgl-systems.io/item/155717/hZ9JOxIw?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3564,6 +3624,30 @@
       "genre": [],
       "price": "7000円[税抜]",
       "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72576",
+      "title": "モンスターハンターワイルズ （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-12-04",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4536円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-50019",
+      "title": "レイトン教授と蒸気の新世界",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "7200円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/129745/nmZj8iFS?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
