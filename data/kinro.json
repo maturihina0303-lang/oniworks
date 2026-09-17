@@ -17,6 +17,22 @@
       "note": "金曜ロードショー",
       "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a047283f712917840ab6773aaac5bfd386c708af.jpg",
       "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261009",
+      "air_date": "2026-10-09",
+      "title": "インサイド・ヘッド",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/364c56c3065d04dd4ca830b24a65a6d86d9338b1.jpg",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261016",
+      "air_date": "2026-10-16",
+      "title": "インサイド・ヘッド2",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a4f6c419b6ffa611cdb94c482b9084a9b1aaf221.jpg",
+      "source": "kinro.ntv.co.jp"
     }
   ]
 }
