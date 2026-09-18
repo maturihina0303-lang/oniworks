@@ -1,19 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-17",
+  "updated_at": "2026-09-18",
   "items": [
-    {
-      "id": "fami-71707",
-      "title": "盛世天下：女帝への道II （Steam版）",
-      "release_date": "2026-06-09",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "2273円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-72145",
       "title": "ゼノブレイド ディフィニティブ・エディション （ニンテンドーeショップ ダウンロード版）",
@@ -3207,6 +3195,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72594",
+      "title": "餓狼伝説 City of the Wolves Standard Edition （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-10-22",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "2700円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-71708",
       "title": "Call of Duty: Modern Warfare 4",
       "release_date": "2026-10-23",
@@ -3603,6 +3603,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72597",
+      "title": "STEP THEATER-ステップシアター （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-12-03",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-71426",
       "title": "ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ （Steam版）",
       "release_date": "2026-12-04",
@@ -3711,6 +3723,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-69859",
+      "title": "バニーガーデン2",
+      "release_date": "2026-12-17",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155933/vIfsdgeN?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72309",
       "title": "うたの☆プリンスさまっ♪ Shining Live for Nintendo Switch",
       "release_date": "2026-12-17",
@@ -3720,6 +3744,18 @@
       "genre": [],
       "price": "7800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155368/NH?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-70684",
+      "title": "へべれけ ばにーがーでん",
+      "release_date": "2026-12-17",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155935/SE272N5y?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
