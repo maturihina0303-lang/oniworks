@@ -1,31 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-18",
+  "updated_at": "2026-09-19",
   "items": [
-    {
-      "id": "fami-72145",
-      "title": "ゼノブレイド ディフィニティブ・エディション （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-06-10",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "6889円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72588",
-      "title": "めっちゃカメレオン （Steam版）",
-      "release_date": "2026-06-10",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "718円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-62663",
       "title": "イナズマイレブン 英雄たちのヴィクトリーロード Nintendo Switch 2 Edition",
@@ -1404,6 +1380,18 @@
       "genre": [],
       "price": "4800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/153692/Ao0zBHO?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72145",
+      "title": "ゼノブレイド ディフィニティブ・エディション",
+      "release_date": "2026-07-30",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6889円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155009/NsJ6d5mn?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3051,6 +3039,42 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72621",
+      "title": "バイオハザード RE：2 Z Version デラックスエディション （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-10-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3627円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72622",
+      "title": "バイオハザード RE:3 Z Version （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-10-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "2718円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72623",
+      "title": "バイオハザード RE:4 Gold Edition （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-10-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4536円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-69012",
       "title": "Back to the Dawn ～ブレイク･ザ･アニマル･プリズン～",
       "release_date": "2026-10-22",
@@ -3467,6 +3491,18 @@
       ],
       "genre": [],
       "price": "6889円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72604",
+      "title": "SONIC PICO PARK",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "",
       "image": "",
       "source": "ファミ通"
     },
