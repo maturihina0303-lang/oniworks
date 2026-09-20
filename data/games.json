@@ -1,115 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-19",
+  "updated_at": "2026-09-20",
   "items": [
-    {
-      "id": "fami-62663",
-      "title": "イナズマイレブン 英雄たちのヴィクトリーロード Nintendo Switch 2 Edition",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "8373円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153522/Dh6Ox46O?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69490",
-      "title": "Gothic 1 Remake （PS Store ダウンロード版）",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "7000円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69616",
-      "title": "パワフルプロ野球2026-2027",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "7700円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/151934/DAt?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69777",
-      "title": "Unrailed 2:バック・オン・トラック",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "4000円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/152207/C?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69791",
-      "title": "ダークオークション Nintendo Switch 2 Edition",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "5491円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70913",
-      "title": "MONOPOLY：スター・ウォーズ ヒーロー vs ヴィラン",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "3800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153497/gtOyvFC7?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72285",
-      "title": "ねずみバスターズ！ （Steam版）",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "1364円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72343",
-      "title": "アーケードアーカイブス2 ザ・ハスラー （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1000円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72416",
-      "title": "コンソールアーカイブス ランペルール （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-06-11",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "727円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-70917",
       "title": "MONOPOLY：スター・ウォーズ ヒーロー vs ヴィラン （Steam版）",
@@ -3039,42 +2931,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72621",
-      "title": "バイオハザード RE：2 Z Version デラックスエディション （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-10-16",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "3627円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72622",
-      "title": "バイオハザード RE:3 Z Version （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-10-16",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "2718円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72623",
-      "title": "バイオハザード RE:4 Gold Edition （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-10-16",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "4536円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-69012",
       "title": "Back to the Dawn ～ブレイク･ザ･アニマル･プリズン～",
       "release_date": "2026-10-22",
@@ -3759,18 +3615,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-69859",
-      "title": "バニーガーデン2",
-      "release_date": "2026-12-17",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "4980円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155933/vIfsdgeN?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-72309",
       "title": "うたの☆プリンスさまっ♪ Shining Live for Nintendo Switch",
       "release_date": "2026-12-17",
@@ -3780,18 +3624,6 @@
       "genre": [],
       "price": "7800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155368/NH?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70684",
-      "title": "へべれけ ばにーがーでん",
-      "release_date": "2026-12-17",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "3980円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155935/SE272N5y?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
