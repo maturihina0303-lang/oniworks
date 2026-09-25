@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-25",
   "items": [
     {
       "id": "fami-69759",
@@ -3672,6 +3672,18 @@
       "genre": [],
       "price": "3980円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155935/SE272N5y?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72624",
+      "title": "バニーガーデン トリロジーセット",
+      "release_date": "2026-12-17",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "17940円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155959/qWUQ2Gvr?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
