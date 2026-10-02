@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-01",
+  "updated_at": "2026-10-02",
   "items": [
     {
       "id": "fami-69465",
@@ -2475,6 +2475,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72633",
+      "title": "THANKS, LIGHT.",
+      "release_date": "2026-10-15",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156007/U69MPGI?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72157",
       "title": "テイルズ オブ エターニア リマスター （Steam版）",
       "release_date": "2026-10-16",
@@ -2519,6 +2531,18 @@
       ],
       "genre": [],
       "price": "4536円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72634",
+      "title": "レゴ ハリー・ポッターコレクション （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-10-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
       "image": "",
       "source": "ファミ通"
     },
@@ -2715,6 +2739,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72142",
+      "title": "Minecraft",
+      "release_date": "2026-10-28",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4300円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155003/1N9bbIro?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-41442",
       "title": "幻想少女大戦 - DREAM OF THE STRAY DREAMER -",
       "release_date": "2026-10-29",
@@ -2811,6 +2847,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72333",
+      "title": "Hell Let Loose： Vietnam",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155414/X7yJUQ3U?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72468",
       "title": "鉄道にっぽん！ RealPro 立体都市交通！XROSS OVER 名古屋 編",
       "release_date": "2026-10-29",
@@ -2832,6 +2880,18 @@
       "genre": [],
       "price": "5798円[税抜]",
       "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71296",
+      "title": "JDM：ジャパニーズドリフトマスター",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156011/Ui1otXcb?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {

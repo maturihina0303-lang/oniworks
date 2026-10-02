@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-01",
+  "updated_at": "2026-10-02",
   "items": [
     {
       "id": "kinro-20261009",
@@ -16,6 +16,22 @@
       "title": "インサイド・ヘッド2",
       "note": "金曜ロードショー",
       "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a4f6c419b6ffa611cdb94c482b9084a9b1aaf221.jpg",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261023",
+      "air_date": "2026-10-23",
+      "title": "ALWAYS 三丁目の夕日",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7f2b16678f668208abd84d883e8ef53d64e685f2.jpg",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261030",
+      "air_date": "2026-10-30",
+      "title": "ゴジラ-1.0",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ca20fe3a8d419cb910950fcb6dfebee4eb941da1.jpg",
       "source": "kinro.ntv.co.jp"
     }
   ]
