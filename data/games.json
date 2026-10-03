@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-02",
+  "updated_at": "2026-10-03",
   "items": [
     {
       "id": "fami-69465",
@@ -2487,6 +2487,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72653",
+      "title": "ブルーイのハッピースナップ （ダウンロード版）",
+      "release_date": "2026-10-15",
+      "platforms": [
+        "XSX"
+      ],
+      "genre": [],
+      "price": "",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72157",
       "title": "テイルズ オブ エターニア リマスター （Steam版）",
       "release_date": "2026-10-16",
@@ -2823,6 +2835,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-71296",
+      "title": "JDM：ジャパニーズドリフトマスター",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156011/Ui1otXcb?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-71379",
       "title": "アノマリス／ANOMALITH",
       "release_date": "2026-10-29",
@@ -2883,15 +2907,15 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-71296",
-      "title": "JDM：ジャパニーズドリフトマスター",
+      "id": "fami-72635",
+      "title": "明治東亰恋伽 トワヰライト・キス",
       "release_date": "2026-10-29",
       "platforms": [
-        "PS5"
+        "Switch"
       ],
       "genre": [],
-      "price": "3500円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/156011/Ui1otXcb?w=200&h=200&func=bound&q=80",
+      "price": "6800円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156012/JT3wCLPF?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -2939,6 +2963,18 @@
       ],
       "genre": [],
       "price": "7256円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72629",
+      "title": "ジャストダンス：ベストヒット",
+      "release_date": "2026-11-10",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5100円[税抜]",
       "image": "",
       "source": "ファミ通"
     },
@@ -3191,7 +3227,7 @@
       ],
       "genre": [],
       "price": "7200円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/129745/nmZj8iFS?w=200&h=200&func=bound&q=80",
+      "image": "https://image.kagali.kgl-systems.io/item/129745/paEoSvif?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
