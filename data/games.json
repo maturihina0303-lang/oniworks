@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-03",
+  "updated_at": "2026-10-04",
   "items": [
     {
       "id": "fami-69465",
@@ -2091,11 +2091,11 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72297",
-      "title": "Minecraft Dungeons II （ニンテンドーeショップ ダウンロード版）",
+      "id": "fami-72298",
+      "title": "Minecraft Dungeons II （ダウンロード版）",
       "release_date": "2026-09-29",
       "platforms": [
-        "Switch"
+        "XSX"
       ],
       "genre": [],
       "price": "4300円[税抜]",
@@ -2955,6 +2955,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72644",
+      "title": "Marvel’s Guardians of the Galaxy（マーベル ガーディアンズ・オブ・ギャラクシー）",
+      "release_date": "2026-11-05",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4273円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156038/kAhdX9Ha?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72143",
       "title": "Stellar Blade Complete Edition",
       "release_date": "2026-11-06",
@@ -2963,7 +2975,7 @@
       ],
       "genre": [],
       "price": "7256円[税抜]",
-      "image": "",
+      "image": "https://image.kagali.kgl-systems.io/item/155006/F6NFMelq?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -2979,6 +2991,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72297",
+      "title": "Minecraft Dungeons II",
+      "release_date": "2026-11-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4300円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156015/g6LWg73A?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72141",
       "title": "メタファー：リファンタジオ",
       "release_date": "2026-11-12",
@@ -2988,6 +3012,18 @@
       "genre": [],
       "price": "3627円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/154999/G34DDHJQ?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72243",
+      "title": "ムーミン：ムーミン谷の夏まつり",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4073円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155244/p9ueh?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3051,6 +3087,30 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-69587",
+      "title": "にほんの田舎ぐらし",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3545円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156016/1S7?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-71997",
+      "title": "Stray (ストレイ)",
+      "release_date": "2026-11-12",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156028/FmIidwvo?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-53755",
       "title": "グランド・セフト・オートVI",
       "release_date": "2026-11-19",
@@ -3060,6 +3120,42 @@
       "genre": [],
       "price": "8909円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/135155/43LXkXMr?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72641",
+      "title": "すみっコぐらし ぽかぽか温泉にようこそ",
+      "release_date": "2026-11-19",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5800円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156033/pq7iq79g?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72642",
+      "title": "It Takes Two",
+      "release_date": "2026-11-19",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "3909円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156035/iLx49Rwu?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-68999",
+      "title": "大戦略 SSB2 パワーアップ版",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "10980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156040/dJkfca3h?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3159,6 +3255,78 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72643",
+      "title": "最強王図鑑 クラッシュバトルキングス",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5800円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156036/UCBygfII?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72645",
+      "title": "サンリオキャラクターズ ミラクルマッチ マジカルおにごっこ",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4164円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156044/1dKyMFK6?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72646",
+      "title": "ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Switch",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "6500円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156046/n2LboUCT?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72647",
+      "title": "バズー！ 魔法世界",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156049/TqwpZkef?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72648",
+      "title": "グレイランサー＆ジノーグ ダブルパック",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3164円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156052/7NFCDj?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72650",
+      "title": "ブルーイのハッピースナップ",
+      "release_date": "2026-11-26",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4227円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156054/yLJpsUFp?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-71422",
       "title": "ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ",
       "release_date": "2026-12-03",
@@ -3255,6 +3423,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-61959",
+      "title": "ピクロス 儒烏風亭らでんがご案内！ピクセルミュージアム -箱根探訪編 同梱版-",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3618円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155285/A37M3PZu?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-69469",
       "title": "薄桜鬼異聞 ベレジンスキーの魔女",
       "release_date": "2026-12-10",
@@ -3264,6 +3444,18 @@
       "genre": [],
       "price": "7800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/151684/I5Vq3HN7?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69535",
+      "title": "Edge of Memories（エッジ オブ メモリーズ） デラックスエディション",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5436円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/151770/pGIoqXk2?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3300,6 +3492,18 @@
       "genre": [],
       "price": "5980円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155676/fSbc0GO9?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72490",
+      "title": "Aeruta（アルタ）",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155680/36mcnMXO?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3348,18 +3552,6 @@
       "genre": [],
       "price": "17940円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155959/qWUQ2Gvr?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-61959",
-      "title": "ピクロス 儒烏風亭らでんがご案内！ピクセルミュージアム -箱根探訪編 同梱版-",
-      "release_date": "2026-12-17",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "3618円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/154183/Y9QU1YYM?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     }
   ]
