@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-04",
+  "updated_at": "2026-10-05",
   "items": [
     {
       "id": "fami-69465",
@@ -2091,11 +2091,11 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72298",
-      "title": "Minecraft Dungeons II （ダウンロード版）",
+      "id": "fami-72297",
+      "title": "Minecraft Dungeons II （ニンテンドーeショップ ダウンロード版）",
       "release_date": "2026-09-29",
       "platforms": [
-        "XSX"
+        "Switch"
       ],
       "genre": [],
       "price": "4300円[税抜]",
@@ -2988,18 +2988,6 @@
       "genre": [],
       "price": "5100円[税抜]",
       "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72297",
-      "title": "Minecraft Dungeons II",
-      "release_date": "2026-11-10",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "4300円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/156015/g6LWg73A?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
