@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-07",
   "items": [
     {
       "id": "fami-69465",
@@ -3423,6 +3423,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-61959",
+      "title": "ピクロス 儒烏風亭らでんがご案内！ピクセルミュージアム -箱根探訪編 同梱版-",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3618円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155285/A37M3PZu?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-69469",
       "title": "薄桜鬼異聞 ベレジンスキーの魔女",
       "release_date": "2026-12-10",
@@ -3432,6 +3444,18 @@
       "genre": [],
       "price": "7800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/151684/I5Vq3HN7?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69535",
+      "title": "Edge of Memories（エッジ オブ メモリーズ） デラックスエディション",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5436円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/151770/pGIoqXk2?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3468,6 +3492,18 @@
       "genre": [],
       "price": "5980円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155676/fSbc0GO9?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72490",
+      "title": "Aeruta（アルタ）",
+      "release_date": "2026-12-10",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155680/36mcnMXO?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3519,18 +3555,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-61959",
-      "title": "ピクロス 儒烏風亭らでんがご案内！ピクセルミュージアム -箱根探訪編 同梱版-",
-      "release_date": "2026-12-17",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "3618円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/154183/Y9QU1YYM?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-68360",
       "title": "スーパーダンガンロンパ2×2",
       "release_date": "2027-01-14",
@@ -3540,6 +3564,30 @@
       "genre": [],
       "price": "6800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/149938/OEUXP?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-59154",
+      "title": "STRANGER THAN HEAVEN",
+      "release_date": "2027-01-15",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "9000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/142306/S9sDrE7o?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72616",
+      "title": "Fit Boxing 刀剣乱舞 -出陣！えくささいず本丸-",
+      "release_date": "2027-01-15",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155918/I1gE?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     }
   ]
