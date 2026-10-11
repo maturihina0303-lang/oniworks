@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-11",
   "items": [
     {
       "id": "tmdb-1586876",
@@ -15,7 +15,7 @@
       ],
       "overview": "ある日、ちいかわとハチワレが広場でくつろいでいると、突如として顔にチラシを貼り付けたうさぎがやって来る。ハチワレがそのチラシを確認すると、それは「特別な島へご招待」と書かれた招待状であった。  「島でのカンタンな討伐で100倍の報酬をもらおう」「限定島ラーメンに限定スイーツ、甘いもの辛いもの全部実質無料」といった言葉に釣られ、島合宿に行くことを決めたちいかわたち。チラシの内容を怪しがるラッコとともに乗船し、島に上陸したちいかわ一同を待ち受けていたものとは…!?",
       "poster": "https://image.tmdb.org/t/p/w500/e8CPLRiIMes9RGxaW5GnGP2XPDg.jpg",
-      "popularity": 9.8,
+      "popularity": 10.3,
       "source": "TMDB"
     },
     {
@@ -30,7 +30,7 @@
       ],
       "overview": "舞台は、都市伝説とされていた空間“Backrooms”。「ある日突然 “現実世界の裏側”へ墜ちてしまったら…？」どこまでも続く黄色い壁紙の部屋、終わりのない廊下。不自然な間取りと、意味を失い床に埋まった設置物。  わずかに現実からズレている――そんな出口のない“リミナルスペース”で、観客は“最高密度の不安と恐怖”を体験する。",
       "poster": "https://image.tmdb.org/t/p/w500/z52Eabu4xm5I8ksqdKOSylo5wWL.jpg",
-      "popularity": 86.7,
+      "popularity": 82.0,
       "source": "TMDB"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/xF9IOyzwft0EQdHgVVHTsXVQT6s.jpg",
-      "popularity": 8.2,
+      "popularity": 7.8,
       "source": "TMDB"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "overview": "トロイア戦争の終結後、イタケーの伝説的な王オデュッセウスは、故郷への長く危険に満ちた帰還の旅に出る。その航海の途上、彼は神々の気まぐれや神話の怪物たち、そして自身の知略と人間性の双方を極限まで試す過酷な試練に立ち向かうことを余儀なくされる――。",
       "poster": "https://image.tmdb.org/t/p/w500/oe40oI7aulGLkoNDEZWxyeIQGZq.jpg",
-      "popularity": 347.4,
+      "popularity": 366.2,
       "source": "TMDB"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "popularity": 19.0,
+      "popularity": 25.6,
       "source": "TMDB"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "overview": "小学四年生の藤野は、学級新聞に載せる漫画で周囲から一目置かれる存在だった。しかしある日、内気なクラスメイト・京本と紙面を分け合うことになり、彼女の描く圧倒的な絵の才能を目の当たりにして、藤野の世界は一変する。ようやく顔を合わせたふたりは、京本がずっと藤野を陰で憧れの存在として見つめていたことを知る。一方的だったライバル心は静かに溶け、やがてふたりは絵を描くことへの尽きせぬ情熱に導かれ、漫画家を志す大人へと成長していく。大人になった藤野と京本は、創作の喜びと、思いがけない人生の巡り合わせが交錯する道をともに歩んでいく。",
       "poster": "https://image.tmdb.org/t/p/w500/6eXDHPwPDTZTgf4wuGIP49bxxJV.jpg",
-      "popularity": 5.2,
+      "popularity": 8.5,
       "source": "TMDB"
     },
     {
@@ -182,21 +182,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1677449",
-      "title": "マッチモンド",
-      "release_date": "2026-09-11",
-      "status": "now",
-      "genre": [
-        "コメディ",
-        "アクション",
-        "ドラマ"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/6fqAhDb17LoMZySP8KOsqBvBtb0.jpg",
-      "popularity": 1.5,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1391021",
       "title": "歓迎来龍餐館／龍飯店へようこそ",
       "release_date": "2026-09-18",
@@ -207,7 +192,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "popularity": 12.2,
+      "popularity": 11.5,
       "source": "TMDB"
     },
     {
@@ -220,7 +205,20 @@
       ],
       "overview": "家事と育児、セラピストの仕事に追われるリンダは、原因不明の病を抱える幼い娘の世話に追い詰められていた。顧客の患者への対応、娘の担当医からの叱責、出張中の口うるさい夫からの電話──休まる暇もない日々の中、自宅アパートの天井が突然崩落し、娘とともに海辺の格安モーテルへ移り住むことに。誰にも頼れない孤独のなかで限界を迎えた彼女は、思いもよらぬ事態へと飲み込まれていく──。",
       "poster": "https://image.tmdb.org/t/p/w500/5CTl7SVUP6kfbVXn36Qj8Kci0B.jpg",
-      "popularity": 9.6,
+      "popularity": 9.7,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1690296",
+      "title": "さとこはいつも",
+      "release_date": "2026-09-18",
+      "status": "now",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "2026年製作／日本  配給：ハピネットファントム・スタジオ  劇場公開日：2026年9月18日",
+      "poster": "https://image.tmdb.org/t/p/w500/p66OUbjpFk32IVCZfWtiVWA8Hhy.jpg",
+      "popularity": 2.2,
       "source": "TMDB"
     },
     {
@@ -249,19 +247,6 @@
       "overview": "家族を養い借金を返済するため、シューは遠く中東の中華料理店へ料理人として赴く。そこで現地のホールマネージャー・マーと出会い、本場の中華の味で多くの客を惹きつけ、「龍飯店」はたちまち評判となる。しかし戦争の勃発とともに現地の情勢は急転直下。二人の運命はどこへ向かうのか。戦時最中の「龍飯店」は、それでもどう営みを続けていくのか。",
       "poster": "https://image.tmdb.org/t/p/w500/rx1FPYliGVQydh0hzmpklQcxO4A.jpg",
       "popularity": 2.2,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1690296",
-      "title": "さとこはいつも",
-      "release_date": "2026-09-18",
-      "status": "now",
-      "genre": [
-        "ドラマ"
-      ],
-      "overview": "2026年製作／日本  配給：ハピネットファントム・スタジオ  劇場公開日：2026年9月18日",
-      "poster": "https://image.tmdb.org/t/p/w500/p66OUbjpFk32IVCZfWtiVWA8Hhy.jpg",
-      "popularity": 2.5,
       "source": "TMDB"
     },
     {
@@ -315,7 +300,7 @@
       ],
       "overview": "アラスカ上空を飛行中、不意のアクシデントにより“魔の領域（ハート・オブ・ビースト）”と呼ばれる奥地に不時着した、退役兵のジェームズと元偵察犬で義足のオーディン。立ちはだかる大自然を乗り越え「生きて還る」には、愛する存在のためにすべてを捧げる覚悟が必要だった。",
       "poster": "https://image.tmdb.org/t/p/w500/mGmnmCtodvzhpnMFQoZkeGDDVjU.jpg",
-      "popularity": 96.9,
+      "popularity": 94.3,
       "source": "TMDB"
     },
     {
@@ -329,21 +314,7 @@
       ],
       "overview": "養鶏場で生まれ育った1羽の黒い雌鶏が、出荷用のトラックから脱走した。人生で初めて自由を手に入れた雌鶏は、刺激と危険に満ちた世界を走り抜け、ある事情を抱えた一家が暮らす家にたどり着く。庭に建つニワトリ小屋で新生活をスタートさせた雌鶏はやがて恋をし、初めて産んだ卵を温め育てようとするが、大切な卵は毎日人間に回収されてしまう。我が子がヒヨコになる日を雌鶏が夢見る一方で、飼い主一家はとある事件に巻き込まれる。その先には、両者にとって思いがけない運命が待ち受けていた。",
       "poster": "https://image.tmdb.org/t/p/w500/1P14ctR5Ym0x5ry5LW3PYizUcei.jpg",
-      "popularity": 4.7,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1496928",
-      "title": "我々は宇宙人",
-      "release_date": "2026-09-25",
-      "status": "now",
-      "genre": [
-        "アニメーション",
-        "ドラマ"
-      ],
-      "overview": "小学三年生の夏、内気な少年のつばさは、クラスの人気者である暁太郎と出会い、親友になる。小さな世界の中で、かけがえのない時間を過ごしていくふたり。しかし、ある些細な事件をきっかけに、ふたりの関係は引き裂かれて——。  30年以上にわたる少年たちの友情と再会を通して、人が生きることの意味を静かに問いかける物語。",
-      "poster": "https://image.tmdb.org/t/p/w500/pDq9lDGluzgbvS3lYbyLKnKo0mu.jpg",
-      "popularity": 2.4,
+      "popularity": 5.4,
       "source": "TMDB"
     },
     {
@@ -358,6 +329,20 @@
       "overview": "チャンネル登録者数“2ケタ”の弱小大学生YouTuber・佐藤寛治(鈴鹿央士)は、 ある日バイト先のネットカフェで客が置いていった怪しげなボストンバッグを発見する。 チャックを開けると、そこにはなんと“1億円”の札束が入っていた！寛治は思わずバッグを持ち去ってしまうのだが、 それにはボケ始めた祖母(風吹ジュン)との暮らしが理由にあった。 一方その頃、生活安全課の不良警官・江波戸良介（成宮寛貴）は、ヤクザの親分・郷田厳（岩松了）から借りた金を返せずにいた。 郷田の組員でおかっぱ怪力男・エリンギ(青木マッチョ)らの追い込みが激しさを増し「ヤバい」状況だが、 そんな良介のもとに思わぬ金の話が舞い込む。 また、夜の気配を漂わせる悪女の“し～な”（森七菜）は、 投資の失敗で多額の借金を抱えたワケあり主婦・庄田美奈（MEGUMI）に近づき保険金絡みの怪しげな計画を企てている。  そんな中、山中で発見された遺体。 無関係だったはずの彼らの人生はやがて“１億円”によって交錯し始める。 バッグの持ち主は？なぜ大金はネットカフェに置かれていたのか？",
       "poster": "https://image.tmdb.org/t/p/w500/g9eZ49X7CtZfNttXaYKsEIkW5xf.jpg",
       "popularity": 2.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1496928",
+      "title": "我々は宇宙人",
+      "release_date": "2026-09-25",
+      "status": "now",
+      "genre": [
+        "アニメーション",
+        "ドラマ"
+      ],
+      "overview": "小学三年生の夏、内気な少年のつばさは、クラスの人気者である暁太郎と出会い、親友になる。小さな世界の中で、かけがえのない時間を過ごしていくふたり。しかし、ある些細な事件をきっかけに、ふたりの関係は引き裂かれて——。  30年以上にわたる少年たちの友情と再会を通して、人が生きることの意味を静かに問いかける物語。",
+      "poster": "https://image.tmdb.org/t/p/w500/pDq9lDGluzgbvS3lYbyLKnKo0mu.jpg",
+      "popularity": 2.4,
       "source": "TMDB"
     },
     {
@@ -386,7 +371,20 @@
       ],
       "overview": "近くの山から切り出される木でひとり彫刻を作る寄子。ある日、東京と台湾で建築家として活躍してきた友梨は、 数日間の休暇をとって、別れた夫の姉・寄子のもとを訪れる。都会にはない「ナギ」での穏やかな生活。妻を亡くした寄子の幼なじみの好浩、そして息子の春樹とその親友の圭太――人々との出会いは、日常に小さな揺らぎをもたらしていく。  やがて、彫刻のモデルを毎晩つとめるなかで寄子の知られざる喪失に触れ、友梨にも変化が起きていく。",
       "poster": "https://image.tmdb.org/t/p/w500/i5BgsFxypyz3ml3oiMUxODI5Agc.jpg",
-      "popularity": 1.9,
+      "popularity": 1.8,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1567787",
+      "title": "しびれ",
+      "release_date": "2026-09-25",
+      "status": "now",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ae0hP0xSEhPM6eVpAtCfjhWPKVu.jpg",
+      "popularity": 1.3,
       "source": "TMDB"
     },
     {
@@ -400,7 +398,7 @@
       ],
       "overview": "気象キャスターのマーガレットとサイバーセキュリティのエキスパート、ダニエル。接点のないはずの二人が衝撃的な機密情報を知ることとなった。やがて、その秘密を明らかにする使命を負った彼らの前に謎の組織が立ちはだかる――。",
       "poster": "https://image.tmdb.org/t/p/w500/vDnJLpE2jhu8OVcwpWuYCMF5hRU.jpg",
-      "popularity": 77.9,
+      "popularity": 80.6,
       "source": "TMDB"
     },
     {
@@ -416,7 +414,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/sTTmrV7Yy7Rf5jM9i2vXpbDSqs1.jpg",
-      "popularity": 8.6,
+      "popularity": 8.5,
       "source": "TMDB"
     },
     {
@@ -429,7 +427,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
-      "popularity": 5.4,
+      "popularity": 5.0,
       "source": "TMDB"
     },
     {
@@ -444,7 +442,7 @@
       ],
       "overview": "ある医療品の配送を請け負った男を襲う、地獄の一夜。 男は、己の命運を懸けた壮絶なサバイバルを余儀なくされる…",
       "poster": "https://image.tmdb.org/t/p/w500/wHXSnGH3zQtvpxPwaBXMoS9o8Vl.jpg",
-      "popularity": 844.0,
+      "popularity": 703.2,
       "source": "TMDB"
     },
     {
@@ -458,7 +456,7 @@
       ],
       "overview": "石油採掘会社のCEOとして君臨する傲慢な権力者、ディガー・ロックウェル。己の利益しか考えていない彼の欲深い行動のせいで、地球は滅亡の危機に陥ってしまう。大統領から事態の収拾を命じられたディガーは、世界を救うべくシャベルを片手に立ち上がるが……。",
       "poster": "https://image.tmdb.org/t/p/w500/vi2HvWOBtR1pcr4vBoYe43ldkuu.jpg",
-      "popularity": 165.9,
+      "popularity": 148.5,
       "source": "TMDB"
     },
     {
@@ -472,20 +470,7 @@
       ],
       "overview": "美しい海と空が広がる、瀬戸内のとある島。  島に転校してきた男子高校生・櫂（横浜流星）と、この島で育った暁海（広瀬すず）。  ともに家庭に恵まれずわだかまりを抱える2人は、互いに唯一の心の支えとなり、恋に落ちる。  夢を掴むために上京する櫂と、家族のために島で働く暁海。  そんな2人に、無情にも突き付けられるいくつもの“岐路”。15年の大恋愛の末に、2人のくだした決断とは。  「わたしは愛する人のために人生を誤りたい。」  2人の愛と選択を通して生きる意味を問う、  この秋、必涙の感動作がここに誕生する。",
       "poster": "https://image.tmdb.org/t/p/w500/nRoVOvMPOEM9GuHu5FKGigbXzVT.jpg",
-      "popularity": 6.4,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1740268",
-      "title": "ヨルシカ LIVE「盗作」",
-      "release_date": "2026-10-09",
-      "status": "now",
-      "genre": [
-        "音楽"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/k6vBdTGa3INsaZvxxKHrRJiSuia.jpg",
-      "popularity": 2.1,
+      "popularity": 7.8,
       "source": "TMDB"
     },
     {
@@ -502,6 +487,19 @@
       "overview": "豊かな自然にあふれた離島・采岐島――。\r その島には、“神隠しの入り江”と呼ばれる場所があった。  とある事情で都会を離れ、采岐島の高校に進学した少年・月ヶ瀬和希は、\r ある初夏の日、“神隠しの入り江”で一人の少女が倒れているのを発見する。\r 少女の名前は秋鹿七緒。\r 身元不明の七緒は、和希とともに彼女を救助した高津という男性に保護されることになる。\r 七緒のことが気になり、それからたびたび放課後に彼女のもとを訪れるようになった和希。\r 二人の距離は少しずつ縮まっていくが、やがて和希は、七緒から驚きの言葉を聞かされるのだった。  出会うはずのなかった二人が出会い、少しずつ色づいていく日常。\r ひと夏を共に過ごした二人がたどり着いたのは、切なくも優しい未来だった――",
       "poster": "https://image.tmdb.org/t/p/w500/AqIciojGZ8Bv2NFecL3eM2dX4xJ.jpg",
       "popularity": 2.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1740268",
+      "title": "ヨルシカ LIVE「盗作」",
+      "release_date": "2026-10-09",
+      "status": "now",
+      "genre": [
+        "音楽"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/k6vBdTGa3INsaZvxxKHrRJiSuia.jpg",
+      "popularity": 2.1,
       "source": "TMDB"
     },
     {
@@ -574,7 +572,7 @@
       ],
       "overview": "12歳で孤児となり“少⼥”を棄てた⼥の⼦と、⽣きるために⽣徒を棄てた教師の再生への物語。",
       "poster": "https://image.tmdb.org/t/p/w500/lwRpfzxJCmXIPmnvGDUTuzKSYYd.jpg",
-      "popularity": 2.5,
+      "popularity": 2.1,
       "source": "TMDB"
     },
     {
@@ -587,7 +585,7 @@
       ],
       "overview": "15年前の夏に起きたある火災事故から始まる。少年の無邪気な花火遊びがアパートを全焼させ、黒焦げの妻を抱えた男・埜本（のもと）が、燃えさかるアパートの一室から姿を現す。あまりにも強烈な記憶を前に、当事者であった少年たち——龍之介と拓海の時間は、あの日を境に止まってしまった。  やがて大人になった二人は、まったく異なる道を歩んでいる。龍之介（磯村勇斗）は罪に蓋をし、アーチェリーのオリンピック日本代表候補として前へ進もうとする。一方、拓海（末澤誠也）はいまだ罪の記憶から抜け出せず、陰鬱な日々に立ちすくんでいた。そんな二人の前に、あの火傷の男・埜本が再び現れる。しかし彼は恨みの言葉を口にすることなく、「君はもう、充分に償ったよ」と静かに語りかける。不気味なほどに優しいその姿は、やがて彼らにとっての “mentor／メンター”（助言者・導き手）となっていく——。",
       "poster": "https://image.tmdb.org/t/p/w500/eHKLUM2VhJWJeGLFdrTChC5Jmjg.jpg",
-      "popularity": 1.8,
+      "popularity": 1.7,
       "source": "TMDB"
     },
     {
@@ -627,7 +625,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/9GhyuqIrjKRaWeXjGCHGjthUJD8.jpg",
-      "popularity": 1.2,
+      "popularity": 1.0,
       "source": "TMDB"
     },
     {
@@ -729,17 +727,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1689343",
-      "title": "ミュージカル「ヘタリア〜World⭐︎Starts〜」",
-      "release_date": "2026-10-23",
-      "status": "upcoming",
-      "genre": [],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/bwfdiCXUzWbjD2TGxWOlt4rZq8C.jpg",
-      "popularity": 1.6,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1410955",
       "title": "うるわしの宵の月",
       "release_date": "2026-10-23",
@@ -751,6 +738,17 @@
       "overview": "滝口宵は、容姿端麗・スマートな「王子」と呼ばれる女子。でも内心では、その完璧な王子像に複雑な思いを抱いていた。そんなとき突然出会ったのは、同じく「王子」と呼ばれる一つ上の先輩、市村琥珀。「あんた、めちゃくちゃ美しいな」彼に言われた一言が、宵の世界を揺らし始める。",
       "poster": "https://image.tmdb.org/t/p/w500/2ap3yvDVquHTGZp1rSDShK4piNI.jpg",
       "popularity": 1.7,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1689343",
+      "title": "ミュージカル「ヘタリア〜World⭐︎Starts〜」",
+      "release_date": "2026-10-23",
+      "status": "upcoming",
+      "genre": [],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bwfdiCXUzWbjD2TGxWOlt4rZq8C.jpg",
+      "popularity": 1.4,
       "source": "TMDB"
     },
     {
@@ -804,7 +802,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/pM3hP7ODKhjFvw50hvikqDumDnl.jpg",
-      "popularity": 2.0,
+      "popularity": 1.8,
       "source": "TMDB"
     },
     {
@@ -830,6 +828,19 @@
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/qjuzeBRrqHAyGJIJLyJBGuCy5oY.jpg",
       "popularity": 1.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1555226",
+      "title": "恒星の向こう側",
+      "release_date": "2026-10-30",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "母と娘、そして夫婦の愛と葛藤。喪失と再生を経て受け継がれる愛のかたちを描く、中川龍太郎監督三部作の最終章。",
+      "poster": "https://image.tmdb.org/t/p/w500/2VEvO7Jw0CPCX3Jj1RZ2Ouvrl7V.jpg",
+      "popularity": 1.1,
       "source": "TMDB"
     },
     {
@@ -889,7 +900,7 @@
       ],
       "overview": "最強の仮面ライダー、ふたたび！  あの男たちが、20年の時を経て帰ってくる。そして伝説は未来へ……！  人間に擬態して地球侵略を進める宇宙生命体ワームに対抗するため、秘密組織ZECTが開発した「マスクドライダーシステム」。ワームとZECT、そしてマスクドライダー（仮面ライダー）たちの熾烈を極めた戦いは、人類の勝利に終わった、はずだったが……!?  多彩なキャラクターと、オリジナリティ溢れるストーリーの魅力で、現在も根強い人気を誇る『仮面ライダーカブト』。\r 20周年のアニバーサリーに、待望の完全新作が登場！\r 人類とワームが共存する世界で、再始動したZECTの目的は？出現する、新たなマスクドライダーたち。\r 果たして「天を継ぐもの」は誰なのだろうか……！",
       "poster": "https://image.tmdb.org/t/p/w500/5LBfnGFPXn5hUmywY7L4jDTEi9E.jpg",
-      "popularity": 2.1,
+      "popularity": 1.7,
       "source": "TMDB"
     },
     {
@@ -929,21 +940,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/im9W3Hw08NsHhOlF60FCX76Ln7u.jpg",
-      "popularity": 1.2,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1755423",
-      "title": "となりのとらんす少女ちゃん",
-      "release_date": "2026-11-07",
-      "status": "upcoming",
-      "genre": [
-        "コメディ",
-        "ドラマ"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/cH5dp1LCjG7Flmc9ueCr24H0CIU.jpg",
-      "popularity": 1.1,
+      "popularity": 1.0,
       "source": "TMDB"
     },
     {
@@ -956,7 +953,7 @@
         "スリラー"
       ],
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/adIG9Tsf9FkUkJ1euYjtktSMOyT.jpg",
       "popularity": 18.2,
       "source": "TMDB"
     },
@@ -966,13 +963,12 @@
       "release_date": "2026-11-13",
       "status": "upcoming",
       "genre": [
-        "ドラマ",
         "ファンタジー",
         "コメディ"
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "popularity": 13.3,
+      "popularity": 11.4,
       "source": "TMDB"
     },
     {
@@ -1029,7 +1025,21 @@
       ],
       "overview": "人との関わりを拒み孤独に生きてきた主人公の冬子が、年上の男性三束と出会い、自らの孤独や感情と向き合う物語。",
       "poster": "https://image.tmdb.org/t/p/w500/hu59kewfoT7Brzimj8KOliuh5Ih.jpg",
-      "popularity": 1.9,
+      "popularity": 1.8,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1759179",
+      "title": "シルバー・エクスプレス",
+      "release_date": "2026-11-13",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ",
+        "ロマンス"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/jOGlxJo4nr1SohOOgN87sIhnZFn.jpg",
+      "popularity": 1.5,
       "source": "TMDB"
     },
     {
@@ -1045,20 +1055,6 @@
       ],
       "overview": "2014年に公開されたオリジナル劇場アニメ「楽園追放 ‐Expelled from Paradise‐」の続編となる完全新作劇場アニメ。『楽園追放 心のレゾナンス』2026年公開予定。",
       "poster": "https://image.tmdb.org/t/p/w500/cp9XcvYQgwFPQgfDi3Yjjq2I3dI.jpg",
-      "popularity": 1.3,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1759179",
-      "title": "シルバー・エクスプレス",
-      "release_date": "2026-11-13",
-      "status": "upcoming",
-      "genre": [
-        "ドラマ",
-        "ロマンス"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/jOGlxJo4nr1SohOOgN87sIhnZFn.jpg",
       "popularity": 1.5,
       "source": "TMDB"
     },
@@ -1157,7 +1153,7 @@
       ],
       "overview": "アストラギウス銀河を二分するギルガメスとバララント。 この二つの勢力は、原因すら定かではない戦争を100年近く続けていた。  “百年戦争”末期――アスガルズ星系第二惑星ヴァルキュリアⅡの前線基地に、一人の女性士官マキ・シュタウフェンベルクが赴任する。 彼女は、寄せ集めの兵士で構成された懲罰部隊にあって、どんな過酷な作戦でもただ一人生還することから“魔女”と呼ばれる兵士、アッシュ・ヴァンプスを調査する任務を密かに受けていた。  戦場の真実は、戦場でしか知ることはできない。  アッシュの部隊に命じられた敵陣への強行降下作戦に、AT（アーマードトルーパー）のパイロットとしてマキは参加を決意する。  生還不可能にも見える作戦の中、戦況は刻一刻と絶望へ向かう。 戦火の中でアッシュを追うマキは、やがて彼女に秘められた真実へと近づいていく――。",
       "poster": "https://image.tmdb.org/t/p/w500/bLqeWTf9HGofglNZ6XENSsY1HbD.jpg",
-      "popularity": 1.4,
+      "popularity": 1.3,
       "source": "TMDB"
     },
     {
@@ -1184,8 +1180,8 @@
         "スリラー"
       ],
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/6aS1fKh5Z8Vf9n7wWtVAe86BHVG.jpg",
-      "popularity": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+      "popularity": 7.4,
       "source": "TMDB"
     },
     {
@@ -1199,7 +1195,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "popularity": 47.9,
+      "popularity": 49.1,
       "source": "TMDB"
     },
     {
@@ -1229,22 +1225,6 @@
       "overview": "絵本作家の小島詩(長澤まさみ)と保険会社に勤める小島杜夫(柄本佑) は、結婚3年目の夫婦。詩は「そろそろ子どもをつくらない?」という杜夫の提案をはぐらかしながら、担当編集者であり恋人の倉持潤奈(石橋静河)と関係を続けている。どちらかを選ぶことも、杜夫と子どもをつくることもピンとこない詩。ある日、3人で楽しい時間を過ごしたことをきっかけに、詩は「3人でこの家に住む」ことを思いつく。自分勝手な提案に怒りをあらわにする杜夫と潤奈だが、ある出来事をきっかけに3人の関係が変わっていく――。 愛する人と共に生きることに迷い悩む、多様な愛の物語。",
       "poster": "https://image.tmdb.org/t/p/w500/w95RcyBbq2KwNu2juW60t1LrFZp.jpg",
       "popularity": 1.7,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1700953",
-      "title": "タコピーの原罪 -ありがとう、また明日-",
-      "release_date": "2026-11-27",
-      "status": "upcoming",
-      "genre": [
-        "アニメーション",
-        "ドラマ",
-        "サイエンスフィクション",
-        "ファンタジー"
-      ],
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/d8naDZPJ4NBlJW7SiiUrEAqDeSC.jpg",
-      "popularity": 1.1,
       "source": "TMDB"
     },
     {
@@ -1321,6 +1301,17 @@
       "source": "TMDB"
     },
     {
+      "id": "tmdb-1743286",
+      "title": "お姉ちゃんの翠くん",
+      "release_date": "2026-12-04",
+      "status": "upcoming",
+      "genre": [],
+      "overview": "「初恋の人はお姉ちゃんの彼氏でした―」誰にも言えない“好き”の気持ちと、切なさが止まらない究極のピュアラブストーリー",
+      "poster": "https://image.tmdb.org/t/p/w500/wiArziJ4S5L7cXWkYqvUtZe0Ipy.jpg",
+      "popularity": 1.1,
+      "source": "TMDB"
+    },
+    {
       "id": "tmdb-1782930",
       "title": "超塑性变形",
       "release_date": "2026-12-05",
@@ -1366,21 +1357,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1566920",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝",
-      "release_date": "2026-12-11",
-      "status": "upcoming",
-      "genre": [
-        "アニメーション",
-        "ドラマ",
-        "謎"
-      ],
-      "overview": "水上都市に隠された秘宝を巡り、新たなミステリーの幕が上がる  帝から壬氏にとある命が下された。 それは、5年前に後宮で命を落とした妃の“故郷へ帰りたい”という最期の願いを叶えること。  彼女を家族の元へと返すため、遺体を確認すると、 まるで生きているかのように美しい姿のまま眠っていた。 遺体の謎を解き明かすため、猫猫は壬氏に連れられ、 未の一族が治める南の地・未南州へと旅に出る。  辿り着いたのは、活気あふれる水上都市。 見たことのない薬や植物に心躍らせる猫猫だったが、 その地では前頭領が隠した財宝を巡り水賊が暴れまわり、不穏な空気が漂っていた。  「何も起こらないといいが―」  壬氏の嫌な予感は的中し、妃の葬儀当日に起きた大事件をきっかけに、 想像を超える事態へと発展していくー",
-      "poster": "https://image.tmdb.org/t/p/w500/9mOEqhDD9jyuaD9ULfhWJXpiJW.jpg",
-      "popularity": 3.2,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-478798",
       "title": "風林火山",
       "release_date": "2026-12-11",
@@ -1393,6 +1369,21 @@
       "overview": "銀世界の香港。突如として激しい銃撃戦が勃発、さらには爆破テロまで起こり街は混乱に包まれる。その犠牲者の中に、李珀山（レイ・パクサン）という男がいた。彼はさまざまな産業にまたがる帝国を築き上げてきた実業家だったが、実は彼こそが巨大麻薬組織を裏で支配する黒幕だったのだ。対立する勢力が覇権を争う中、李珀山の息子･李霧童（レイ・モウトン）は一族が受け継いできた犯罪の歴史に終止符を打つべく争いの渦中へと身を投じていくが、逃亡中の兄、亡き家長に忠誠を誓う側近たちなど大きな障壁が立ちはだかる。彼が後継者としての運命を背負い一族へ導くのは、希望か、それとも破滅か――。",
       "poster": "https://image.tmdb.org/t/p/w500/DGcFoTyyHNftOMufyLo5PoWnB4.jpg",
       "popularity": 3.5,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1566920",
+      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝",
+      "release_date": "2026-12-11",
+      "status": "upcoming",
+      "genre": [
+        "アニメーション",
+        "ドラマ",
+        "謎"
+      ],
+      "overview": "水上都市に隠された秘宝を巡り、新たなミステリーの幕が上がる  帝から壬氏にとある命が下された。 それは、5年前に後宮で命を落とした妃の“故郷へ帰りたい”という最期の願いを叶えること。  彼女を家族の元へと返すため、遺体を確認すると、 まるで生きているかのように美しい姿のまま眠っていた。 遺体の謎を解き明かすため、猫猫は壬氏に連れられ、 未の一族が治める南の地・未南州へと旅に出る。  辿り着いたのは、活気あふれる水上都市。 見たことのない薬や植物に心躍らせる猫猫だったが、 その地では前頭領が隠した財宝を巡り水賊が暴れまわり、不穏な空気が漂っていた。  「何も起こらないといいが―」  壬氏の嫌な予感は的中し、妃の葬儀当日に起きた大事件をきっかけに、 想像を超える事態へと発展していくー",
+      "poster": "https://image.tmdb.org/t/p/w500/9mOEqhDD9jyuaD9ULfhWJXpiJW.jpg",
+      "popularity": 2.7,
       "source": "TMDB"
     },
     {
@@ -1411,19 +1402,6 @@
       "source": "TMDB"
     },
     {
-      "id": "tmdb-1620525",
-      "title": "妖怪、化物をひろう",
-      "release_date": "2026-12-11",
-      "status": "upcoming",
-      "genre": [
-        "ドラマ"
-      ],
-      "overview": "かつて嵐で壊滅的なダメージを受けた小さな町。焼き団子を売りながら孤独に暮らす老婦人タエは、ある日、雑木林で人間とは思えない異形の生き物の赤ん坊を見つける。町の人々がその存在を気味悪がるなか、タエは赤ん坊を“ハル”と名付け、大切に守り育てようとする。",
-      "poster": "https://image.tmdb.org/t/p/w500/ueMQ0ZeiAsP7O0zfjqJ6ISgjWnQ.jpg",
-      "popularity": 1.3,
-      "source": "TMDB"
-    },
-    {
       "id": "tmdb-1759822",
       "title": "薔薇の鎖",
       "release_date": "2026-12-11",
@@ -1438,6 +1416,19 @@
       "source": "TMDB"
     },
     {
+      "id": "tmdb-1620525",
+      "title": "妖怪、化物をひろう",
+      "release_date": "2026-12-11",
+      "status": "upcoming",
+      "genre": [
+        "ドラマ"
+      ],
+      "overview": "かつて嵐で壊滅的なダメージを受けた小さな町。焼き団子を売りながら孤独に暮らす老婦人タエは、ある日、雑木林で人間とは思えない異形の生き物の赤ん坊を見つける。町の人々がその存在を気味悪がるなか、タエは赤ん坊を“ハル”と名付け、大切に守り育てようとする。",
+      "poster": "https://image.tmdb.org/t/p/w500/ueMQ0ZeiAsP7O0zfjqJ6ISgjWnQ.jpg",
+      "popularity": 1.3,
+      "source": "TMDB"
+    },
+    {
       "id": "tmdb-1003596",
       "title": "アベンジャーズ／ドゥームズデイ",
       "release_date": "2026-12-18",
@@ -1449,7 +1440,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/axD1jIfE2Is83vDKyTb1CnZ2EBt.jpg",
-      "popularity": 91.1,
+      "popularity": 90.2,
       "source": "TMDB"
     },
     {
@@ -1478,7 +1469,7 @@
       ],
       "overview": "1977 年、軍事政権下のブラジル。カーニバルの喧騒に紛れ、男は再び街へと舞い戻る。過去を消し身分を隠し、抑圧された僅かな自由にすがる人々と猜疑心渦巻くこの国で、「ある目的」を果たすために……。",
       "poster": "https://image.tmdb.org/t/p/w500/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
-      "popularity": 15.8,
+      "popularity": 19.1,
       "source": "TMDB"
     },
     {
@@ -1495,7 +1486,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-      "popularity": 13.9,
+      "popularity": 13.0,
       "source": "TMDB"
     },
     {
@@ -1699,7 +1690,7 @@
       ],
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg",
-      "popularity": 11.3,
+      "popularity": 11.8,
       "source": "TMDB"
     },
     {
@@ -1730,7 +1721,7 @@
       ],
       "overview": "デュランダルが提唱した、遺伝子によって人の運命を定める「デスティニープラン」の崩壊後 新たな平和秩序の実現に向けて、オーブ連合首長国代表・カガリを中心に、 世界平和監視機構「コンパス」の創設が進められていた。  C.E.74。大きな戦いを終えた世界で、シンは自らが進むべき道を見出せずにいた。 そんな折、ザフトからオノゴロ島のコンパス暫定基地へ、かつての戦場を戦い抜いたモビルスーツが移送される。 しかしその夜、「ストライクフリーダムガンダム」が何者かによって強奪されてしまう。  事件の拡大を阻止し、奪われた機体を取り戻すため、そして守るべきもののため シンたちは再び戦いへと身を投じていく――。",
       "poster": "https://image.tmdb.org/t/p/w500/oaVT7ZdNgZnBmq1Hncb072qJ5dD.jpg",
-      "popularity": 1.6,
+      "popularity": 1.3,
       "source": "TMDB"
     },
     {
@@ -1756,8 +1747,19 @@
         "スリラー"
       ],
       "overview": "ネットで未成年者を狙う大人たちをあぶり出す「おとり捜査」の様子を流すリアリティTV。 未成年者になりすました「おとり」で大人たちを誘い出し、隠しカメラでその姿を撮影、クリス・ハンセンが犯罪者になりえる人間を直接追及する。しかし視聴率を上げ、番組をさらに人気番組へと押し上げるため、ハンセンの行動は次第にエスカレート。大スクープを追い求めるその姿勢に、やがて周囲からはジャーナリズムやモラルのあり方を疑問視する声も上がっていく。",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
       "popularity": 47.4,
+      "source": "TMDB"
+    },
+    {
+      "id": "tmdb-1560316",
+      "title": "あきらめません！",
+      "release_date": "2027-01-22",
+      "status": "upcoming",
+      "genre": [],
+      "overview": "主人公は、夫・幹夫の退社を機に夫の実家がある田舎に移住することを決めた霧島郁子。結婚して30年近く。共働きかつワンオペ育児を卒業し、二人の娘たちも独立し、親元を離れていった。都会のマンションから念願の庭付き一戸建てに。悠々自適なセカンドライフを送るはずが、待っていたのは閉鎖的な地域社会のしがらみばかり。そんな郁子に目をつけた老齢の女性市議の後押しで市議会議員に立候補することになった郁子の運命は――。",
+      "poster": "https://image.tmdb.org/t/p/w500/vJ5dpcqly5KjRhFK73WwjLAjWtu.jpg",
+      "popularity": 0.9,
       "source": "TMDB"
     },
     {
@@ -1787,7 +1789,7 @@
       ],
       "overview": "舞台は1973年のチリ軍事クーデター直前のこと。CIAの局長MJ（スティーヴ・ブシェミ）の命令により、エージェントのクリス（ジョン・マルコヴィッチ）とリー（サム・ロックウェル）はチリの首都サンティアゴからイースター島へと派遣される。 島を象徴する石像に囲まれ、長年パートナーを組んできた二人がそれぞれの暗い過去や現在進行中の陰謀と格闘する中、クリスが反体制派の二人の学生（マリアナ・ディ・ジローラモ、アイリン・サラス）と築いた新たな絆が、この孤高の楽園への旅を思わぬ方向へと導いていく。CIAのエージェントに迫り来る、想像もつかない危機とユーモラスかつ謎に満ちた展開は、どんな運命を引き寄せるのかー",
       "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "popularity": 10.0,
+      "popularity": 9.6,
       "source": "TMDB"
     },
     {
@@ -1801,17 +1803,6 @@
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/bgapSeASBoacEvypu6lp7yIqubP.jpg",
       "popularity": 1.5,
-      "source": "TMDB"
-    },
-    {
-      "id": "tmdb-1711861",
-      "title": "カイジ 人生リベンジゲーム",
-      "release_date": "2027-01-29",
-      "status": "upcoming",
-      "genre": [],
-      "overview": "カイジ 人生リベンジゲーム",
-      "poster": "https://image.tmdb.org/t/p/w500/8uAmlY27QuIb9Cp84Af4bhiMS1.jpg",
-      "popularity": 1.1,
       "source": "TMDB"
     },
     {
