@@ -12,11 +12,12 @@ import common as C
 BASE = "https://www.famitsu.com/schedule/all-platforms/"
 
 HDR = re.compile(
-    r'ScheduleList_listTitle__[^"]*">(\d{4})年(\d{1,2})月(\d{1,2})日（.）発売</h2>')
+    r'<h2\b[^>]*>\s*(\d{4})年(\d{1,2})月(\d{1,2})日（.）発売\s*</h2>')
 RE_ID = re.compile(r'href="/game/title/(\d+)')
 RE_IMG = re.compile(r'image\.kagali\.kgl-systems\.io/item/(\d+)/([A-Za-z0-9]+)')
-RE_PLAT = re.compile(r'gamePlatformTag__[^"]*">([^<]*)</span>')
-RE_TITLE = re.compile(r'gameTitleName__[^"]*">([^<]*)</b>')
+RE_PLAT = re.compile(r'class="[^"]*gamePlatformTag[^"]*"[^>]*>([^<]*)</span>')
+RE_TITLE = re.compile(r'class="[^"]*gameTitleName[^"]*"[^>]*>(.*?)</b>', re.S)
+RE_CARD = re.compile(r'<a\b[^>]*class="[^"]*scheduleCard[^"]*"[^>]*>.*?</a>', re.S)
 RE_PRICE = re.compile(r'<p>([^<]*円[^<]*)</p>')
 
 
@@ -52,7 +53,7 @@ def parse(page_html):
         date = f"{y}-{mo:02d}-{d:02d}"
         seg = page_html[h.end(): heads[i + 1].start() if i + 1 < len(heads) else len(page_html)]
         # カード単位に分割（1ゲーム=1カード）
-        for chunk in seg.split('ScheduleCard_scheduleCard__')[1:]:
+        for chunk in RE_CARD.findall(seg):
             mid = RE_ID.search(chunk)
             mt = RE_TITLE.search(chunk)
             if not (mid and mt):
@@ -61,7 +62,7 @@ def parse(page_html):
             mpr = RE_PRICE.search(chunk)
             out.append({
                 "id": f"fami-{mid.group(1)}",
-                "title": html.unescape(mt.group(1).strip()),
+                "title": html.unescape(re.sub(r'<[^>]+>', '', mt.group(1)).strip()),
                 "release_date": date,
                 "platforms": [mp.group(1).strip()] if mp and mp.group(1).strip() else [],
                 "genre": [],
@@ -75,11 +76,13 @@ def parse(page_html):
 def main():
     lo, hi = C.date_range()
     seen, rows = set(), []
+    failed_months = []
     for ym in months_around(C.TODAY):
         try:
             page = fetch_html(BASE + ym)
         except Exception as e:
             print(f"[WARN] {ym} 取得失敗: {e}")
+            failed_months.append(ym)
             continue
         for r in parse(page):
             if r["id"] in seen:
@@ -90,7 +93,9 @@ def main():
             rows.append(r)
     rows.sort(key=lambda r: r["release_date"])
     if not rows:
-        print("[WARN] ゲーム情報を抽出できませんでした。HTML構造が変わった可能性があります。")
+        raise RuntimeError("ゲーム情報を抽出できないため更新を中止しました。既存データは保持します。")
+    if failed_months:
+        raise RuntimeError(f"取得失敗月 {failed_months} があるため更新を中止しました。既存データは保持します。")
     C.publish("games", "games", rows)
 
 
