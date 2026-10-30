@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-29",
+  "updated_at": "2026-10-30",
   "items": [
     {
       "id": "fami-61940",
@@ -2127,6 +2127,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72741",
+      "title": "G-MODEアーカイブス+ ロストセイヴァー （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-10-15",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "727円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72157",
       "title": "テイルズ オブ エターニア リマスター （Steam版）",
       "release_date": "2026-10-16",
@@ -2400,6 +2412,18 @@
       "genre": [],
       "price": "4300円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155003/1N9bbIro?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72742",
+      "title": "G-MODEアーカイブス+ ロストセイヴァー （Steam版）",
+      "release_date": "2026-10-28",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "727円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
