@@ -1,15 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-30",
+  "updated_at": "2026-10-31",
   "items": [
-    {
-      "id": "kinro-20261030",
-      "air_date": "2026-10-30",
-      "title": "ゴジラ-1.0",
-      "note": "金曜ロードショー",
-      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ca20fe3a8d419cb910950fcb6dfebee4eb941da1.jpg",
-      "source": "kinro.ntv.co.jp"
-    },
     {
       "id": "kinro-20261106",
       "air_date": "2026-11-06",
@@ -24,6 +16,22 @@
       "title": "モアナと伝説の海2",
       "note": "金曜ロードショー",
       "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f6e068c43d28b554781b610d0f66c567018dd6fa.jpg",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261120",
+      "air_date": "2026-11-20",
+      "title": "SING／シング",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8e418a35791cae800227751892816a2d82564fa3.jpg",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261127",
+      "air_date": "2026-11-27",
+      "title": "SING／シング：ネクストステージ",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5620c8749b3f67297c1c12ff46a9af2b6438bac8.jpg",
       "source": "kinro.ntv.co.jp"
     }
   ]
