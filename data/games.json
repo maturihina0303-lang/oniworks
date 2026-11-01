@@ -1,463 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-10-31",
+  "updated_at": "2026-11-01",
   "items": [
-    {
-      "id": "fami-61940",
-      "title": "Nintendo Switch 2（日本語・国内専用） スプラトゥーン レイダース セット",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "59073円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155005/ALxxOo5T?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-62067",
-      "title": "スプラトゥーン レイダース",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "6800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/148169/6QAW5jL8?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69954",
-      "title": "ヨグ=ソトースの庭",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "2700円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/152474/TAZxfgFE?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70919",
-      "title": "What Comes After",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "4000円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153506/T96Drl3a?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70964",
-      "title": "ソラテリア",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "4100円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153587/PqU4rSkO?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70993",
-      "title": "Staffer Retro： 超能力推理クエスト （Steam版）",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "3182円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70994",
-      "title": "ソラユメ",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "7800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153678/dgxcHdxt?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-71001",
-      "title": "お隣の天使様にいつの間にか駄目人間にされていた件 Memorial Vacation",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "6800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153686/x3zPOSoA?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72218",
-      "title": "ファイナルファンタジーX/X-2 HDリマスター （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "6080円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72367",
-      "title": "GUREI（愚霊） （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "2272円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72405",
-      "title": "アーケードアーカイブス2 マウサー （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1000円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72409",
-      "title": "アーケードアーカイブス2 アルマジロレーシング （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1636円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72431",
-      "title": "コンソールアーカイブス ザ・コンビニ 〜あの町を独占せよ〜 （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1091円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72730",
-      "title": "モノクローム・エコーズ ホワイト編 （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-23",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "2545円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70274",
-      "title": "TERASLIDE （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-25",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "709円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72426",
-      "title": "Halo: Campaign Evolved （ダウンロード版）",
-      "release_date": "2026-07-29",
-      "platforms": [
-        "XSX"
-      ],
-      "genre": [],
-      "price": "7182円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-59298",
-      "title": "ゼノブレイド2 Nintendo Switch 2 Edition （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "8889円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-62780",
-      "title": "ほの暮しの庭",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "8200円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/149264/pTMxK5uw?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69478",
-      "title": "テニスの王子様 ぎゅ〜っと！ ドキドキサバイバル Tie break ♡ game",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "7000円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/151693/ibnwxQcO?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69481",
-      "title": "テニスの王子様 も〜っと 学園祭の王子様 ♡-40 and more...",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "6998円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/151696/i4FDb9f4?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69488",
-      "title": "TATSUJIN EXTREME",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "4500円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/151703/JHLOlb3?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69708",
-      "title": "君に惑い、君に溺れる。",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "7800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/152079/EDNoWIt9?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69709",
-      "title": "カルドセプト ザ ファースト",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "4500円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/152082/VYkn78Y7?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69763",
-      "title": "ムーミントロール：冬のぬくもり",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "4073円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/152188/QgVXis7x?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70001",
-      "title": "BLUE REFLECTION Quartet： 少女たちのキセキ",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "6800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/152526/K?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70907",
-      "title": "レッド・デッド・リデンプション",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "6200円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155327/IDQqxeOj?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70921",
-      "title": "アレサCOLLECTION 1993-1995",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "7800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153510/JgXmn?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70927",
-      "title": "ケムコRPGセレクション Vol.15",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "4527円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153528/tBrTqOrQ?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70987",
-      "title": "Bluey’s Quest for The Gold Pen（ブルーイのゴールドペン・クエスト）",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "5436円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153657/DwrUMEz9?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-71003",
-      "title": "久我山栞の死様手帖",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "4800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153692/Ao0zBHO?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72145",
-      "title": "ゼノブレイド ディフィニティブ・エディション",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "6889円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155009/NsJ6d5mn?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72439",
-      "title": "リリーファンタジア （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "1727円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72441",
-      "title": "Kusan: オオカミの街 （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "1727円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72499",
-      "title": "コンソールアーカイブス ドラえもん （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "727円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72505",
-      "title": "アーケードアーカイブス2 TX-1 （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1000円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72530",
-      "title": "巨人殺し: 冥界の怒涛 （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-07-30",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "2364円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-70928",
-      "title": "パウ・パトロール：ダイノ・ワールド",
-      "release_date": "2026-07-31",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "5400円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/153533/zHFZgcfR?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72444",
-      "title": "Kusan: オオカミの街 （Steam版）",
-      "release_date": "2026-07-31",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "1727円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-62028",
       "title": "Beast of Reincarnation （ダウンロード版）",
@@ -936,6 +480,18 @@
       "genre": [],
       "price": "4000円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/153545/8fO?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72218",
+      "title": "ファイナルファンタジーX/X-2 HDリマスター",
+      "release_date": "2026-08-27",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
@@ -1731,6 +1287,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-59298",
+      "title": "ゼノブレイド2 Nintendo Switch 2 Edition",
+      "release_date": "2026-10-01",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "8889円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155011/DhjcrM2A?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-69026",
       "title": "真・三國無双2 with 猛将伝 Remastered （ダウンロード版）",
       "release_date": "2026-10-01",
@@ -2472,6 +2040,18 @@
       "genre": [],
       "price": "4500円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155361/u7Q?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-61940",
+      "title": "Nintendo Switch 2 （日本語・国内専用） ゼルダの伝説 40周年 アニバーサリーエディション",
+      "release_date": "2026-10-29",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "57256円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
@@ -3687,6 +3267,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72730",
+      "title": "モノクローム・エコーズ ホワイト＆ブラック Wパック",
+      "release_date": "2027-01-21",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156221/8ux37ETj?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72732",
       "title": "でびるコネクショん",
       "release_date": "2027-01-21",
@@ -3792,6 +3384,54 @@
       "genre": [],
       "price": "5800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/156231/G6?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72180",
+      "title": "朧村正怪奇譚",
+      "release_date": "2027-02-04",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155076/HTfRvkc?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72552",
+      "title": "エイリアン：ファイアーチーム エリート2",
+      "release_date": "2027-02-04",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "5900円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155769/VaFyC8QY?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72183",
+      "title": "朧村正怪奇譚 （Steam版）",
+      "release_date": "2027-02-05",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72556",
+      "title": "メトロ2039 （PS Store ダウンロード版）",
+      "release_date": "2027-02-05",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "",
+      "image": "",
       "source": "ファミ通"
     }
   ]
