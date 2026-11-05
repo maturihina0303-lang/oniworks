@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-05",
   "items": [
     {
       "id": "fami-62028",
@@ -3431,6 +3431,18 @@
       ],
       "genre": [],
       "price": "",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69248",
+      "title": "Tomb Raider: Legacy of Atlantis （ダウンロード版）",
+      "release_date": "2027-02-13",
+      "platforms": [
+        "XSX"
+      ],
+      "genre": [],
+      "price": "7500円[税抜]",
       "image": "",
       "source": "ファミ通"
     }
