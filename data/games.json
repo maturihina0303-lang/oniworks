@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-08",
   "items": [
     {
       "id": "fami-62028",
@@ -3444,6 +3444,42 @@
       "genre": [],
       "price": "7500円[税抜]",
       "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72579",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド",
+      "release_date": "2027-02-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72609",
+      "title": "遊戯王 TAG FORCE GX",
+      "release_date": "2027-02-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155908/JnQr9BY?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72670",
+      "title": "ゴッド・オブ・ウォー ラウフェイ",
+      "release_date": "2027-02-16",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8164円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156099/5MNwyycV?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     }
   ]
