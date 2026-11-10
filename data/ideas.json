@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-10",
   "items": [
     {
       "title": "金ロー『モアナと伝説の海2』放送記念 かくれんぼ",
@@ -14,7 +14,7 @@
         "かくれんぼ"
       ],
       "score": 5,
-      "id": "idea-2026-11-09-1"
+      "id": "idea-2026-11-10-1"
     },
     {
       "title": "金ロー『SING／シング』放送記念 かくれんぼ",
@@ -28,7 +28,7 @@
         "かくれんぼ"
       ],
       "score": 5,
-      "id": "idea-2026-11-09-2"
+      "id": "idea-2026-11-10-2"
     },
     {
       "title": "映画『バイオハザード』便乗 感染鬼",
@@ -42,7 +42,7 @@
         "ホラー"
       ],
       "score": 5,
-      "id": "idea-2026-11-09-3"
+      "id": "idea-2026-11-10-3"
     },
     {
       "title": "映画『ゴジラ-0.0』便乗 かくれんぼ",
@@ -56,7 +56,7 @@
         "サイエンスフィクション"
       ],
       "score": 5,
-      "id": "idea-2026-11-09-4"
+      "id": "idea-2026-11-10-4"
     },
     {
       "title": "映画『ヴェリティ／真実』便乗 増え鬼",
@@ -70,11 +70,25 @@
         "謎"
       ],
       "score": 5,
-      "id": "idea-2026-11-09-5"
+      "id": "idea-2026-11-10-5"
     },
     {
-      "title": "『ジャストダンス：ベストヒット』発売記念 なりきり鬼ごっこ",
-      "hook": "11/10(火) 発売の新作ゲームに便乗",
+      "title": "『Football Manager 27 Console （ダウンロード版）』発売記念 なりきり鬼ごっこ",
+      "hook": "11/11(水) 発売の新作ゲームに便乗",
+      "body": "話題の新作（XSX）のキャラ・世界観でリアル鬼ごっこ。発売日に合わせて投稿すると伸びやすい。",
+      "based_on": [
+        "ゲーム"
+      ],
+      "tags": [
+        "新作便乗",
+        "なりきり鬼"
+      ],
+      "score": 4,
+      "id": "idea-2026-11-10-6"
+    },
+    {
+      "title": "『メタファー：リファンタジオ』発売記念 なりきり鬼ごっこ",
+      "hook": "11/12(木) 発売の新作ゲームに便乗",
       "body": "話題の新作（Switch2）のキャラ・世界観でリアル鬼ごっこ。発売日に合わせて投稿すると伸びやすい。",
       "based_on": [
         "ゲーム"
@@ -84,26 +98,12 @@
         "なりきり鬼"
       ],
       "score": 4,
-      "id": "idea-2026-11-09-6"
-    },
-    {
-      "title": "『Minecraft Dungeons II』発売記念 なりきり鬼ごっこ",
-      "hook": "11/10(火) 発売の新作ゲームに便乗",
-      "body": "話題の新作（Switch）のキャラ・世界観でリアル鬼ごっこ。発売日に合わせて投稿すると伸びやすい。",
-      "based_on": [
-        "ゲーム"
-      ],
-      "tags": [
-        "新作便乗",
-        "なりきり鬼"
-      ],
-      "score": 4,
-      "id": "idea-2026-11-09-7"
+      "id": "idea-2026-11-10-7"
     },
     {
       "title": "マイクラ『Alex's Mobs』で鬼ごっこ",
       "hook": "Minecraftで流行中のMODを使って",
-      "body": "85+ New mobs with stylistic quality above the default game. … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
+      "body": "デフォルトのゲームを上回るスタイルの品質を備えた 85 以上の新しいモブ。 … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
       "based_on": [
         "Minecraft"
       ],
@@ -112,12 +112,12 @@
         "MOD活用"
       ],
       "score": 4,
-      "id": "idea-2026-11-09-8"
+      "id": "idea-2026-11-10-8"
     },
     {
       "title": "マイクラ『Mowzie's Mobs』で鬼ごっこ",
       "hook": "Minecraftで流行中のMODを使って",
-      "body": "Mowzie's Mobs adds a variety of fictional creatures to Minecraft, priding itself in unique AI, rich atmosphere, and fluid animations. Prove your might against new bosses and enemie … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
+      "body": "Mowzie's Mob は、Minecraft にさまざまな架空の生き物を追加し、ユニークな AI、豊かな雰囲気、流れるようなアニメーションを誇ります。新しいボスや敵に対して自分の力を証明し、彼らの魔法の能力を自分のものだと主張しましょう。 … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
       "based_on": [
         "Minecraft"
       ],
@@ -126,12 +126,12 @@
         "MOD活用"
       ],
       "score": 4,
-      "id": "idea-2026-11-09-9"
+      "id": "idea-2026-11-10-9"
     },
     {
       "title": "マイクラ『Macaw's Doors』で鬼ごっこ",
       "hook": "Minecraftで流行中のMODを使って",
-      "body": "Adds vanilla doors with every wood color and new unique doors!\nSuch as western, garage, shoji and more...! … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
+      "body": "すべての木の色のバニラドアと新しいユニークなドアを追加します。\nウエスタン、ガレージ、障子など…！ … このMODを鬼役や逃走ステージに使うと本格的な鬼ごっこに。",
       "based_on": [
         "Minecraft"
       ],
@@ -140,7 +140,7 @@
         "MOD活用"
       ],
       "score": 4,
-      "id": "idea-2026-11-09-10"
+      "id": "idea-2026-11-10-10"
     },
     {
       "title": "『DOORS（ドアーズ）』ごっこ鬼ごっこ",
@@ -154,7 +154,7 @@
         "トレンド"
       ],
       "score": 3,
-      "id": "idea-2026-11-09-11"
+      "id": "idea-2026-11-10-11"
     },
     {
       "title": "『イタリアンブレインロット』ごっこ鬼ごっこ",
@@ -168,7 +168,7 @@
         "トレンド"
       ],
       "score": 3,
-      "id": "idea-2026-11-09-12"
+      "id": "idea-2026-11-10-12"
     }
   ]
 }
