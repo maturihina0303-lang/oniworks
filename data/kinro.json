@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-12",
+  "updated_at": "2026-11-13",
   "items": [
     {
       "id": "kinro-20261113",
@@ -24,6 +24,22 @@
       "title": "SING／シング：ネクストステージ",
       "note": "金曜ロードショー",
       "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5620c8749b3f67297c1c12ff46a9af2b6438bac8.jpg",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261204",
+      "air_date": "2026-12-04",
+      "title": "シザーハンズ",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94584bddbf1ecb016fc8e5b2bf5bff9868a24468.jpg",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261211",
+      "air_date": "2026-12-11",
+      "title": "薬屋のひとりごと スペシャルエディション",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2b57c249646bb1bfd3aea45680e34c08aaf7a526.jpg",
       "source": "kinro.ntv.co.jp"
     }
   ]

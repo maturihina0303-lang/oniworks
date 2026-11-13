@@ -1,31 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-12",
+  "updated_at": "2026-11-13",
   "items": [
-    {
-      "id": "fami-62028",
-      "title": "Beast of Reincarnation （ダウンロード版）",
-      "release_date": "2026-08-04",
-      "platforms": [
-        "XSX"
-      ],
-      "genre": [],
-      "price": "7253円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72454",
-      "title": "ファイナルファンタジーXIV （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-08-04",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-69955",
       "title": "コットンロックウィズユー",
@@ -2735,6 +2711,30 @@
       ],
       "genre": [],
       "price": "4536円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72743",
+      "title": "ガンズ・オブ・エスカトン （PS Store ダウンロード版）",
+      "release_date": "2026-12-08",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4500円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72745",
+      "title": "ガンズ・オブ・エスカトン （Steam版）",
+      "release_date": "2026-12-09",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "",
       "image": "",
       "source": "ファミ通"
     },
