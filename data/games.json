@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-13",
+  "updated_at": "2026-11-14",
   "items": [
     {
       "id": "fami-69955",
@@ -2871,15 +2871,15 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72490",
-      "title": "Aeruta（アルタ）",
+      "id": "fami-72492",
+      "title": "Aeruta（アルタ） （PS Store ダウンロード版）",
       "release_date": "2026-12-10",
       "platforms": [
-        "Switch"
+        "PS4"
       ],
       "genre": [],
-      "price": "3500円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155680/36mcnMXO?w=200&h=200&func=bound&q=80",
+      "price": "",
+      "image": "",
       "source": "ファミ通"
     },
     {
@@ -3132,6 +3132,18 @@
       "genre": [],
       "price": "6000円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/156186/2ZsAec6A?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72490",
+      "title": "Aeruta（アルタ）",
+      "release_date": "2026-12-24",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3500円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155680/36mcnMXO?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3411,6 +3423,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72579",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド",
+      "release_date": "2027-02-04",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155840/J?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72183",
       "title": "朧村正怪奇譚 （Steam版）",
       "release_date": "2027-02-05",
@@ -3423,14 +3447,26 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72556",
-      "title": "メトロ2039 （PS Store ダウンロード版）",
+      "id": "fami-72557",
+      "title": "メトロ2039 （ダウンロード版）",
       "release_date": "2027-02-05",
       "platforms": [
-        "PS5"
+        "XSX"
       ],
       "genre": [],
-      "price": "",
+      "price": "8100円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72582",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド （Steam版）",
+      "release_date": "2027-02-05",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
       "image": "",
       "source": "ファミ通"
     },
@@ -3447,18 +3483,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72579",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド",
-      "release_date": "2027-02-16",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "6800円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-72609",
       "title": "遊戯王 TAG FORCE GX",
       "release_date": "2027-02-16",
@@ -3468,30 +3492,6 @@
       "genre": [],
       "price": "4500円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155908/JnQr9BY?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72670",
-      "title": "ゴッド・オブ・ウォー ラウフェイ",
-      "release_date": "2027-02-16",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "8164円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/156099/5MNwyycV?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72582",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド （Steam版）",
-      "release_date": "2027-02-17",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "6800円[税抜]",
-      "image": "",
       "source": "ファミ通"
     },
     {
