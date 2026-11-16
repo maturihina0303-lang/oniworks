@@ -1,31 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-15",
+  "updated_at": "2026-11-16",
   "items": [
-    {
-      "id": "fami-62007",
-      "title": "MARVEL: Tōkon Fighting Souls （Steam版）",
-      "release_date": "2026-08-07",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "7256円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72539",
-      "title": "John Fox （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-08-07",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "818円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-72544",
       "title": "John Fox （Steam版）",
@@ -2571,30 +2547,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72743",
-      "title": "ガンズ・オブ・エスカトン （PS Store ダウンロード版）",
-      "release_date": "2026-12-08",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "4500円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72745",
-      "title": "ガンズ・オブ・エスカトン （Steam版）",
-      "release_date": "2026-12-09",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-50019",
       "title": "レイトン教授と蒸気の新世界",
       "release_date": "2026-12-10",
@@ -2727,15 +2679,15 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72492",
-      "title": "Aeruta（アルタ） （PS Store ダウンロード版）",
+      "id": "fami-72490",
+      "title": "Aeruta（アルタ）",
       "release_date": "2026-12-10",
       "platforms": [
-        "PS4"
+        "Switch"
       ],
       "genre": [],
-      "price": "",
-      "image": "",
+      "price": "3500円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155680/36mcnMXO?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -2991,18 +2943,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72490",
-      "title": "Aeruta（アルタ）",
-      "release_date": "2026-12-24",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "3500円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155680/36mcnMXO?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-72703",
       "title": "大穢",
       "release_date": "2026-12-24",
@@ -3159,18 +3099,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-69504",
-      "title": "トロピコ 7 （ダウンロード版）",
-      "release_date": "2027-01-26",
-      "platforms": [
-        "XSX"
-      ],
-      "genre": [],
-      "price": "8164円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-71382",
       "title": "Forza Horizon 6",
       "release_date": "2027-01-27",
@@ -3178,7 +3106,7 @@
         "PS5"
       ],
       "genre": [],
-      "price": "8909円[税抜]",
+      "price": "",
       "image": "",
       "source": "ファミ通"
     },
@@ -3204,18 +3132,6 @@
       "genre": [],
       "price": "4500円[税抜]",
       "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-69503",
-      "title": "トロピコ 7 デラックスエディション",
-      "release_date": "2027-01-28",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "8163円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/151721/2nOw7lek?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3279,18 +3195,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72739",
-      "title": "VIRTUAL ENCORE",
-      "release_date": "2027-01-28",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "4000円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/156248/N0BfWnrk?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-72180",
       "title": "朧村正怪奇譚",
       "release_date": "2027-02-04",
@@ -3315,18 +3219,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72579",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド",
-      "release_date": "2027-02-04",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "6800円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155840/J?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-72183",
       "title": "朧村正怪奇譚 （Steam版）",
       "release_date": "2027-02-05",
@@ -3339,26 +3231,14 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72557",
-      "title": "メトロ2039 （ダウンロード版）",
+      "id": "fami-72556",
+      "title": "メトロ2039 （PS Store ダウンロード版）",
       "release_date": "2027-02-05",
       "platforms": [
-        "XSX"
+        "PS5"
       ],
       "genre": [],
-      "price": "8100円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72582",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド （Steam版）",
-      "release_date": "2027-02-05",
-      "platforms": [
-        "PC"
-      ],
-      "genre": [],
-      "price": "6800円[税抜]",
+      "price": "",
       "image": "",
       "source": "ファミ通"
     },
@@ -3375,6 +3255,18 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72579",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド",
+      "release_date": "2027-02-16",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72609",
       "title": "遊戯王 TAG FORCE GX",
       "release_date": "2027-02-16",
@@ -3387,6 +3279,30 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72670",
+      "title": "ゴッド・オブ・ウォー ラウフェイ",
+      "release_date": "2027-02-16",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8164円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156099/5MNwyycV?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72582",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド （Steam版）",
+      "release_date": "2027-02-17",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "6800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-62008",
       "title": "ペルソナ4 リバイバル （ダウンロード版）",
       "release_date": "2027-02-18",
@@ -3395,6 +3311,18 @@
       ],
       "genre": [],
       "price": "9000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72240",
+      "title": "Fable",
+      "release_date": "2027-02-24",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "8909円[税抜]",
       "image": "",
       "source": "ファミ通"
     }
