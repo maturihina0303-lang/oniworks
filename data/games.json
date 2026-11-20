@@ -1,16 +1,16 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-19",
+  "updated_at": "2026-11-20",
   "items": [
     {
       "id": "fami-69635",
-      "title": "The Elder Scrolls IV: Oblivion Remastered",
-      "release_date": "2026-08-11",
+      "title": "The Elder Scrolls IV: Oblivion Remastered （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2026-08-12",
       "platforms": [
         "Switch2"
       ],
       "genre": [],
-      "price": "6600円[税抜]",
+      "price": "5500円[税抜]",
       "image": "",
       "source": "ファミ通"
     },
@@ -3264,6 +3264,18 @@
       "genre": [],
       "price": "4000円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/156248/N0BfWnrk?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-69505",
+      "title": "トロピコ 7 （Steam版）",
+      "release_date": "2027-01-29",
+      "platforms": [
+        "PC"
+      ],
+      "genre": [],
+      "price": "8164円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
