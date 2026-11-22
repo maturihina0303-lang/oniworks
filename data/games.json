@@ -1,43 +1,7 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-21",
+  "updated_at": "2026-11-22",
   "items": [
-    {
-      "id": "fami-72503",
-      "title": "コンソールアーカイブス 闘姫伝承 ANGEL EYES （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-08-13",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1091円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72515",
-      "title": "アーケードアーカイブス2 ピンボールアクション （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-08-13",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1000円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72519",
-      "title": "アーケードアーカイブス2 ビーチバレー V'BALL （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-08-13",
-      "platforms": [
-        "Switch2"
-      ],
-      "genre": [],
-      "price": "1000円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
     {
       "id": "fami-72334",
       "title": "Hell Let Loose： Vietnam （Steam版）",
@@ -3252,6 +3216,102 @@
       "genre": [],
       "price": "4000円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/156248/N0BfWnrk?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72752",
+      "title": "デジタル表示器コレクション 500系新幹線メモリアル",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156297/Mx5V6sIf?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72753",
+      "title": "鬼忍降魔録 ONI （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "1800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72754",
+      "title": "ONI II 隠忍伝説 （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "1800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72755",
+      "title": "ONI III 黒の破壊神 （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "1800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72756",
+      "title": "ONI IV 鬼神の血族 （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "1800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72757",
+      "title": "ONI V 隠忍を継ぐ者 （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "1800円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72758",
+      "title": "鬼神降臨伝 ONI （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "2700円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72759",
+      "title": "幕末降臨伝 ONI （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "2700円[税抜]",
+      "image": "",
       "source": "ファミ通"
     },
     {
