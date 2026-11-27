@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "items": [
     {
       "id": "kinro-20261127",
@@ -24,6 +24,14 @@
       "title": "薬屋のひとりごと スペシャルエディション",
       "note": "金曜ロードショー",
       "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2b57c249646bb1bfd3aea45680e34c08aaf7a526.jpg",
+      "source": "kinro.ntv.co.jp"
+    },
+    {
+      "id": "kinro-20261218",
+      "air_date": "2026-12-18",
+      "title": "ミッキーのクリスマススペシャル",
+      "note": "金曜ロードショー",
+      "image": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a7736824313c4e048be4f240675350091791be68.jpg",
       "source": "kinro.ntv.co.jp"
     }
   ]
