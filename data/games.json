@@ -1,6 +1,6 @@
 {
   "_note": "自動生成",
-  "updated_at": "2026-11-27",
+  "updated_at": "2026-11-28",
   "items": [
     {
       "id": "fami-59148",
@@ -2187,18 +2187,6 @@
       "source": "ファミ通"
     },
     {
-      "id": "fami-72469",
-      "title": "君色パトラIF （ニンテンドーeショップ ダウンロード版）",
-      "release_date": "2026-11-26",
-      "platforms": [
-        "Switch"
-      ],
-      "genre": [],
-      "price": "3000円[税抜]",
-      "image": "",
-      "source": "ファミ通"
-    },
-    {
       "id": "fami-72472",
       "title": "超翼戦騎エスティーク",
       "release_date": "2026-11-26",
@@ -2316,6 +2304,18 @@
       "genre": [],
       "price": "4227円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/156054/yLJpsUFp?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72763",
+      "title": "Hela：ちいさなねずみと魔法の森",
+      "release_date": "2026-12-01",
+      "platforms": [
+        "Switch2"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156308/StgOGP6n?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -2604,18 +2604,6 @@
       "genre": [],
       "price": "7800円[税抜]",
       "image": "https://image.kagali.kgl-systems.io/item/155461/mx5R?w=200&h=200&func=bound&q=80",
-      "source": "ファミ通"
-    },
-    {
-      "id": "fami-72486",
-      "title": "Caladrius2/Dark Element（カラドリウス2/ダークエレメント）",
-      "release_date": "2026-12-10",
-      "platforms": [
-        "PS5"
-      ],
-      "genre": [],
-      "price": "5980円[税抜]",
-      "image": "https://image.kagali.kgl-systems.io/item/155676/fSbc0GO9?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
@@ -3135,6 +3123,30 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72469",
+      "title": "君色パトラIF （ニンテンドーeショップ ダウンロード版）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "3000円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72486",
+      "title": "Caladrius2/Dark Element（カラドリウス2/ダークエレメント）",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "5980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/155676/fSbc0GO9?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-72578",
       "title": "メトロイド ラヴェナス",
       "release_date": "2027-01-28",
@@ -3291,6 +3303,90 @@
       "source": "ファミ通"
     },
     {
+      "id": "fami-72769",
+      "title": "鬼忍降魔録 ONIからONI V 隠忍を継ぐ者 5タイトルパック",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "8000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156321/uIE3Pv9N?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72770",
+      "title": "鬼神降臨伝 ONIと幕末降臨伝 ONI 2タイトルパック",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "5400円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156322/CfbA4iqE?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72771",
+      "title": "鬼神降魔録 ONIから幕末降臨伝 ONI 7タイトルパック 初回限定特装版",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "19980円[税抜]",
+      "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72772",
+      "title": "ARIA BLUE I.夏音",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156324/OVrri?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72775",
+      "title": "UNDERGROUNDED",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156333/jvpZaGow?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72777",
+      "title": "Until Dawn 2 -祟り島の惨劇-",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4982円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156336/p7Ii?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-72778",
+      "title": "イエロークリーク物語小屋の番人",
+      "release_date": "2027-01-28",
+      "platforms": [
+        "PS5"
+      ],
+      "genre": [],
+      "price": "4000円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156339/XBzVAc7Z?w=200&h=200&func=bound&q=80",
+      "source": "ファミ通"
+    },
+    {
       "id": "fami-69505",
       "title": "トロピコ 7 （Steam版）",
       "release_date": "2027-01-29",
@@ -3420,6 +3516,18 @@
       "genre": [],
       "price": "8909円[税抜]",
       "image": "",
+      "source": "ファミ通"
+    },
+    {
+      "id": "fami-54324",
+      "title": "ファンタジスタ明日翔",
+      "release_date": "2027-02-25",
+      "platforms": [
+        "Switch"
+      ],
+      "genre": [],
+      "price": "4980円[税抜]",
+      "image": "https://image.kagali.kgl-systems.io/item/156319/WdMVGV?w=200&h=200&func=bound&q=80",
       "source": "ファミ通"
     },
     {
